@@ -1,0 +1,58 @@
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( 8264 6800 0 ) ( -7352 6800 0 ) ( -7352 -5616 0 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+( -7352 -5616 24 ) ( -7352 6800 24 ) ( 8264 6800 24 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+( -7352 -5616 24 ) ( 8264 -5616 24 ) ( 8264 -5616 0 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+( 8264 -5616 24 ) ( 8264 6800 24 ) ( 8264 6800 0 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+( 8264 6800 24 ) ( -7352 6800 24 ) ( -7352 6800 0 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+( -7352 6800 24 ) ( -7352 -5616 24 ) ( -7352 -5616 0 ) nod/MS_Ground_Base_01 0 0 0 1.000000 1.000000 0 0 0
+}
+// brush 1
+{
+( 80 -128 24 ) ( -80 -128 24 ) ( -80 -144 24 ) common/caulk -24 48 0 1.000000 1.000000 0 0 0
+( -80 -144 120 ) ( -80 -128 120 ) ( 80 -128 120 ) common/caulk -24 48 0 1.000000 1.000000 0 0 0
+( -80 -144 120 ) ( 80 -144 120 ) ( 80 -144 24 ) common/caulk -24 0 0 1.000000 1.000000 0 0 0
+( 80 -144 120 ) ( 80 -128 120 ) ( 80 -128 24 ) common/caulk -48 0 0 1.000000 1.000000 0 0 0
+( 80 -128 120 ) ( -80 -128 120 ) ( -80 -128 24 ) common/caulk -24 0 0 1.000000 1.000000 0 0 0
+( -80 -128 120 ) ( -80 -144 120 ) ( -80 -144 24 ) common/caulk -48 0 0 1.000000 1.000000 0 0 0
+}
+}
+// entity 1
+{
+"model" "3d/models/zealot.nod"
+"modelscale" "32"
+"origin" "0 0 32"
+"classname" "misc_model"
+}
+// entity 2
+{
+"model" "3d/models/dragoon.nod"
+"modelscale" "32"
+"origin" "160 -16 40"
+"classname" "misc_model"
+}
+// entity 3
+{
+"classname" "misc_model"
+"origin" "-160 -16 24"
+"modelscale" "32"
+"model" "3d/models/ar_hyberchamber.nod"
+}
+// entity 4
+{
+"classname" "misc_model"
+"origin" "-320 104 24"
+"modelscale" "32"
+"model" "3d/models/ar_tree_01.nod"
+}
+// entity 5
+{
+"angles" "-0 135 0"
+"classname" "misc_model"
+"origin" "248 408 40"
+"modelscale" "32"
+"model" "3d/models/siegetank.nod"
+}

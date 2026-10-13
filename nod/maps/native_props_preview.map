@@ -1,0 +1,52 @@
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( -256 192 -16 ) ( 256 192 -16 ) ( 256 192 0 ) nod/placeholder 0 0 0 1.000000 1.000000 0 0 0
+( -256 -192 -16 ) ( -256 -192 0 ) ( 256 -192 0 ) nod/placeholder 0 0 0 1.000000 1.000000 0 0 0
+( 256 -192 -16 ) ( 256 -192 0 ) ( 256 192 0 ) nod/placeholder 0 0 0 1.000000 1.000000 0 0 0
+( -256 -192 -16 ) ( -256 192 -16 ) ( -256 192 0 ) nod/placeholder 0 0 0 1.000000 1.000000 0 0 0
+( -256 -192 0 ) ( -256 192 0 ) ( 256 192 0 ) nod/GE_warnStripeDecal_yel 0 0 0 1.000000 1.000000 0 0 0
+( -256 -192 -16 ) ( 256 -192 -16 ) ( 256 192 -16 ) nod/placeholder 0 0 0 1.000000 1.000000 0 0 0
+}
+}
+// entity 1
+{
+"angles" "0 0 0"
+"origin" "-192 0 64"
+"classname" "ghost"
+}
+// entity 2
+{
+"modelscale" "32"
+"angles" "0 45 0"
+"origin" "0 -96 0"
+"model" "3D/Models/AB_crateSmall_01.nod"
+"classname" "misc_model"
+}
+// entity 3
+{
+"modelscale_vec" "32 32 32"
+"angles" "0 180 0"
+"origin" "0 0 0"
+"model" "3D/Models/nova.nod"
+"classname" "misc_model"
+}
+// entity 4
+{
+"modelscale" "32"
+"angles" "0 180 0"
+"origin" "0 96 0"
+"_frame" "6"
+"model" "3D/Models/1_2_1a_Miners_Bunker.nmb"
+"classname" "misc_model"
+}
+// entity 5
+{
+"classname" "misc_model"
+"model" "3D/Models/AB_crateSmall_01.nod"
+"origin" "-112 56 0"
+"angles" "0 45 0"
+"modelscale" "32"
+}
