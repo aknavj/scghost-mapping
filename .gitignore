@@ -1,0 +1,26 @@
+# Native assets, source archives, and compiled level outputs.
+*.nil
+*.nsd
+*.npd
+*.nmb
+*.nod
+*.nodsrc
+
+# Generated game-level exports; keep hand-authored MAP files visible.
+/nod/maps/miner_bunker_source.map
+/nod/maps/miner_bunker_preview.map
+/nod/maps/[0-9]*_source.map
+/nod/maps/[0-9]*_preview.map
+/nod/maps/native_entity_inventory.json
+/nod/maps/native_entity_inventory.csv
+
+# Generated NIL meshes and optional legacy OBJ/texture previews.
+/nod/models/nodpreview/
+/nod/textures/nodpreview/
+/nod/scripts/scene-preview.shader
+
+# Editor recovery files and logs.
+/nod/maps/autosave.map
+*.bak
+*.map~
+*.log

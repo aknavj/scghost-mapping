@@ -18,6 +18,15 @@ Placing this entity does not yet produce a playable spawn.
 /*QUAKED misc_model (0.6 0.8 0.4) (-8 -8 -8) (8 8 8)
 Editor-only static decoration prop. This is not an NSD entity type.
 
+In NODscene preview maps, nsd:<offset> aliases represent verified native entities;
+only origin, angles, and existing nod_sector may be edited.
+The nil:world alias (nod_role nil_geometry) previews static NIL geometry:
+ALL its fields, including origin and angles, are read-only. Do not add/delete.
+Version-5 aliases use direct NOD/NMB references and immutable _frame values.
+Only NIL static geometry retains an OBJ preview; all materials use textures/nod.
+The bridge preserves native units (scale 1). Do not add scale or remap keys to
+bridge aliases; those keys remain available for ordinary authoring props.
+
 "model" - VFS-relative NOD or NMB path, e.g. 3D/Models/example.nod.
 "_frame" - Zero-based NMB model-entry index. NOD uses 0.
 "origin" - Source position in editor Z-up coordinates.
@@ -29,5 +38,36 @@ Editor-only static decoration prop. This is not an NSD entity type.
 Models use source coordinates, native UVs and LOD 0. Skinned meshes are shown
 in rest pose; animation playback is not implemented. The original asset tree
 is read-only. Map saving preserves references, not copies of model geometry.
-Binary NOD/NSD export and coordinate conversion are not implemented.
+NODscene patches supported bridge edits back into archived NIL/NSD/NPD copies;
+new binary geometry and arbitrary new entity compilation are not implemented.
+*/
+
+/*QUAKED nod_scene (0.6 0.6 0.6) (-4 -4 -4) (4 4 4)
+Immutable NODscene source binding; do not edit, add, or delete.
+"nod_id" - Stable identity.
+"nod_schema" - Source/preview schema, including native-model version 5.
+"nod_sources" - Native source checksums.
+*/
+
+/*QUAKED nod_nil_sector (0.2 0.7 1) (-8 -8 -8) (8 8 8)
+Read-only sector center, flags, and portal count; not a decoded sector volume.
+*/
+
+/*QUAKED nod_nsd_entity (1 0.6 0.2) (-8 -8 -8) (8 8 8)
+Native scene point. Only origin, nod_rotation, and existing nod_sector are
+editable. Identity, type, region, asset, frame, and status are read-only.
+Trigger bounds/scripts remain opaque in the sidecar. The 16-unit selection
+marker is not a native bound and is not rotated by nod_rotation.
+*/
+
+/*QUAKED nod_npd_waypoint (0.2 1 0.4) (-4 -4 -4) (4 4 4)
+Native navigation-space waypoint; alignment with world space is unverified.
+Only origin, nod_flags, nod_color, and nod_extra are editable.
+The 8-unit box is a selection marker, not a native bound. Do not add/delete.
+*/
+
+/*QUAKED nod_npd_link (0.4 0.7 0.4) (-2 -2 -2) (2 2 2)
+Native adjacency metadata, not a rendered graph edge.
+Only nod_from, nod_to, nod_cost are editable; endpoints are record indices.
+Do not add/delete links.
 */

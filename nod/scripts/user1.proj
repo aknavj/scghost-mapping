@@ -7,6 +7,7 @@
   <key name="brush_primit" value="0"/>
   <key name="entitypath" value="C:/Users/aknavj/Desktop/git/aknavj/nod-radiant/scghost-mapping/nod/scripts/entities.def"/>
   <key name="basepath" value="C:/Users/aknavj/Desktop/git/aknavj/nod-radiant/scghost-mapping/nod/"/>
+  <key name="autosave" value="C:/Users/aknavj/Desktop/git/aknavj/nod-radiant/scghost-mapping/nod/maps/autosave.map"/>
   <key name="template_version" value="1"/>
   <key name="version" value="2"/>
 </project>
