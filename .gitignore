@@ -7,12 +7,18 @@
 *.nodsrc
 
 # Generated game-level exports; keep hand-authored MAP files visible.
-/nod/maps/miner_bunker_source.map
-/nod/maps/miner_bunker_preview.map
 /nod/maps/[0-9]*_source.map
 /nod/maps/[0-9]*_preview.map
-/nod/maps/native_entity_inventory.json
-/nod/maps/native_entity_inventory.csv
+/nod/maps/*.json
+/nod/maps/*.csv
+/nod/maps/*.bak
+
+# Generated catalog copy; the SDK owns the source definitions.
+/nod/scripts/nod_types.def
+
+# Local workspace backups and compiled exports.
+/nod/backups/
+/nod/compiled/
 
 # Generated NIL meshes and optional legacy OBJ/texture previews.
 /nod/models/nodpreview/
@@ -21,6 +27,9 @@
 
 # Editor recovery files and logs.
 /nod/maps/autosave.map
+*.nodeditor.xml
 *.bak
 *.map~
 *.log
+*.json
+*.csv

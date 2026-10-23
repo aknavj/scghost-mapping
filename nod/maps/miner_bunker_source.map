@@ -1,0 +1,10153 @@
+// NILtoMAP: source-preserving render preview
+{
+"classname" "worldspawn"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:0"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:1"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:2"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:3"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:4"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:5"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:6"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:7"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:8"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:9"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:10"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:11"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:12"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:13"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:14"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:15"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:16"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:17"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:18"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:19"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:20"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:21"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:22"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:23"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:24"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:25"
+"origin" "0 0 0"
+"nod_flags" "37"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:26"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:27"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:28"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:29"
+"origin" "0 0 0"
+"nod_flags" "36"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:30"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:31"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:32"
+"origin" "0 0 0"
+"nod_flags" "5"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:33"
+"origin" "0 0 0"
+"nod_flags" "5"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:34"
+"origin" "0 0 0"
+"nod_flags" "5"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:35"
+"origin" "0 0 0"
+"nod_flags" "5"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:36"
+"origin" "0 0 0"
+"nod_flags" "36"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:37"
+"origin" "0 0 0"
+"nod_flags" "5"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:38"
+"origin" "0 0 0"
+"nod_flags" "36"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nil_sector"
+"nod_id" "sector:39"
+"origin" "0 0 0"
+"nod_flags" "65573"
+"nod_portals" "6"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:92"
+"nod_type" "script_object"
+"origin" "-42 -92 -5"
+"nod_rotation" "0 0 0"
+"nod_sector" "32"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cCutscenePlay"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:477"
+"nod_type" "script_target"
+"origin" "-11.125 -41.625 3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:645"
+"nod_type" "script_target"
+"origin" "-39 35 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cEffectAdd"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:893"
+"nod_type" "script_target"
+"origin" "-101 -8 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cObjectRemove"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:1161"
+"nod_type" "script_target"
+"origin" "-101 -9 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:1665"
+"nod_type" "script_object"
+"origin" "-100 -10 3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cCutscenePlay"
+"nod_prop_46" "TANKRUSH"
+}
+{
+"classname" "nod_nsd_type_sparkfountain_5Ftest"
+"nod_id" "nsd:2079"
+"nod_type" "sparkfountain_test"
+"origin" "-66.375 -15.125 4"
+"nod_rotation" "0 90 0"
+"nod_sector" "39"
+"nod_prop_0" "sparkfountain_test"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:2247"
+"nod_type" "ghost"
+"origin" "-65.875 -14.625 2.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "blacksmoke_huge"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:2451"
+"nod_type" "script_target"
+"origin" "-11 -65.5 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_movetrack_5Fhull"
+"nod_id" "nsd:2619"
+"nod_type" "movetrack_hull"
+"origin" "-66.9375 -12.25 4.375"
+"nod_rotation" "0 0 -180"
+"nod_sector" "39"
+"nod_model" "1_2_1_BunkerDoor_Left"
+"nod_prop_0" "movetrack_hull"
+"nod_prop_4" "1_2_1_BunkerDoor_Left"
+"nod_prop_15" "cDoorMove"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:3003"
+"nod_type" "script_object"
+"origin" "-45.5 -73.5 -4.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "25"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cSoundStinger"
+}
+{
+"classname" "nod_nsd_type_powhealth"
+"nod_id" "nsd:3379"
+"nod_type" "powhealth"
+"origin" "-15.125 -83.625 -2.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "powhealth"
+}
+{
+"classname" "nod_nsd_type_powgauss_5F2x"
+"nod_id" "nsd:3547"
+"nod_type" "powgauss_2x"
+"origin" "-26.25 -83.625 -2.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "powgauss_2x"
+}
+{
+"classname" "nod_nsd_type_powterran"
+"nod_id" "nsd:3715"
+"nod_type" "powterran"
+"origin" "-28 -83.5 -3.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "powterran"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:3883"
+"nod_type" "trigger_region"
+"origin" "-44.3125 -86.9375 -5.125"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionSound"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-1.8125 -2.0625 -1.875"
+"nod_bounds_max" "1.8125 2.0625 1.875"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionSound"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:5229"
+"nod_type" "trigger_region"
+"origin" "-35.5 -93.5 -2.5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionSound"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-11.5 -4.5 -5.5"
+"nod_bounds_max" "11.5 4.5 5.5"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionSound"
+}
+{
+"classname" "nod_nsd_type_hydraliskrushing_5Fnohibstart"
+"nod_id" "nsd:6591"
+"nod_type" "hydraliskrushing_nohibstart"
+"origin" "-56.125 -5.75 1.5625"
+"nod_rotation" "0 0 195"
+"nod_sector" "39"
+"nod_prop_0" "hydraliskrushing_nohibstart"
+}
+{
+"classname" "nod_nsd_type_marine_5Fdead2"
+"nod_id" "nsd:6759"
+"nod_type" "marine_dead2"
+"origin" "-28.875 -70.25 -6.75"
+"nod_rotation" "0 0 270"
+"nod_sector" "23"
+"nod_prop_0" "marine_dead2"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:6927"
+"nod_type" "trigger_region"
+"origin" "-44.5 -83.3125 -5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.5 -1.3125 -2"
+"nod_bounds_max" "2.5 1.3125 2"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:8375"
+"nod_type" "script_target"
+"origin" "-31.75 -71.625 -4.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "24"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:8543"
+"nod_type" "marinesidekick"
+"origin" "-44.625 -71.625 -6.5"
+"nod_rotation" "0 0 270"
+"nod_sector" "25"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:8843"
+"nod_type" "trigger_region"
+"origin" "-25.5 0.5 4.5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM121_ExplosionDeterrent"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-14.5 -30.5 -8.5"
+"nod_bounds_max" "14.5 30.5 8.5"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM121_ExplosionDeterrent"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:10147"
+"nod_type" "script_object"
+"origin" "-35.5 -9 -2.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_1_5F2_5F1_5Fnyduscanal"
+"nod_id" "nsd:10392"
+"nod_type" "1_2_1_nyduscanal"
+"origin" "-39 36 3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "1_2_1_nyduscanal"
+}
+{
+"classname" "nod_nsd_type_movetrack_5Fnocfile"
+"nod_id" "nsd:10560"
+"nod_type" "movetrack_nocfile"
+"origin" "-26 -94.25 -3.125"
+"nod_rotation" "0 0 0"
+"nod_sector" "35"
+"nod_model" "1_2_1_ElevatorInterior_01"
+"nod_prop_0" "movetrack_nocfile"
+"nod_prop_4" "1_2_1_ElevatorInterior_01"
+"nod_prop_15" "cDoorMove"
+}
+{
+"classname" "nod_nsd_type_instance_5Fhull"
+"nod_id" "nsd:10944"
+"nod_type" "instance_hull"
+"origin" "-47 -40 -3.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "AntiAirgun_Base"
+"nod_prop_0" "instance_hull"
+"nod_prop_4" "AntiAirgun_Base"
+}
+{
+"classname" "nod_nsd_type_antiairgun"
+"nod_id" "nsd:11624"
+"nod_type" "antiairgun"
+"origin" "-47 -40 -2.625"
+"nod_rotation" "60 0 0"
+"nod_sector" "39"
+"nod_prop_0" "antiairgun"
+"nod_prop_15" "cAATurret"
+}
+{
+"classname" "nod_nsd_type_powhealth"
+"nod_id" "nsd:11876"
+"nod_type" "powhealth"
+"origin" "-38.875 -90.5 -6.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "34"
+"nod_prop_0" "powhealth"
+}
+{
+"classname" "nod_nsd_type_powgrenade"
+"nod_id" "nsd:12044"
+"nod_type" "powgrenade"
+"origin" "-26.5 -91 -6.75"
+"nod_rotation" "0 0 0"
+"nod_sector" "34"
+"nod_prop_0" "powgrenade"
+}
+{
+"classname" "nod_nsd_type_powgauss_5F2x"
+"nod_id" "nsd:12220"
+"nod_type" "powgauss_2x"
+"origin" "-43.5 -95.125 -6.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "32"
+"nod_prop_0" "powgauss_2x"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:12388"
+"nod_type" "trigger_region"
+"origin" "-68.9999695 26.5000019 15.5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cLevelChange"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-4.00003052 -5.50000191 -3.5"
+"nod_bounds_max" "3.99996948 5.49999809 3.5"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cLevelChange"
+}
+{
+"classname" "nod_nsd_type_powgauss"
+"nod_id" "nsd:13741"
+"nod_type" "powgauss"
+"origin" "-25.5 -57.625 -6.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "21"
+"nod_prop_0" "powgauss"
+}
+{
+"classname" "nod_nsd_type_movetrack_5Fhull"
+"nod_id" "nsd:13909"
+"nod_type" "movetrack_hull"
+"origin" "-39.125 41 2.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "1_2_1_GateLeft"
+"nod_prop_0" "movetrack_hull"
+"nod_prop_4" "1_2_1_GateLeft"
+"nod_prop_15" "cDoorMove"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:14237"
+"nod_type" "trigger_region"
+"origin" "-44.1875 -78 -5.375"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionSave"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.6875 -0.875 -1.625"
+"nod_bounds_max" "2.6875 0.875 1.625"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionSave"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget_5Ftrack"
+"nod_id" "nsd:15553"
+"nod_type" "script_target_track"
+"origin" "-37 -26 -1.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target_track"
+"nod_prop_15" "cObjectMove"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:15909"
+"nod_type" "script_object"
+"origin" "-41.375 -17.375 5.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_hackconsole_5Ffloor_5Factivate"
+"nod_id" "nsd:16441"
+"nod_type" "hackconsole_floor_activate"
+"origin" "-25.375 -92.25 -2.875"
+"nod_rotation" "0 0 180"
+"nod_sector" "35"
+"nod_prop_0" "hackconsole_floor_activate"
+"nod_prop_15" "cButton"
+"nod_prop_47" "ACTIVATE_LIFT"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:19530"
+"nod_type" "instance_model"
+"origin" "-36.5 -72 -2.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchBridge_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "121_TrenchBridge_01"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject_5Ftrack"
+"nod_id" "nsd:20938"
+"nod_type" "script_object_track"
+"origin" "-23.75 -23.25 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object_track"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:21106"
+"nod_type" "marinesidekick"
+"origin" "-18.75 -40 -3.25"
+"nod_rotation" "0 0 15"
+"nod_sector" "39"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:21350"
+"nod_type" "zerglingnormal"
+"origin" "-10.125 -71 -6.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "22"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_wire_5Fdynamic_5Fslide"
+"nod_id" "nsd:21594"
+"nod_type" "wire_dynamic_slide"
+"origin" "-3.875 -54.3125 11.1875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "wire_dynamic_slide"
+}
+{
+"classname" "nod_nsd_type_ladder_5Fdynamic"
+"nod_id" "nsd:21818"
+"nod_type" "ladder_dynamic"
+"origin" "-49.5 -31.0625 0.25"
+"nod_rotation" "-360 -360 -180"
+"nod_sector" "39"
+"nod_prop_0" "ladder_dynamic"
+}
+{
+"classname" "nod_nsd_type_ladder_5Fdynamic"
+"nod_id" "nsd:22090"
+"nod_type" "ladder_dynamic"
+"origin" "-9.5 -38.4375 -1.5625"
+"nod_rotation" "-360 -360 -360"
+"nod_sector" "39"
+"nod_prop_0" "ladder_dynamic"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladder3mx_5F01"
+"nod_id" "nsd:22362"
+"nod_type" "ge_ladder3mx_01"
+"origin" "-49.5 -31.0625 -3.1875"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ge_ladder3mx_01"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladdermain_5F01"
+"nod_id" "nsd:24294"
+"nod_type" "ge_laddermain_01"
+"origin" "-49.5 -31.0625 -0.1875"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ge_laddermain_01"
+}
+{
+"classname" "nod_nsd_type_ms_5Fradartower"
+"nod_id" "nsd:27474"
+"nod_type" "ms_radartower"
+"origin" "-3.375 -54.875 7.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ms_radartower"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:27642"
+"nod_type" "trigger_region"
+"origin" "-27 -28.5 -1.5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionKillZerg"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-24.5 -5 -2.5"
+"nod_bounds_max" "24.5 5 2.5"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionKillZerg"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:28990"
+"nod_type" "script_object"
+"origin" "-39.625 31.5 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:29374"
+"nod_type" "marinesidekick"
+"origin" "-11.125 -46.875 3"
+"nod_rotation" "0 0 30"
+"nod_sector" "39"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cAIPause"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:29610"
+"nod_type" "instance_model"
+"origin" "-52 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:32346"
+"nod_type" "instance_model"
+"origin" "-44 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:35082"
+"nod_type" "instance_model"
+"origin" "-28 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:37818"
+"nod_type" "instance_model"
+"origin" "-12 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:40554"
+"nod_type" "instance_model"
+"origin" "-5 -36 -3.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:43290"
+"nod_type" "instance_model"
+"origin" "-5 -28 -3.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:46026"
+"nod_type" "instance_model"
+"origin" "-5 -53 -3.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:48762"
+"nod_type" "script_object"
+"origin" "-39 31.5 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:49146"
+"nod_type" "script_object"
+"origin" "-38.625 32.125 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladder3mx_5F01"
+"nod_id" "nsd:49530"
+"nod_type" "ge_ladder3mx_01"
+"origin" "-9.5 -38.4375 -3.5625"
+"nod_rotation" "0 0 270"
+"nod_sector" "8"
+"nod_prop_0" "ge_ladder3mx_01"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladdermain_5F01"
+"nod_id" "nsd:51462"
+"nod_type" "ge_laddermain_01"
+"origin" "-9.5 -38.4375 -0.5625"
+"nod_rotation" "0 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ge_laddermain_01"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladder3mx_5F01"
+"nod_id" "nsd:54642"
+"nod_type" "ge_ladder3mx_01"
+"origin" "-9.5 -38.4375 -6.5625"
+"nod_rotation" "0 0 270"
+"nod_sector" "8"
+"nod_prop_0" "ge_ladder3mx_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:56574"
+"nod_type" "instance_nocfile"
+"origin" "-9.5 -34.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:59186"
+"nod_type" "instance_nocfile"
+"origin" "-17 -45.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:61798"
+"nod_type" "instance_nocfile"
+"origin" "-9.5 -53 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:64410"
+"nod_type" "instance_nocfile"
+"origin" "-44.5 -45.5 0"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:67022"
+"nod_type" "instance_nocfile"
+"origin" "-44.5 -71.5 0"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:69634"
+"nod_type" "instance_nocfile"
+"origin" "-44.5 -60.5 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:72246"
+"nod_type" "instance_nocfile"
+"origin" "-17 -53 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:74858"
+"nod_type" "instance_nocfile"
+"origin" "-9.5 -60.5 0"
+"nod_rotation" "0 0 270"
+"nod_sector" "39"
+"nod_model" "121_TrenchCorner_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCorner_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:77470"
+"nod_type" "instance_nocfile"
+"origin" "-34.5 -45.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchLong_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchLong_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:80006"
+"nod_type" "instance_nocfile"
+"origin" "-34.5 -60.5 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_TrenchLong_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchLong_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:82542"
+"nod_type" "instance_nocfile"
+"origin" "-34.5 -71.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchLong_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchLong_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:85078"
+"nod_type" "instance_nocfile"
+"origin" "-32 -34.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:86462"
+"nod_type" "instance_nocfile"
+"origin" "-39.5 -34.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:87846"
+"nod_type" "instance_nocfile"
+"origin" "-17 -34.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:89230"
+"nod_type" "instance_nocfile"
+"origin" "-17 -60.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:90614"
+"nod_type" "instance_nocfile"
+"origin" "-14.5 -71.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchLong_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchLong_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:93150"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -34.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_Trench3Way_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_Trench3Way_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:97134"
+"nod_type" "instance_nocfile"
+"origin" "-9.5 -38.25 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchCap_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCap_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:98458"
+"nod_type" "instance_nocfile"
+"origin" "-8.25 -71.5 0"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "121_TrenchCap_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCap_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:99782"
+"nod_type" "instance_nocfile"
+"origin" "-43.25 -34.5 0"
+"nod_rotation" "0 0 270"
+"nod_sector" "39"
+"nod_model" "121_TrenchCap_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCap_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:101106"
+"nod_type" "instance_nocfile"
+"origin" "-44.5 -79 0"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:102490"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -45.5 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_Trench3Way_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_Trench3Way_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:106474"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -71.5 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_Trench3Way_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_Trench3Way_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:110458"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -64 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_02"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_02"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:111166"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -38 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_02"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_02"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:111874"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -56.75 0"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_model" "121_TrenchCap_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchCap_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:113198"
+"nod_type" "instance_nocfile"
+"origin" "-24.5 -60.5 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_Trench4Way_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_Trench4Way_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:116898"
+"nod_type" "instance_nocfile"
+"origin" "-44.5 -53 0"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_model" "121_TrenchShort_01"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "121_TrenchShort_01"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:118282"
+"nod_type" "zerglingnormal"
+"origin" "-39 -60.5 -6.5"
+"nod_rotation" "0 0 270"
+"nod_sector" "17"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:118582"
+"nod_type" "zerglingnormal"
+"origin" "-9.375 -53.5 -6.5"
+"nod_rotation" "0 0 180"
+"nod_sector" "4"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cZergBurrow"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:118810"
+"nod_type" "zerglingnormal"
+"origin" "-45.125 -51.5 -6.5"
+"nod_rotation" "0 0 180"
+"nod_sector" "6"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cZergBurrow"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:119038"
+"nod_type" "zerglingnormal"
+"origin" "-36.25 -35 -6.5"
+"nod_rotation" "0 0 270"
+"nod_sector" "9"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:119366"
+"nod_type" "marinesidekick"
+"origin" "-42.25 -39.75 -3.25"
+"nod_rotation" "0 0 -15"
+"nod_sector" "39"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:119610"
+"nod_type" "marinesidekick"
+"origin" "-23.25 -50.5 -3.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject_5Ftrack"
+"nod_id" "nsd:119854"
+"nod_type" "script_object_track"
+"origin" "-35 -23 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object_track"
+}
+{
+"classname" "nod_nsd_type_bunkergun"
+"nod_id" "nsd:120022"
+"nod_type" "bunkergun"
+"origin" "-28 -83.4375 1.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "bunkergun"
+"nod_prop_15" "cTurretBlindFire"
+}
+{
+"classname" "nod_nsd_type_bunkergun"
+"nod_id" "nsd:120258"
+"nod_type" "bunkergun"
+"origin" "-15 -45.9375 0"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "bunkergun"
+"nod_prop_15" "cTurretBlindFire"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:120494"
+"nod_type" "instance_model"
+"origin" "-36.5 -60 -2.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchBridge_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "121_TrenchBridge_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:121902"
+"nod_type" "instance_model"
+"origin" "-36.5 -46 -2.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "121_TrenchBridge_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "121_TrenchBridge_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:123310"
+"nod_type" "instance_model"
+"origin" "-20 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_instance_5Fmodel"
+"nod_id" "nsd:126046"
+"nod_type" "instance_model"
+"origin" "-36 -84 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "MS_BunkerFront_01"
+"nod_prop_0" "instance_model"
+"nod_prop_4" "MS_BunkerFront_01"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:128782"
+"nod_type" "trigger_region"
+"origin" "-43.5625 -71.5 -4.75"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-3.56249619 -2.625 -2.25"
+"nod_bounds_max" "3.5625 2.625 2.25"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:130230"
+"nod_type" "zerglingnormal"
+"origin" "-24.375 -66 -6.5"
+"nod_rotation" "0 0 180"
+"nod_sector" "20"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:130558"
+"nod_type" "zerglingnormal"
+"origin" "-24.5 -62.75 -6.75"
+"nod_rotation" "0 0 180"
+"nod_sector" "21"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cZergBurrow"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:130786"
+"nod_type" "trigger_region"
+"origin" "-24.5 -67.75 -4.75"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.5 -0.75 -2.25"
+"nod_bounds_max" "2.5 0.75 2.25"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:132234"
+"nod_type" "trigger_region"
+"origin" "-44.5 -52.625 -4.75"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.5 -2.625 -2.25"
+"nod_bounds_max" "2.5 2.625 2.25"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:133682"
+"nod_type" "trigger_region"
+"origin" "-10.25 -53.875 -4.75"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-3 -3.125 -2.25"
+"nod_bounds_max" "3 3.125 2.25"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:135134"
+"nod_type" "trigger_region"
+"origin" "-24.375 -41.5 -4.75"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.625 -0.75 -2.25"
+"nod_bounds_max" "2.625 0.75 2.25"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:136586"
+"nod_type" "script_object"
+"origin" "-47.375 -19.875 5.375"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_siegetank_5F121repair"
+"nod_id" "nsd:137118"
+"nod_type" "siegetank_121repair"
+"origin" "-77.125 -10.5 2.375"
+"nod_rotation" "0 0 270"
+"nod_sector" "39"
+"nod_prop_0" "siegetank_121repair"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:137342"
+"nod_type" "script_object"
+"origin" "-53.875 -48.5 1.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cM121_EscortSCV"
+}
+{
+"classname" "nod_nsd_type_scv121"
+"nod_id" "nsd:137890"
+"nod_type" "scv121"
+"origin" "-69.25 -46.75 1.25"
+"nod_rotation" "0 0 270"
+"nod_sector" "39"
+"nod_prop_0" "scv121"
+}
+{
+"classname" "nod_nsd_type_turret_5Fplayer"
+"nod_id" "nsd:138058"
+"nod_type" "turret_player"
+"origin" "-49.875 -16.125 3.5"
+"nod_rotation" "0 0 -15"
+"nod_sector" "39"
+"nod_prop_0" "turret_player"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:138226"
+"nod_type" "script_object"
+"origin" "-41.5 31.125 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:138610"
+"nod_type" "script_object"
+"origin" "-42.5 31.625 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:138994"
+"nod_type" "script_object"
+"origin" "-40.625 30.875 3.125"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cAIFightPath"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:139378"
+"nod_type" "script_object"
+"origin" "-38.625 -17.5 5.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:139903"
+"nod_type" "script_object"
+"origin" "-40.75 -19.5 5.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cCutscenePlay"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:140282"
+"nod_type" "script_object"
+"origin" "16.5 -87.5 24.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTracers"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget_5Ftrack"
+"nod_id" "nsd:140534"
+"nod_type" "script_target_track"
+"origin" "-12 -88 184"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_target_track"
+"nod_prop_15" "cObjectMove"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:141002"
+"nod_type" "script_object"
+"origin" "-71.375 -66.625 12.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTracers"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget_5Ftrack"
+"nod_id" "nsd:141254"
+"nod_type" "script_target_track"
+"origin" "-92 -46 184"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_target_track"
+"nod_prop_15" "cObjectMove"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:141722"
+"nod_type" "script_object"
+"origin" "14.5 -21.5 24.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTracers"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget_5Ftrack"
+"nod_id" "nsd:141974"
+"nod_type" "script_target_track"
+"origin" "-14 -5 184"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_target_track"
+"nod_prop_15" "cObjectMove"
+}
+{
+"classname" "nod_nsd_type_movetrack_5Fhull"
+"nod_id" "nsd:142442"
+"nod_type" "movetrack_hull"
+"origin" "-39.125 41 2.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_model" "1_2_1_GateRight"
+"nod_prop_0" "movetrack_hull"
+"nod_prop_4" "1_2_1_GateRight"
+"nod_prop_15" "cDoorMove"
+}
+{
+"classname" "nod_nsd_type_powgauss"
+"nod_id" "nsd:142826"
+"nod_type" "powgauss"
+"origin" "-23.5 -57.625 -6.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "21"
+"nod_prop_0" "powgauss"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladdermain_5F01"
+"nod_id" "nsd:142994"
+"nod_type" "ge_laddermain_01"
+"origin" "-7 -43.4375 4.4375"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ge_laddermain_01"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladder3mx_5F01"
+"nod_id" "nsd:146174"
+"nod_type" "ge_ladder3mx_01"
+"origin" "-7 -43.4375 1.4375"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ge_ladder3mx_01"
+}
+{
+"classname" "nod_nsd_type_ladder_5Fdynamic"
+"nod_id" "nsd:148106"
+"nod_type" "ladder_dynamic"
+"origin" "-7 -43.4375 5.6875"
+"nod_rotation" "-360 -360 -270"
+"nod_sector" "39"
+"nod_prop_0" "ladder_dynamic"
+}
+{
+"classname" "nod_nsd_type_powgauss_5F2x"
+"nod_id" "nsd:148378"
+"nod_type" "powgauss_2x"
+"origin" "-42.5 -95.125 -6.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "32"
+"nod_prop_0" "powgauss_2x"
+}
+{
+"classname" "nod_nsd_type_powgauss_5F2x"
+"nod_id" "nsd:148546"
+"nod_type" "powgauss_2x"
+"origin" "-41.5 -95.125 -6.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "32"
+"nod_prop_0" "powgauss_2x"
+}
+{
+"classname" "nod_nsd_type_powhealth"
+"nod_id" "nsd:148714"
+"nod_type" "powhealth"
+"origin" "-24.5 -57.625 -6.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "21"
+"nod_prop_0" "powhealth"
+}
+{
+"classname" "nod_nsd_type_powhealth"
+"nod_id" "nsd:148882"
+"nod_type" "powhealth"
+"origin" "-25.625 -40 -6.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "11"
+"nod_prop_0" "powhealth"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:149050"
+"nod_type" "script_object"
+"origin" "0.5 43.5 29.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cDummyProjectile"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:149305"
+"nod_type" "script_target"
+"origin" "-22 -86 16"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:149473"
+"nod_type" "script_object"
+"origin" "-23.75 1.25 -0.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:149718"
+"nod_type" "script_object"
+"origin" "-33 14.75 2.75"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:149963"
+"nod_type" "script_object"
+"origin" "-27.5 -20 -2.75"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:150208"
+"nod_type" "trigger_region"
+"origin" "-53.5 15 4.5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM121_ExplosionDeterrent"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-13.5 -16 -8.5"
+"nod_bounds_max" "13.5 16 8.5"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM121_ExplosionDeterrent"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:151508"
+"nod_type" "script_object"
+"origin" "-46.75 6.25 3.75"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:151753"
+"nod_type" "script_object"
+"origin" "-38.125 -20.625 5.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:152257"
+"nod_type" "trigger_region"
+"origin" "-9 -41.375 5.1875"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cCutscenePlay"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-5 -2.625 -2.3125"
+"nod_bounds_max" "5 2.625 2.3125"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cCutscenePlay"
+}
+{
+"classname" "nod_nsd_type_hydraliskrushing_5Fnohibstart"
+"nod_id" "nsd:153732"
+"nod_type" "hydraliskrushing_nohibstart"
+"origin" "-47.125 -5.625 1.375"
+"nod_rotation" "0 0 165"
+"nod_sector" "39"
+"nod_prop_0" "hydraliskrushing_nohibstart"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:153900"
+"nod_type" "marinesidekick"
+"origin" "-42.578125 -90.90625 -7"
+"nod_rotation" "0 0 180"
+"nod_sector" "32"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cAIPause"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:154136"
+"nod_type" "script_object"
+"origin" "-5.5 43.5 30.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cDummyProjectile"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:154391"
+"nod_type" "script_target"
+"origin" "-28 -77 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:154559"
+"nod_type" "script_object"
+"origin" "-61.5 44.5 39.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cDummyProjectile"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:154814"
+"nod_type" "script_target"
+"origin" "-29 -53 -3"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_marinesidekick_5Fwounded"
+"nod_id" "nsd:154982"
+"nod_type" "marinesidekick_wounded"
+"origin" "-8.328125 -33.78125 -6.75"
+"nod_rotation" "0 0 135"
+"nod_sector" "8"
+"nod_prop_0" "marinesidekick_wounded"
+"nod_prop_15" "cAIPause"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:155218"
+"nod_type" "trigger_region"
+"origin" "-9.5 -36 -5.25"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cPopupConversation"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-3.5 -4 -2.75"
+"nod_bounds_max" "3.5 4 2.75"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cPopupConversation"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:156663"
+"nod_type" "script_target"
+"origin" "-24.25 -34.125 -4.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "10"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:156831"
+"nod_type" "marinesidekick"
+"origin" "-24.125 -45.625 -6.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "14"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:157131"
+"nod_type" "script_object"
+"origin" "-24.5 -39 -6.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "11"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cObjectExplosion"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:157387"
+"nod_type" "trigger_region"
+"origin" "-24.5 -45.5625 -5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-10.5 -3.5625 -2"
+"nod_bounds_max" "10.5 3.5625 2"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:158843"
+"nod_type" "trigger_region"
+"origin" "-24.5 -45.3125 -5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-10.5 -3.8125 -2"
+"nod_bounds_max" "10.5 3.8125 2"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_powgauss_5F2x"
+"nod_id" "nsd:160299"
+"nod_type" "powgauss_2x"
+"origin" "-25 -83.625 -2.875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "powgauss_2x"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:160467"
+"nod_type" "trigger_region"
+"origin" "-44.5 -83.3125 -5"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cRegionTrigger"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-2.5 -1.3125 -2"
+"nod_bounds_max" "2.5 1.3125 2"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cRegionTrigger"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:161915"
+"nod_type" "script_target"
+"origin" "-39.5 -53 -1.25"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_marinesidekick"
+"nod_id" "nsd:162083"
+"nod_type" "marinesidekick"
+"origin" "-24.625 -53.375 -3.25"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_prop_0" "marinesidekick"
+"nod_prop_15" "cActorBlindFire"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:162383"
+"nod_type" "zerglingnormal"
+"origin" "-11.125 -72.25 -6.5"
+"nod_rotation" "0 0 90"
+"nod_sector" "22"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:162627"
+"nod_type" "zerglingnormal"
+"origin" "-40.125 -33.875 -6.5"
+"nod_rotation" "0 0 270"
+"nod_sector" "9"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cAIChargePlayer"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:162955"
+"nod_type" "zerglingnormal"
+"origin" "-43.5 -51 -6.5"
+"nod_rotation" "0 0 180"
+"nod_sector" "6"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cZergBurrow"
+}
+{
+"classname" "nod_nsd_type_zerglingnormal"
+"nod_id" "nsd:163183"
+"nod_type" "zerglingnormal"
+"origin" "-11.25 -53.125 -6.5"
+"nod_rotation" "0 0 180"
+"nod_sector" "4"
+"nod_prop_0" "zerglingnormal"
+"nod_prop_15" "cZergBurrow"
+}
+{
+"classname" "nod_nsd_type_movetrack_5Fhull"
+"nod_id" "nsd:163411"
+"nod_type" "movetrack_hull"
+"origin" "-66.9375 -8.25 4.375"
+"nod_rotation" "0 0 -180"
+"nod_sector" "39"
+"nod_model" "1_2_1_BunkerDoor_Right"
+"nod_prop_0" "movetrack_hull"
+"nod_prop_4" "1_2_1_BunkerDoor_Right"
+"nod_prop_15" "cDoorMove"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:163795"
+"nod_type" "script_object"
+"origin" "-39 34 4"
+"nod_rotation" "0 0 180"
+"nod_sector" "39"
+"nod_prop_0" "script_object"
+"nod_prop_46" "siegeTank1_121a_target"
+}
+{
+"classname" "nod_nsd_type_script_5Fobject"
+"nod_id" "nsd:163999"
+"nod_type" "script_object"
+"origin" "-20.5 44.5 30.5"
+"nod_rotation" "0 0 0"
+"nod_sector" "30"
+"nod_prop_0" "script_object"
+"nod_prop_15" "cDummyProjectile"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:164254"
+"nod_type" "script_target"
+"origin" "-34 -7 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_ladder_5Fdynamic"
+"nod_id" "nsd:164422"
+"nod_type" "ladder_dynamic"
+"origin" "-50.5 -53.6875 -0.96875"
+"nod_rotation" "-360 -360 -180"
+"nod_sector" "39"
+"nod_prop_0" "ladder_dynamic"
+}
+{
+"classname" "nod_nsd_type_ge_5Fladdermain_5F01"
+"nod_id" "nsd:164694"
+"nod_type" "ge_laddermain_01"
+"origin" "-50.5 -53.6875 -2.75"
+"nod_rotation" "0 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ge_laddermain_01"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:167874"
+"nod_type" "ghost"
+"origin" "-15.2890472 -67.4303894 6.88739395"
+"nod_rotation" "-135 0 -30"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:168078"
+"nod_type" "ghost"
+"origin" "-15.7577972 -65.4928894 6.91864395"
+"nod_rotation" "-45 0 60"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:168282"
+"nod_type" "ghost"
+"origin" "-15.390625 -67.59375 6.71875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:168486"
+"nod_type" "ghost"
+"origin" "-15.953125 -65.390625 6.703125"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:168690"
+"nod_type" "ghost"
+"origin" "-27.4296722 -83.3835144 5.15301895"
+"nod_rotation" "-30 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:168894"
+"nod_type" "ghost"
+"origin" "-27.4375 -83.1875 5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:169098"
+"nod_type" "ghost"
+"origin" "-28.5546722 -83.3835144 5.15301895"
+"nod_rotation" "-30 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:169302"
+"nod_type" "ghost"
+"origin" "-28.5625 -83.1875 5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:169506"
+"nod_type" "ghost"
+"origin" "-43.3984222 -83.3835144 5.15301895"
+"nod_rotation" "-30 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:169710"
+"nod_type" "ghost"
+"origin" "-43.40625 -83.1875 5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:169914"
+"nod_type" "ghost"
+"origin" "-44.5234222 -83.3835144 5.15301895"
+"nod_rotation" "-30 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:170118"
+"nod_type" "ghost"
+"origin" "-44.53125 -83.1875 5"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:170322"
+"nod_type" "ghost"
+"origin" "-8.14842224 -60.3522644 6.15301895"
+"nod_rotation" "-30 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:170526"
+"nod_type" "ghost"
+"origin" "-8.359375 -60.359375 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:170730"
+"nod_type" "ghost"
+"origin" "-8.16404724 -61.4772644 6.15301895"
+"nod_rotation" "-30 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:170934"
+"nod_type" "ghost"
+"origin" "-8.375 -61.484375 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:171138"
+"nod_type" "ghost"
+"origin" "-8.14842224 -36.4303894 6.15301895"
+"nod_rotation" "-30 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:171342"
+"nod_type" "ghost"
+"origin" "-8.359375 -36.4375 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:171546"
+"nod_type" "ghost"
+"origin" "-8.16404724 -37.5553894 6.15301895"
+"nod_rotation" "-30 0 90"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:171750"
+"nod_type" "ghost"
+"origin" "-8.375 -37.5625 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:171954"
+"nod_type" "ghost"
+"origin" "-2.77342224 -10.1803894 11.965519"
+"nod_rotation" "-135 0 -30"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:172158"
+"nod_type" "ghost"
+"origin" "-3.24217224 -8.2428894 11.996769"
+"nod_rotation" "-45 0 60"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:172362"
+"nod_type" "ghost"
+"origin" "-2.875 -10.34375 11.796875"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:172566"
+"nod_type" "ghost"
+"origin" "-3.4375 -8.140625 11.78125"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:172770"
+"nod_type" "ghost"
+"origin" "-61.5702972 -46.3210144 6.15301895"
+"nod_rotation" "-30 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:172974"
+"nod_type" "ghost"
+"origin" "-61.390625 -46.328125 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:173178"
+"nod_type" "ghost"
+"origin" "-61.5859222 -47.4460144 6.15301895"
+"nod_rotation" "-30 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:173382"
+"nod_type" "ghost"
+"origin" "-61.40625 -47.453125 6"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:173586"
+"nod_type" "ghost"
+"origin" "-48.8046722 -36.1178894 6.73114395"
+"nod_rotation" "-45 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:173790"
+"nod_type" "ghost"
+"origin" "-48.59375 -36.109375 6.5625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:173994"
+"nod_type" "ghost"
+"origin" "-50.2890472 -34.9147644 6.73114395"
+"nod_rotation" "-45 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:174198"
+"nod_type" "ghost"
+"origin" "-50.296875 -34.71875 6.5625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:174402"
+"nod_type" "ghost"
+"origin" "-58.9921722 -19.7116394 12.574894"
+"nod_rotation" "-45 0 300"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:174606"
+"nod_type" "ghost"
+"origin" "-58.890625 -19.625 12.40625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:174810"
+"nod_type" "ghost"
+"origin" "-59.5702972 -21.5397644 12.574894"
+"nod_rotation" "-45 0 210"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:175014"
+"nod_type" "ghost"
+"origin" "-59.453125 -21.734375 12.40625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:175218"
+"nod_type" "ghost"
+"origin" "-65.2577972 -10.2428894 7.10614395"
+"nod_rotation" "-30 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:175422"
+"nod_type" "ghost"
+"origin" "-65.078125 -10.25 6.953125"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:175626"
+"nod_type" "ghost"
+"origin" "-65.2734222 -11.3678894 7.10614395"
+"nod_rotation" "-30 0 270"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:175830"
+"nod_type" "ghost"
+"origin" "-65.09375 -11.375 6.953125"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:176034"
+"nod_type" "trigger_region"
+"origin" "-44.5 -83 -4.875"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM131_EnemySpawn"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-3 -1 -2.125"
+"nod_bounds_max" "3 1 2.125"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM131_EnemySpawn"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:177420"
+"nod_type" "trigger_region"
+"origin" "-29 -60.75 -4.875"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM131_EnemySpawn"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-1 -2.75 -2.125"
+"nod_bounds_max" "1 2.75 2.125"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM131_EnemySpawn"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:178810"
+"nod_type" "trigger_region"
+"origin" "-44.5 -49 -4.875"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM131_EnemySpawn"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-3 -1 -2.125"
+"nod_bounds_max" "3 1 2.125"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM131_EnemySpawn"
+}
+{
+"classname" "nod_nsd_type_trigger_5Fregion"
+"nod_id" "nsd:180196"
+"nod_type" "trigger_region"
+"origin" "-20 -60.5 -4.875"
+"nod_rotation" "0 0 0"
+"nod_region_class" "cM131_EnemySpawn"
+"nod_bounds_status" "inline-mesh"
+"nod_bounds_min" "-1 -2.5 -2.125"
+"nod_bounds_max" "1 2.5 2.125"
+"nod_prop_0" "trigger_region"
+"nod_prop_15" "cM131_EnemySpawn"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:181586"
+"nod_type" "script_target"
+"origin" "-36.5 -71.5 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:181754"
+"nod_type" "script_target"
+"origin" "-36.5 -60.5 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:181922"
+"nod_type" "script_target"
+"origin" "-36.5 -45.5 -2"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+}
+{
+"classname" "nod_nsd_type_sparkfountain_5Ftest"
+"nod_id" "nsd:182090"
+"nod_type" "sparkfountain_test"
+"origin" "-66.375 -15.125 6"
+"nod_rotation" "0 90 0"
+"nod_sector" "39"
+"nod_prop_0" "sparkfountain_test"
+}
+{
+"classname" "nod_nsd_type_sparkfountain_5Ftest"
+"nod_id" "nsd:182258"
+"nod_type" "sparkfountain_test"
+"origin" "-66.375 -15.125 5"
+"nod_rotation" "0 90 0"
+"nod_sector" "39"
+"nod_prop_0" "sparkfountain_test"
+}
+{
+"classname" "nod_nsd_type_sparkfountain_5Ftest"
+"nod_id" "nsd:182426"
+"nod_type" "sparkfountain_test"
+"origin" "-66.375 -14.625 2.5"
+"nod_rotation" "0 90 0"
+"nod_sector" "39"
+"nod_prop_0" "sparkfountain_test"
+}
+{
+"classname" "nod_nsd_type_siegetank_5Fcut"
+"nod_id" "nsd:182594"
+"nod_type" "siegetank_cut"
+"origin" "-72.9795837 -10.6114912 2.25129819"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "siegetank_cut"
+"nod_prop_46" "siegeTank1_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_siegetank_5Fcut"
+"nod_id" "nsd:182798"
+"nod_type" "siegetank_cut"
+"origin" "-94.1782227 -10.6114912 2.25129819"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "siegetank_cut"
+"nod_prop_46" "siegeTank2_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_siegetank_5Fcut"
+"nod_id" "nsd:183002"
+"nod_type" "siegetank_cut"
+"origin" "-105.327026 -10.6114912 2.25129819"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "siegetank_cut"
+"nod_prop_46" "siegeTank3_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_marine3_5Fcut"
+"nod_id" "nsd:183206"
+"nod_type" "marine3_cut"
+"origin" "-52.9453583 -28.8283997 3.44579101"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "marine3_cut"
+"nod_prop_46" "marine1_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_nova_5Fcut"
+"nod_id" "nsd:183410"
+"nod_type" "nova_cut"
+"origin" "-51.6957207 -17.1857529 -2.3562963"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "nova_cut"
+"nod_prop_46" "Nova_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_scvcombo_5Fcut"
+"nod_id" "nsd:183614"
+"nod_type" "scvcombo_cut"
+"origin" "-62.9591637 -12.4281378 1.7259568"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "scvcombo_cut"
+"nod_prop_46" "scvCombo_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_marine3_5Fcut"
+"nod_id" "nsd:183818"
+"nod_type" "marine3_cut"
+"origin" "-38.1126976 -26.0850773 -7.61154938"
+"nod_rotation" "0 0 0"
+"nod_sector" "2"
+"nod_prop_0" "marine3_cut"
+"nod_prop_46" "marine2_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_marine3_5Fcut"
+"nod_id" "nsd:184022"
+"nod_type" "marine3_cut"
+"origin" "-38.6348686 -23.9154091 -7.59846258"
+"nod_rotation" "0 0 0"
+"nod_sector" "2"
+"nod_prop_0" "marine3_cut"
+"nod_prop_46" "marine3_121a_tankRush"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:184226"
+"nod_type" "script_target"
+"origin" "-100 -9 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:184730"
+"nod_type" "script_target"
+"origin" "-99 -9 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cTriggerRelay"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:185234"
+"nod_type" "script_target"
+"origin" "-39 35.5 4"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cEffectAdd"
+}
+{
+"classname" "nod_nsd_type_script_5Ftarget"
+"nod_id" "nsd:185482"
+"nod_type" "script_target"
+"origin" "-39 35 6.125"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "script_target"
+"nod_prop_15" "cEffectAdd"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:185729"
+"nod_type" "ghost"
+"origin" "-45.625 10 2.25"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "blacksmoke_huge"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:185933"
+"nod_type" "ghost"
+"origin" "-38.875 31.25 3.375"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "blacksmoke_huge"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:186137"
+"nod_type" "instance_nocfile"
+"origin" "-52.6257706 -92.0251236 8.26566029"
+"nod_rotation" "0 0 111.744644"
+"nod_sector" "31"
+"nod_model" "CaveSupport.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "CaveSupport.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:196257"
+"nod_type" "instance_nocfile"
+"origin" "-14.4466906 -66.0895004 -3.17286301"
+"nod_rotation" "0 0 -33.5259857"
+"nod_sector" "39"
+"nod_model" "TowerLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "TowerLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:199073"
+"nod_type" "instance_nocfile"
+"origin" "-1.66543114 -8.8199358 1.63153172"
+"nod_rotation" "0 0 -33.5259857"
+"nod_sector" "39"
+"nod_model" "TowerLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "TowerLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:201889"
+"nod_type" "instance_nocfile"
+"origin" "-50.1234131 -36.2543259 -3.45524001"
+"nod_rotation" "0 -3.99999999e-06 -172.756683"
+"nod_sector" "39"
+"nod_model" "TowerLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "TowerLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:204705"
+"nod_type" "instance_nocfile"
+"origin" "-39.2450142 -94.2578278 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "33"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:205777"
+"nod_type" "instance_nocfile"
+"origin" "-43.4423103 -94.2234039 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "33"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:206849"
+"nod_type" "instance_nocfile"
+"origin" "-32.095459 -94.2571182 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "35"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:207921"
+"nod_type" "instance_nocfile"
+"origin" "-29.1363029 -94.2566147 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "35"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:208993"
+"nod_type" "instance_nocfile"
+"origin" "-32.0725288 -91.0932693 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "35"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:210065"
+"nod_type" "instance_nocfile"
+"origin" "-29.1569386 -91.0702209 0.650386631"
+"nod_rotation" "0 -3.99999999e-06 0.0713220015"
+"nod_sector" "35"
+"nod_model" "GE_ScaffoldingLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "GE_ScaffoldingLight.nod"
+}
+{
+"classname" "nod_nsd_type_instance_5Fnocfile"
+"nod_id" "nsd:211137"
+"nod_type" "instance_nocfile"
+"origin" "-60.125 -20.375 2.375"
+"nod_rotation" "0 -3.99999999e-06 120"
+"nod_sector" "39"
+"nod_model" "TowerLight.nod"
+"nod_prop_0" "instance_nocfile"
+"nod_prop_4" "TowerLight.nod"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:213953"
+"nod_type" "ghost"
+"origin" "-32.0625 -91.09375 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "35"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:214157"
+"nod_type" "halo_white_dim"
+"origin" "-32.0625 -91.09375 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "35"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:214325"
+"nod_type" "ghost"
+"origin" "-29.15625 -91.078125 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "35"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:214529"
+"nod_type" "halo_white_dim"
+"origin" "-29.15625 -91.078125 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "35"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:214697"
+"nod_type" "ghost"
+"origin" "-29.125 -94.265625 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "35"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:214901"
+"nod_type" "halo_white_dim"
+"origin" "-29.125 -94.265625 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "35"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:215069"
+"nod_type" "ghost"
+"origin" "-32.09375 -94.265625 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "35"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:215273"
+"nod_type" "halo_white_dim"
+"origin" "-32.09375 -94.265625 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "35"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:215441"
+"nod_type" "ghost"
+"origin" "-39.25 -94.265625 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "33"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:215645"
+"nod_type" "halo_white_dim"
+"origin" "-39.25 -94.265625 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "33"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:215813"
+"nod_type" "ghost"
+"origin" "-43.421875 -94.21875 0.828125"
+"nod_rotation" "-90 0 0"
+"nod_sector" "33"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_shortFat"
+}
+{
+"classname" "nod_nsd_type_halo_5Fwhite_5Fdim"
+"nod_id" "nsd:216017"
+"nod_type" "halo_white_dim"
+"origin" "-43.421875 -94.21875 0.625"
+"nod_rotation" "0 0 0"
+"nod_sector" "33"
+"nod_prop_0" "halo_white_dim"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:216185"
+"nod_type" "ghost"
+"origin" "-54.2109222 27.7102356 14.059269"
+"nod_rotation" "-30 0 180"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:216389"
+"nod_type" "ghost"
+"origin" "-54.203125 27.515625 13.90625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:216593"
+"nod_type" "ghost"
+"origin" "-53.1015472 27.7102356 14.059269"
+"nod_rotation" "-30 0 180"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:216797"
+"nod_type" "ghost"
+"origin" "-53.09375 27.515625 13.90625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:217001"
+"nod_type" "ghost"
+"origin" "-25.1327972 27.7102356 14.059269"
+"nod_rotation" "-30 0 180"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:217205"
+"nod_type" "ghost"
+"origin" "-25.125 27.515625 13.90625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:217409"
+"nod_type" "ghost"
+"origin" "-24.0234222 27.7102356 14.059269"
+"nod_rotation" "-30 0 180"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "lvlLightCone_xtraTall"
+}
+{
+"classname" "nod_nsd_type_ghost"
+"nod_id" "nsd:217613"
+"nod_type" "ghost"
+"origin" "-24.015625 27.515625 13.90625"
+"nod_rotation" "0 0 0"
+"nod_sector" "39"
+"nod_prop_0" "ghost"
+"nod_prop_161" "MS_lightHalo_131a"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:0"
+"nod_space" "navigation"
+"origin" "-111.144234 -144.32515 12.073348"
+"nod_waypoint_id" "105"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 0 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:1"
+"nod_space" "navigation"
+"origin" "-107.967896 -143.94371 12.4571877"
+"nod_waypoint_id" "106"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 256 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:2"
+"nod_space" "navigation"
+"origin" "-103.749542 -143.254471 12.8869648"
+"nod_waypoint_id" "107"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 768 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:3"
+"nod_space" "navigation"
+"origin" "-99.0025711 -142.311462 13.39538"
+"nod_waypoint_id" "108"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 1280 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:4"
+"nod_space" "navigation"
+"origin" "-94.2564087 -141.348175 14.0689821"
+"nod_waypoint_id" "109"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 1792 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:5"
+"nod_space" "navigation"
+"origin" "-89.507843 -140.383499 15.2930346"
+"nod_waypoint_id" "110"
+"nod_flags" "0"
+"nod_color" "4294967040"
+"nod_extra" "255 2304 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:6"
+"nod_space" "navigation"
+"origin" "-86.3361664 -139.294067 16.6594315"
+"nod_waypoint_id" "111"
+"nod_flags" "1"
+"nod_color" "4294967040"
+"nod_extra" "255 2816 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:7"
+"nod_space" "navigation"
+"origin" "-114.04464 -139.623886 11.8323717"
+"nod_waypoint_id" "112"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 3072 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:8"
+"nod_space" "navigation"
+"origin" "-110.245171 -139.750076 12.2871485"
+"nod_waypoint_id" "113"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 3328 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:9"
+"nod_space" "navigation"
+"origin" "-107.040108 -139.352127 12.6902037"
+"nod_waypoint_id" "114"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 3840 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:10"
+"nod_space" "navigation"
+"origin" "-103.074181 -138.71608 13.0491076"
+"nod_waypoint_id" "115"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 4352 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:11"
+"nod_space" "navigation"
+"origin" "-98.6536331 -138.266129 13.6245022"
+"nod_waypoint_id" "116"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 4864 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:12"
+"nod_space" "navigation"
+"origin" "-95.3824921 -138.507523 14.0674067"
+"nod_waypoint_id" "117"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 5376 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:13"
+"nod_space" "navigation"
+"origin" "-92.1255112 -138.317245 14.8933544"
+"nod_waypoint_id" "118"
+"nod_flags" "0"
+"nod_color" "4294967041"
+"nod_extra" "255 5888 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:14"
+"nod_space" "navigation"
+"origin" "-88.2181244 -137.753448 15.8634729"
+"nod_waypoint_id" "119"
+"nod_flags" "1"
+"nod_color" "4294967041"
+"nod_extra" "255 6400 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:15"
+"nod_space" "navigation"
+"origin" "-112.612282 -135.469238 12.1085024"
+"nod_waypoint_id" "120"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 6656 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:16"
+"nod_space" "navigation"
+"origin" "-109.80085 -135.793854 12.4566669"
+"nod_waypoint_id" "121"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 6912 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:17"
+"nod_space" "navigation"
+"origin" "-106.05426 -135.508896 12.8608522"
+"nod_waypoint_id" "122"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 7424 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:18"
+"nod_space" "navigation"
+"origin" "-102.698639 -135.264694 13.1678219"
+"nod_waypoint_id" "123"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 7936 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:19"
+"nod_space" "navigation"
+"origin" "-98.5954895 -135.185074 13.7921638"
+"nod_waypoint_id" "124"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 8448 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:20"
+"nod_space" "navigation"
+"origin" "-94.9430771 -135.609756 14.4366083"
+"nod_waypoint_id" "125"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 8960 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:21"
+"nod_space" "navigation"
+"origin" "-90.8928986 -136.027008 15.4711428"
+"nod_waypoint_id" "126"
+"nod_flags" "0"
+"nod_color" "4294967042"
+"nod_extra" "255 9472 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:22"
+"nod_space" "navigation"
+"origin" "-88.8675156 -135.931793 15.8579035"
+"nod_waypoint_id" "127"
+"nod_flags" "1"
+"nod_color" "4294967042"
+"nod_extra" "255 9984 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:23"
+"nod_space" "navigation"
+"origin" "-28.1578312 -178.066101 -1.57369053"
+"nod_waypoint_id" "128"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 10240 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:24"
+"nod_space" "navigation"
+"origin" "-26.7611599 -173.049255 -1.57369041"
+"nod_waypoint_id" "129"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 10496 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:25"
+"nod_space" "navigation"
+"origin" "-25.5619106 -169.529572 -1.57369053"
+"nod_waypoint_id" "130"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 11008 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:26"
+"nod_space" "navigation"
+"origin" "-24.9208717 -166.120743 -1.57369053"
+"nod_waypoint_id" "131"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 11776 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:27"
+"nod_space" "navigation"
+"origin" "-23.5711517 -162.953918 -1.57369053"
+"nod_waypoint_id" "132"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 12544 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:28"
+"nod_space" "navigation"
+"origin" "-21.9664955 -159.41272 -1.57369053"
+"nod_waypoint_id" "133"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 13312 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:29"
+"nod_space" "navigation"
+"origin" "-20.9915104 -157.156509 -1.57369053"
+"nod_waypoint_id" "134"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 14080 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:30"
+"nod_space" "navigation"
+"origin" "-19.931118 -153.961334 -1.57496524"
+"nod_waypoint_id" "135"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 14592 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:31"
+"nod_space" "navigation"
+"origin" "-19.9519081 -151.952499 -1.64301145"
+"nod_waypoint_id" "136"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 15104 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:32"
+"nod_space" "navigation"
+"origin" "-20.1260757 -150.153198 -1.72642434"
+"nod_waypoint_id" "137"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 15872 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:33"
+"nod_space" "navigation"
+"origin" "-20.5458183 -146.571487 -1.86373901"
+"nod_waypoint_id" "138"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 16640 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:34"
+"nod_space" "navigation"
+"origin" "-20.2338104 -143.547897 -1.97240138"
+"nod_waypoint_id" "139"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 17152 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:35"
+"nod_space" "navigation"
+"origin" "-20.4141178 -140.191788 -2.09149909"
+"nod_waypoint_id" "140"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 17920 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:36"
+"nod_space" "navigation"
+"origin" "-20.5246468 -136.047104 -2.12299252"
+"nod_waypoint_id" "141"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 18688 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:37"
+"nod_space" "navigation"
+"origin" "-20.5578156 -133.394791 -2.12263989"
+"nod_waypoint_id" "142"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 19456 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:38"
+"nod_space" "navigation"
+"origin" "-20.3639717 -130.131104 -2.123456"
+"nod_waypoint_id" "143"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 19968 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:39"
+"nod_space" "navigation"
+"origin" "-20.3213158 -125.690254 -2.12559366"
+"nod_waypoint_id" "144"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 20736 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:40"
+"nod_space" "navigation"
+"origin" "-19.9468937 -122.052094 -2.12640786"
+"nod_waypoint_id" "145"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 21504 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:41"
+"nod_space" "navigation"
+"origin" "-19.8448029 -116.310699 -1.97824788"
+"nod_waypoint_id" "146"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 22016 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:42"
+"nod_space" "navigation"
+"origin" "-21.4703865 -112.533234 -2.23074436"
+"nod_waypoint_id" "147"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 22784 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:43"
+"nod_space" "navigation"
+"origin" "-23.3865757 -108.231888 -2.78267002"
+"nod_waypoint_id" "148"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 23296 1024"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:44"
+"nod_space" "navigation"
+"origin" "-32.2491188 -179.111359 -1.57369041"
+"nod_waypoint_id" "149"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 24320 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:45"
+"nod_space" "navigation"
+"origin" "-29.9174576 -173.747055 -1.48604989"
+"nod_waypoint_id" "150"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 24576 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:46"
+"nod_space" "navigation"
+"origin" "-28.6433659 -170.152298 -1.50476408"
+"nod_waypoint_id" "151"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 25088 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:47"
+"nod_space" "navigation"
+"origin" "-28.6338978 -166.293274 -1.5736903"
+"nod_waypoint_id" "152"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 25600 1536"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:48"
+"nod_space" "navigation"
+"origin" "-26.8289566 -162.304199 -1.57369041"
+"nod_waypoint_id" "153"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 27136 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:49"
+"nod_space" "navigation"
+"origin" "-24.8059444 -158.617111 -1.57369053"
+"nod_waypoint_id" "154"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 27648 1536"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:50"
+"nod_space" "navigation"
+"origin" "-23.3275089 -155.923813 -1.57369041"
+"nod_waypoint_id" "155"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 29184 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:51"
+"nod_space" "navigation"
+"origin" "-22.2348232 -152.84462 -1.64954817"
+"nod_waypoint_id" "156"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 29696 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:52"
+"nod_space" "navigation"
+"origin" "-22.139286 -149.992065 -1.70306766"
+"nod_waypoint_id" "157"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 30208 1536"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:53"
+"nod_space" "navigation"
+"origin" "-22.9824505 -146.442093 -1.83244157"
+"nod_waypoint_id" "158"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 31744 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:54"
+"nod_space" "navigation"
+"origin" "-22.6464996 -143.457245 -1.94012141"
+"nod_waypoint_id" "159"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 32256 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:55"
+"nod_space" "navigation"
+"origin" "-22.8044357 -140.070236 -2.05891514"
+"nod_waypoint_id" "160"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 32768 1792"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:56"
+"nod_space" "navigation"
+"origin" "-22.9486504 -135.986832 -2.11370063"
+"nod_waypoint_id" "161"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 34560 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:57"
+"nod_space" "navigation"
+"origin" "-22.7552948 -133.240997 -2.10922623"
+"nod_waypoint_id" "162"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 35072 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:58"
+"nod_space" "navigation"
+"origin" "-22.757103 -130.07074 -2.11485076"
+"nod_waypoint_id" "163"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 35584 1792"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:59"
+"nod_space" "navigation"
+"origin" "-22.8992062 -125.617867 -2.09190941"
+"nod_waypoint_id" "164"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 37376 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:60"
+"nod_space" "navigation"
+"origin" "-22.8047295 -121.92247 -2.11542749"
+"nod_waypoint_id" "165"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 37888 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:61"
+"nod_space" "navigation"
+"origin" "-22.5648136 -116.61451 -2.06601071"
+"nod_waypoint_id" "166"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 38400 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:62"
+"nod_space" "navigation"
+"origin" "-23.1482315 -112.836357 -2.12773991"
+"nod_waypoint_id" "167"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 38912 1536"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:63"
+"nod_space" "navigation"
+"origin" "-24.7669811 -109.043373 -2.58342147"
+"nod_waypoint_id" "169"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 40448 1024"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:64"
+"nod_space" "navigation"
+"origin" "-26.5944424 -109.451508 -2.24713492"
+"nod_waypoint_id" "170"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 41472 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:65"
+"nod_space" "navigation"
+"origin" "-24.9534969 -113.462425 -2.02505732"
+"nod_waypoint_id" "171"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 42240 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:66"
+"nod_space" "navigation"
+"origin" "-25.0760975 -116.223541 -1.9436574"
+"nod_waypoint_id" "172"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 42752 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:67"
+"nod_space" "navigation"
+"origin" "-25.0537758 -121.930695 -2.12429905"
+"nod_waypoint_id" "173"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 43520 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:68"
+"nod_space" "navigation"
+"origin" "-25.2574081 -125.75518 -2.12956572"
+"nod_waypoint_id" "174"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 44032 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:69"
+"nod_space" "navigation"
+"origin" "-25.2434082 -130.297928 -2.12476349"
+"nod_waypoint_id" "175"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 44800 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:70"
+"nod_space" "navigation"
+"origin" "-25.2376175 -133.473221 -2.12423635"
+"nod_waypoint_id" "176"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 45568 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:71"
+"nod_space" "navigation"
+"origin" "-24.9355984 -136.024017 -2.12330484"
+"nod_waypoint_id" "177"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 46336 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:72"
+"nod_space" "navigation"
+"origin" "-25.0114975 -140.240677 -2.02271199"
+"nod_waypoint_id" "178"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 46848 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:73"
+"nod_space" "navigation"
+"origin" "-24.6503296 -143.736786 -1.90109789"
+"nod_waypoint_id" "179"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 47616 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:74"
+"nod_space" "navigation"
+"origin" "-25.074501 -146.08905 -1.79921985"
+"nod_waypoint_id" "180"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 48384 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:75"
+"nod_space" "navigation"
+"origin" "-24.9089851 -149.602234 -1.83960378"
+"nod_waypoint_id" "181"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 49152 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:76"
+"nod_space" "navigation"
+"origin" "-24.8183231 -152.37587 -1.62809885"
+"nod_waypoint_id" "182"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 49920 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:77"
+"nod_space" "navigation"
+"origin" "-25.7530346 -155.061798 -1.57369041"
+"nod_waypoint_id" "183"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 50432 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:78"
+"nod_space" "navigation"
+"origin" "-27.3156509 -157.671021 -1.5736903"
+"nod_waypoint_id" "184"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 50944 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:79"
+"nod_space" "navigation"
+"origin" "-29.2295933 -161.044144 -1.50075173"
+"nod_waypoint_id" "185"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 51712 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:80"
+"nod_space" "navigation"
+"origin" "-30.5509739 -164.333023 -1.45842648"
+"nod_waypoint_id" "186"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 52480 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:81"
+"nod_space" "navigation"
+"origin" "-30.7821007 -168.307159 -1.40723372"
+"nod_waypoint_id" "187"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 53248 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:82"
+"nod_space" "navigation"
+"origin" "-31.8075981 -171.775101 -1.3081857"
+"nod_waypoint_id" "188"
+"nod_flags" "1"
+"nod_color" "4294967043"
+"nod_extra" "255 54016 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:83"
+"nod_space" "navigation"
+"origin" "-32.7686501 -174.164337 -1.57369041"
+"nod_waypoint_id" "189"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 54528 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:84"
+"nod_space" "navigation"
+"origin" "-34.9142914 -178.13472 -1.57369053"
+"nod_waypoint_id" "190"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 55040 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:85"
+"nod_space" "navigation"
+"origin" "-25.9414291 -106.812325 -2.66726899"
+"nod_waypoint_id" "250"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 55296 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:86"
+"nod_space" "navigation"
+"origin" "-27.9746571 -105.555328 -2.60000777"
+"nod_waypoint_id" "251"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 56064 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:87"
+"nod_space" "navigation"
+"origin" "-29.7884636 -104.786072 -2.60000801"
+"nod_waypoint_id" "252"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 56576 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:88"
+"nod_space" "navigation"
+"origin" "-31.5539169 -103.497391 -2.60000825"
+"nod_waypoint_id" "253"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 57088 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:89"
+"nod_space" "navigation"
+"origin" "-32.6507454 -101.387794 -2.40678287"
+"nod_waypoint_id" "254"
+"nod_flags" "0"
+"nod_color" "4294967043"
+"nod_extra" "255 57600 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:90"
+"nod_space" "navigation"
+"origin" "-16.8518486 -50.1763535 -6.2249999"
+"nod_waypoint_id" "33"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "1023 57856 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:91"
+"nod_space" "navigation"
+"origin" "-15.2746649 -52.7785797 -6.2249999"
+"nod_waypoint_id" "34"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "1023 58368 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:92"
+"nod_space" "navigation"
+"origin" "-11.9676905 -52.9541473 -6.2249999"
+"nod_waypoint_id" "35"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "1279 58880 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:93"
+"nod_space" "navigation"
+"origin" "-9.92763233 -54.6129112 -6.2249999"
+"nod_waypoint_id" "36"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "1279 59392 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:94"
+"nod_space" "navigation"
+"origin" "-44.4077187 -52.9709129 -6.19077301"
+"nod_waypoint_id" "22"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "1791 59904 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:95"
+"nod_space" "navigation"
+"origin" "-18.5926361 -34.1895447 -6.22500038"
+"nod_waypoint_id" "45"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2303 60416 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:96"
+"nod_space" "navigation"
+"origin" "-14.3475513 -34.544899 -6.2249999"
+"nod_waypoint_id" "46"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2303 60928 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:97"
+"nod_space" "navigation"
+"origin" "-10.5581665 -35.7788734 -6.2249999"
+"nod_waypoint_id" "47"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2303 61440 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:98"
+"nod_space" "navigation"
+"origin" "-30.4920216 -34.2032471 -6.2249999"
+"nod_waypoint_id" "48"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2559 61696 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:99"
+"nod_space" "navigation"
+"origin" "-33.4811249 -34.2168312 -6.2249999"
+"nod_waypoint_id" "49"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2559 62208 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:100"
+"nod_space" "navigation"
+"origin" "-38.6439247 -34.3738976 -6.2249999"
+"nod_waypoint_id" "50"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2559 62720 512"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:101"
+"nod_space" "navigation"
+"origin" "-42.3242722 -34.4175262 -6.2249999"
+"nod_waypoint_id" "51"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2559 63232 256"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:102"
+"nod_space" "navigation"
+"origin" "-24.6640263 -37.223484 -6.22500038"
+"nod_waypoint_id" "42"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2815 63488 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:103"
+"nod_space" "navigation"
+"origin" "-26.8700619 -34.6416321 -6.22500038"
+"nod_waypoint_id" "43"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2815 64256 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:104"
+"nod_space" "navigation"
+"origin" "-21.8391666 -33.9394608 -6.2249999"
+"nod_waypoint_id" "44"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "2815 65024 768"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:105"
+"nod_space" "navigation"
+"origin" "-24.6550102 -40.5238762 -6.17530346"
+"nod_waypoint_id" "41"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3071 256 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:106"
+"nod_space" "navigation"
+"origin" "-19.4356842 -45.7389297 -6.2249999"
+"nod_waypoint_id" "31"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3327 768 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:107"
+"nod_space" "navigation"
+"origin" "-17.2288208 -47.932148 -6.2249999"
+"nod_waypoint_id" "32"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3327 1280 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:108"
+"nod_space" "navigation"
+"origin" "-36.3281364 -45.4847908 -6.2249999"
+"nod_waypoint_id" "26"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3583 1792 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:109"
+"nod_space" "navigation"
+"origin" "-31.5823231 -45.769043 -6.2249999"
+"nod_waypoint_id" "27"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3583 2304 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:110"
+"nod_space" "navigation"
+"origin" "-27.3913345 -45.3869324 -6.2249999"
+"nod_waypoint_id" "28"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3839 2816 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:111"
+"nod_space" "navigation"
+"origin" "-24.8028965 -43.2988777 -6.2249999"
+"nod_waypoint_id" "29"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3839 3584 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:112"
+"nod_space" "navigation"
+"origin" "-22.2719822 -45.2708282 -6.2249999"
+"nod_waypoint_id" "30"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "3839 4352 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:113"
+"nod_space" "navigation"
+"origin" "-44.3728027 -49.054985 -6.2249999"
+"nod_waypoint_id" "23"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4095 5120 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:114"
+"nod_space" "navigation"
+"origin" "-44.1372223 -46.2028999 -6.2249999"
+"nod_waypoint_id" "24"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4095 5632 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:115"
+"nod_space" "navigation"
+"origin" "-41.7175674 -45.6843758 -6.2249999"
+"nod_waypoint_id" "25"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4095 6144 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:116"
+"nod_space" "navigation"
+"origin" "-16.5956135 -60.507103 -6.2249999"
+"nod_waypoint_id" "40"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4351 6912 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:117"
+"nod_space" "navigation"
+"origin" "-31.4833145 -60.3512077 -6.2249999"
+"nod_waypoint_id" "17"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4607 7424 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:118"
+"nod_space" "navigation"
+"origin" "-37.0172691 -60.6010246 -6.2249999"
+"nod_waypoint_id" "18"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4607 8192 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:119"
+"nod_space" "navigation"
+"origin" "-9.2519083 -57.3146439 -6.2249999"
+"nod_waypoint_id" "37"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4863 8704 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:120"
+"nod_space" "navigation"
+"origin" "-10.0688887 -59.6123962 -6.2249999"
+"nod_waypoint_id" "38"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4863 9216 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:121"
+"nod_space" "navigation"
+"origin" "-12.7894974 -60.8127975 -6.2249999"
+"nod_waypoint_id" "39"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "4863 9728 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:122"
+"nod_space" "navigation"
+"origin" "-41.0906296 -60.4965515 -6.2249999"
+"nod_waypoint_id" "19"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5119 10496 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:123"
+"nod_space" "navigation"
+"origin" "-43.5376587 -59.5281944 -6.2249999"
+"nod_waypoint_id" "20"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5119 11008 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:124"
+"nod_space" "navigation"
+"origin" "-44.5214272 -56.8463745 -6.2041235"
+"nod_waypoint_id" "21"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5119 11520 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:125"
+"nod_space" "navigation"
+"origin" "-24.2878704 -65.5859985 -6.2249999"
+"nod_waypoint_id" "13"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5375 12032 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:126"
+"nod_space" "navigation"
+"origin" "-24.4145164 -63.1965675 -6.2249999"
+"nod_waypoint_id" "14"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5631 12544 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:127"
+"nod_space" "navigation"
+"origin" "-26.9122124 -60.4496346 -6.22500038"
+"nod_waypoint_id" "15"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5631 13312 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:128"
+"nod_space" "navigation"
+"origin" "-21.8111076 -60.5660133 -6.2249999"
+"nod_waypoint_id" "16"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5631 13824 1025"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:129"
+"nod_space" "navigation"
+"origin" "-17.7867756 -71.3731155 -6.2249999"
+"nod_waypoint_id" "10"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5887 14848 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:130"
+"nod_space" "navigation"
+"origin" "-12.6283064 -71.4185944 -6.22500038"
+"nod_waypoint_id" "11"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5887 15360 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:131"
+"nod_space" "navigation"
+"origin" "-9.01325703 -71.3783798 -6.22500038"
+"nod_waypoint_id" "12"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "5887 15872 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:132"
+"nod_space" "navigation"
+"origin" "-27.6606941 -71.2839661 -6.2249999"
+"nod_waypoint_id" "7"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6143 16128 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:133"
+"nod_space" "navigation"
+"origin" "-24.3408546 -69.8255768 -6.2249999"
+"nod_waypoint_id" "8"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6143 16896 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:134"
+"nod_space" "navigation"
+"origin" "-22.0786057 -71.1551361 -6.2249999"
+"nod_waypoint_id" "9"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6143 17664 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:135"
+"nod_space" "navigation"
+"origin" "-34.6644516 -71.450531 -6.21748209"
+"nod_waypoint_id" "5"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6399 18432 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:136"
+"nod_space" "navigation"
+"origin" "-30.1596489 -71.5134048 -6.2249999"
+"nod_waypoint_id" "6"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6399 18944 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:137"
+"nod_space" "navigation"
+"origin" "-44.7826309 -74.3228226 -6.2249999"
+"nod_waypoint_id" "2"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6655 19456 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:138"
+"nod_space" "navigation"
+"origin" "-43.530056 -71.7840271 -6.2249999"
+"nod_waypoint_id" "3"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6655 19968 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:139"
+"nod_space" "navigation"
+"origin" "-40.4842491 -71.1348877 -6.22499943"
+"nod_waypoint_id" "4"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6655 20736 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:140"
+"nod_space" "navigation"
+"origin" "-44.3685646 -85.7079697 -6.42198706"
+"nod_waypoint_id" "0"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6911 21248 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:141"
+"nod_space" "navigation"
+"origin" "-44.5188599 -78.9526215 -6.19400024"
+"nod_waypoint_id" "1"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "6911 21504 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:142"
+"nod_space" "navigation"
+"origin" "-35.5562057 27.4391136 3.4582684"
+"nod_waypoint_id" "52"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 22016 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:143"
+"nod_space" "navigation"
+"origin" "-34.7973709 21.1272831 3.39393377"
+"nod_waypoint_id" "53"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 22272 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:144"
+"nod_space" "navigation"
+"origin" "-32.1206055 16.6735325 3.14569497"
+"nod_waypoint_id" "54"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 22784 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:145"
+"nod_space" "navigation"
+"origin" "-28.5795479 12.1867781 2.41171765"
+"nod_waypoint_id" "55"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 23296 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:146"
+"nod_space" "navigation"
+"origin" "-26.7198944 7.16220617 0.938764811"
+"nod_waypoint_id" "56"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 24064 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:147"
+"nod_space" "navigation"
+"origin" "-25.3548946 1.98089814 -0.324737519"
+"nod_waypoint_id" "57"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 24576 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:148"
+"nod_space" "navigation"
+"origin" "-24.3620853 -2.96614099 -0.828956068"
+"nod_waypoint_id" "58"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 25088 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:149"
+"nod_space" "navigation"
+"origin" "-23.4635925 -8.12804985 -1.49410892"
+"nod_waypoint_id" "59"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 25600 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:150"
+"nod_space" "navigation"
+"origin" "-22.6581917 -12.7432194 -1.9811343"
+"nod_waypoint_id" "60"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 26112 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:151"
+"nod_space" "navigation"
+"origin" "-21.9871197 -17.6625195 -2.52425361"
+"nod_waypoint_id" "61"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 26624 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:152"
+"nod_space" "navigation"
+"origin" "-21.369669 -21.6088562 -2.75594497"
+"nod_waypoint_id" "62"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 27136 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:153"
+"nod_space" "navigation"
+"origin" "-19.0342274 -25.8176155 -2.82214165"
+"nod_waypoint_id" "63"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 27648 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:154"
+"nod_space" "navigation"
+"origin" "-16.6566715 -29.9874458 -2.82758403"
+"nod_waypoint_id" "64"
+"nod_flags" "1"
+"nod_color" "4294967045"
+"nod_extra" "10239 28160 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:155"
+"nod_space" "navigation"
+"origin" "-24.7230244 7.65017557 1.17346454"
+"nod_waypoint_id" "65"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 28672 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:156"
+"nod_space" "navigation"
+"origin" "-22.9587898 4.734025 0.387682229"
+"nod_waypoint_id" "66"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 29184 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:157"
+"nod_space" "navigation"
+"origin" "-19.8282375 0.879532397 -0.400499642"
+"nod_waypoint_id" "67"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 29696 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:158"
+"nod_space" "navigation"
+"origin" "-17.1336823 -3.55046511 -1.29774463"
+"nod_waypoint_id" "68"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 30208 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:159"
+"nod_space" "navigation"
+"origin" "-16.5684299 -7.00904131 -0.201580822"
+"nod_waypoint_id" "69"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 30720 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:160"
+"nod_space" "navigation"
+"origin" "-16.9062862 -10.8766041 0.0125812292"
+"nod_waypoint_id" "70"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 31232 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:161"
+"nod_space" "navigation"
+"origin" "-16.8419094 -15.5854712 0.199874967"
+"nod_waypoint_id" "71"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 31744 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:162"
+"nod_space" "navigation"
+"origin" "-16.9801693 -19.7376919 -1.55651677"
+"nod_waypoint_id" "72"
+"nod_flags" "0"
+"nod_color" "4294967045"
+"nod_extra" "10239 32256 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:163"
+"nod_space" "navigation"
+"origin" "-17.553566 -23.7983685 -2.82758403"
+"nod_waypoint_id" "73"
+"nod_flags" "1"
+"nod_color" "4294967045"
+"nod_extra" "10239 32768 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:164"
+"nod_space" "navigation"
+"origin" "-36.9263649 26.8523655 3.4582684"
+"nod_waypoint_id" "74"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 33280 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:165"
+"nod_space" "navigation"
+"origin" "-36.2246437 19.9090195 3.29086065"
+"nod_waypoint_id" "75"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 33536 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:166"
+"nod_space" "navigation"
+"origin" "-34.093708 16.2856865 2.9921391"
+"nod_waypoint_id" "76"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 34048 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:167"
+"nod_space" "navigation"
+"origin" "-32.3713112 13.2258835 2.48815012"
+"nod_waypoint_id" "77"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 34560 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:168"
+"nod_space" "navigation"
+"origin" "-31.6616077 9.4182663 1.47889519"
+"nod_waypoint_id" "78"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 35072 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:169"
+"nod_space" "navigation"
+"origin" "-30.8737831 5.13886166 0.271409661"
+"nod_waypoint_id" "79"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 35584 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:170"
+"nod_space" "navigation"
+"origin" "-30.098114 0.961421609 -0.497648686"
+"nod_waypoint_id" "80"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 36096 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:171"
+"nod_space" "navigation"
+"origin" "-30.126852 -2.9787693 -0.986021936"
+"nod_waypoint_id" "81"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 36608 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:172"
+"nod_space" "navigation"
+"origin" "-29.6278667 -6.77285576 -1.40603244"
+"nod_waypoint_id" "82"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 37120 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:173"
+"nod_space" "navigation"
+"origin" "-29.4572563 -10.6566029 -1.68076158"
+"nod_waypoint_id" "83"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 37632 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:174"
+"nod_space" "navigation"
+"origin" "-29.0627842 -13.8447819 -1.88106298"
+"nod_waypoint_id" "84"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 38144 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:175"
+"nod_space" "navigation"
+"origin" "-28.3856983 -17.4103413 -2.33021712"
+"nod_waypoint_id" "85"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 38656 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:176"
+"nod_space" "navigation"
+"origin" "-27.6811867 -21.1125145 -2.66723275"
+"nod_waypoint_id" "86"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 39168 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:177"
+"nod_space" "navigation"
+"origin" "-26.890976 -25.2403603 -2.52563357"
+"nod_waypoint_id" "87"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 39680 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:178"
+"nod_space" "navigation"
+"origin" "-26.1032791 -29.3550987 -2.69108272"
+"nod_waypoint_id" "88"
+"nod_flags" "0"
+"nod_color" "4294967046"
+"nod_extra" "10239 40192 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:179"
+"nod_space" "navigation"
+"origin" "-25.502182 -30.7905445 -2.7911768"
+"nod_waypoint_id" "89"
+"nod_flags" "1"
+"nod_color" "4294967046"
+"nod_extra" "10239 40704 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:180"
+"nod_space" "navigation"
+"origin" "-38.8369789 26.797966 3.4582684"
+"nod_waypoint_id" "90"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 40960 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:181"
+"nod_space" "navigation"
+"origin" "-38.3456078 19.9992981 3.33744407"
+"nod_waypoint_id" "91"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 41216 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:182"
+"nod_space" "navigation"
+"origin" "-36.856739 15.8218327 3.02431893"
+"nod_waypoint_id" "92"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 41728 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:183"
+"nod_space" "navigation"
+"origin" "-35.8562355 11.6342688 2.06914043"
+"nod_waypoint_id" "93"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 42240 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:184"
+"nod_space" "navigation"
+"origin" "-36.2657013 8.4241209 1.20339561"
+"nod_waypoint_id" "94"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 42752 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:185"
+"nod_space" "navigation"
+"origin" "-37.0089111 5.49444818 0.439070791"
+"nod_waypoint_id" "95"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 43264 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:186"
+"nod_space" "navigation"
+"origin" "-36.279541 1.23258424 -0.454498678"
+"nod_waypoint_id" "96"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 43776 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:187"
+"nod_space" "navigation"
+"origin" "-35.8586349 -3.21909499 -1.2676549"
+"nod_waypoint_id" "97"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 44288 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:188"
+"nod_space" "navigation"
+"origin" "-35.8152847 -7.72523832 -1.94063878"
+"nod_waypoint_id" "98"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 44800 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:189"
+"nod_space" "navigation"
+"origin" "-35.6887665 -11.4853544 -2.24464417"
+"nod_waypoint_id" "99"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 45312 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:190"
+"nod_space" "navigation"
+"origin" "-34.6286774 -16.0565758 -2.5511291"
+"nod_waypoint_id" "100"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 45824 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:191"
+"nod_space" "navigation"
+"origin" "-33.9781113 -19.7388821 -2.79082918"
+"nod_waypoint_id" "101"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 46336 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:192"
+"nod_space" "navigation"
+"origin" "-33.853035 -24.0065899 -2.87988448"
+"nod_waypoint_id" "102"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 46848 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:193"
+"nod_space" "navigation"
+"origin" "-34.1716537 -27.5947647 -2.89190531"
+"nod_waypoint_id" "103"
+"nod_flags" "0"
+"nod_color" "4294967047"
+"nod_extra" "10239 47360 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:194"
+"nod_space" "navigation"
+"origin" "-34.6036415 -30.1980972 -2.85896564"
+"nod_waypoint_id" "104"
+"nod_flags" "1"
+"nod_color" "4294967047"
+"nod_extra" "10239 47872 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:195"
+"nod_space" "navigation"
+"origin" "-41.5847664 27.5066776 3.4582684"
+"nod_waypoint_id" "191"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 48128 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:196"
+"nod_space" "navigation"
+"origin" "-43.4852524 24.2372112 3.45826817"
+"nod_waypoint_id" "192"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 48384 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:197"
+"nod_space" "navigation"
+"origin" "-46.4196968 21.6715546 3.45517254"
+"nod_waypoint_id" "193"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 48896 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:198"
+"nod_space" "navigation"
+"origin" "-49.7671471 18.7199478 4.14465618"
+"nod_waypoint_id" "194"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 49408 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:199"
+"nod_space" "navigation"
+"origin" "-51.6939163 16.0559731 4.53993034"
+"nod_waypoint_id" "195"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 49920 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:200"
+"nod_space" "navigation"
+"origin" "-51.4929886 13.5388336 4.82395029"
+"nod_waypoint_id" "196"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 50432 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:201"
+"nod_space" "navigation"
+"origin" "-49.4888496 10.5780869 4.5480051"
+"nod_waypoint_id" "197"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 50944 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:202"
+"nod_space" "navigation"
+"origin" "-46.848423 7.1826458 3.98812628"
+"nod_waypoint_id" "198"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 51456 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:203"
+"nod_space" "navigation"
+"origin" "-46.6688194 3.6054616 3.17696357"
+"nod_waypoint_id" "199"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 51968 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:204"
+"nod_space" "navigation"
+"origin" "-50.6479111 0.875459552 2.67249417"
+"nod_waypoint_id" "200"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 52480 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:205"
+"nod_space" "navigation"
+"origin" "-51.8630066 -2.92844987 2.07473207"
+"nod_waypoint_id" "201"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 52992 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:206"
+"nod_space" "navigation"
+"origin" "-52.4071121 -7.06737947 1.95002246"
+"nod_waypoint_id" "202"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 53504 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:207"
+"nod_space" "navigation"
+"origin" "-52.6976547 -9.44379616 2.13721871"
+"nod_waypoint_id" "203"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 54016 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:208"
+"nod_space" "navigation"
+"origin" "-52.0249252 -12.7734108 2.88255358"
+"nod_waypoint_id" "204"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 54528 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:209"
+"nod_space" "navigation"
+"origin" "-51.4391022 -14.5154867 3.92748928"
+"nod_waypoint_id" "205"
+"nod_flags" "0"
+"nod_color" "4294967048"
+"nod_extra" "10239 55040 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:210"
+"nod_space" "navigation"
+"origin" "-42.4563332 27.5763168 3.4582684"
+"nod_waypoint_id" "206"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 55296 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:211"
+"nod_space" "navigation"
+"origin" "-46.5751152 25.0146561 3.4582684"
+"nod_waypoint_id" "207"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 55552 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:212"
+"nod_space" "navigation"
+"origin" "-50.1699028 22.4322433 3.65647316"
+"nod_waypoint_id" "208"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 56064 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:213"
+"nod_space" "navigation"
+"origin" "-52.052372 21.1970024 3.89653468"
+"nod_waypoint_id" "209"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 56576 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:214"
+"nod_space" "navigation"
+"origin" "-53.1724663 19.7245846 4.12725878"
+"nod_waypoint_id" "210"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 57088 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:215"
+"nod_space" "navigation"
+"origin" "-53.4068985 16.388916 4.50119162"
+"nod_waypoint_id" "211"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 57600 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:216"
+"nod_space" "navigation"
+"origin" "-54.4498444 13.497426 4.81053114"
+"nod_waypoint_id" "212"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 58112 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:217"
+"nod_space" "navigation"
+"origin" "-55.8267479 10.3398476 4.56648493"
+"nod_waypoint_id" "213"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 58624 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:218"
+"nod_space" "navigation"
+"origin" "-56.4695854 6.9518013 3.91331983"
+"nod_waypoint_id" "214"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 59136 769"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:219"
+"nod_space" "navigation"
+"origin" "-55.5442085 3.68398523 3.26789141"
+"nod_waypoint_id" "215"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 59904 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:220"
+"nod_space" "navigation"
+"origin" "-54.0932808 0.0302714705 2.52975821"
+"nod_waypoint_id" "216"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 60416 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:221"
+"nod_space" "navigation"
+"origin" "-53.5985184 -3.45233655 2.07691503"
+"nod_waypoint_id" "217"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 60928 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:222"
+"nod_space" "navigation"
+"origin" "-54.1147957 -7.15085697 1.99636865"
+"nod_waypoint_id" "218"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 61440 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:223"
+"nod_space" "navigation"
+"origin" "-53.9795494 -9.74781704 2.2250154"
+"nod_waypoint_id" "219"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 61952 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:224"
+"nod_space" "navigation"
+"origin" "-53.2099686 -12.1053219 2.34178782"
+"nod_waypoint_id" "220"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 62464 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:225"
+"nod_space" "navigation"
+"origin" "-52.6136055 -14.6003485 3.28148341"
+"nod_waypoint_id" "221"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 62976 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:226"
+"nod_space" "navigation"
+"origin" "-40.5544586 27.2031822 3.4582684"
+"nod_waypoint_id" "222"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 63232 257"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:227"
+"nod_space" "navigation"
+"origin" "-41.1277122 23.5494137 3.45826817"
+"nod_waypoint_id" "223"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 63488 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:228"
+"nod_space" "navigation"
+"origin" "-40.3420563 19.679882 3.31700706"
+"nod_waypoint_id" "224"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 64000 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:229"
+"nod_space" "navigation"
+"origin" "-38.4685135 16.0333099 3.05151391"
+"nod_waypoint_id" "225"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 64512 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:230"
+"nod_space" "navigation"
+"origin" "-37.8900681 14.3475428 3.1803143"
+"nod_waypoint_id" "227"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 65024 513"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:231"
+"nod_space" "navigation"
+"origin" "-38.3386269 12.1200237 2.96187544"
+"nod_waypoint_id" "228"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 0 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:232"
+"nod_space" "navigation"
+"origin" "-38.8968239 9.39363098 2.79910517"
+"nod_waypoint_id" "229"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 512 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:233"
+"nod_space" "navigation"
+"origin" "-39.1317558 7.13904572 3.16829014"
+"nod_waypoint_id" "230"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 1024 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:234"
+"nod_space" "navigation"
+"origin" "-39.4614906 4.51014614 3.07589579"
+"nod_waypoint_id" "231"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 1536 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:235"
+"nod_space" "navigation"
+"origin" "-40.4696617 2.20118809 2.83916378"
+"nod_waypoint_id" "232"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 2048 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:236"
+"nod_space" "navigation"
+"origin" "-43.2143517 0.0154757202 2.45336294"
+"nod_waypoint_id" "233"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 2560 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:237"
+"nod_space" "navigation"
+"origin" "-45.938282 -1.40317428 2.174721"
+"nod_waypoint_id" "234"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 3072 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:238"
+"nod_space" "navigation"
+"origin" "-48.6811676 -2.66696644 2.04092789"
+"nod_waypoint_id" "235"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 3584 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:239"
+"nod_space" "navigation"
+"origin" "-49.7728615 -4.6836195 1.92046809"
+"nod_waypoint_id" "236"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 4096 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:240"
+"nod_space" "navigation"
+"origin" "-50.7833862 -7.40551186 1.88309908"
+"nod_waypoint_id" "237"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 4608 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:241"
+"nod_space" "navigation"
+"origin" "-50.4491425 -9.13296032 2.02810502"
+"nod_waypoint_id" "238"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 5120 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:242"
+"nod_space" "navigation"
+"origin" "-50.4352722 -11.4830914 2.61806774"
+"nod_waypoint_id" "239"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 5632 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:243"
+"nod_space" "navigation"
+"origin" "-50.3138008 -13.334116 3.84415126"
+"nod_waypoint_id" "240"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 6144 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:244"
+"nod_space" "navigation"
+"origin" "-50.369381 -14.644556 4.01102638"
+"nod_waypoint_id" "241"
+"nod_flags" "0"
+"nod_color" "4294967050"
+"nod_extra" "10239 6656 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:245"
+"nod_space" "navigation"
+"origin" "-57.4173355 3.98191595 3.34228802"
+"nod_waypoint_id" "242"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 6912 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:246"
+"nod_space" "navigation"
+"origin" "-57.6832886 0.474247575 2.67684245"
+"nod_waypoint_id" "243"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 7168 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:247"
+"nod_space" "navigation"
+"origin" "-57.7921791 -2.83899975 2.19214368"
+"nod_waypoint_id" "244"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 7680 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:248"
+"nod_space" "navigation"
+"origin" "-58.0358047 -5.60487223 2.0158174"
+"nod_waypoint_id" "245"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 8192 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:249"
+"nod_space" "navigation"
+"origin" "-58.6145592 -7.60412502 1.99704659"
+"nod_waypoint_id" "246"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 8704 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:250"
+"nod_space" "navigation"
+"origin" "-59.7193375 -10.5716619 2.20003533"
+"nod_waypoint_id" "247"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 9216 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:251"
+"nod_space" "navigation"
+"origin" "-60.7108231 -12.0185146 2.10764194"
+"nod_waypoint_id" "248"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 9728 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:252"
+"nod_space" "navigation"
+"origin" "-62.6927872 -13.2171593 2.24219608"
+"nod_waypoint_id" "249"
+"nod_flags" "0"
+"nod_color" "4294967049"
+"nod_extra" "10239 10240 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:253"
+"nod_space" "navigation"
+"origin" "-35.9536552 -72.1092758 -1.85000002"
+"nod_waypoint_id" "255"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 10496 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:254"
+"nod_space" "navigation"
+"origin" "-39.2611008 -72.073494 -1.73047602"
+"nod_waypoint_id" "256"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 10752 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:255"
+"nod_space" "navigation"
+"origin" "-35.9260635 -60.5246887 -1.85000002"
+"nod_waypoint_id" "257"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 11264 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:256"
+"nod_space" "navigation"
+"origin" "-33.7587357 -60.3786049 -1.73016489"
+"nod_waypoint_id" "258"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 11520 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:257"
+"nod_space" "navigation"
+"origin" "-36.0121574 -45.0966187 -1.85000002"
+"nod_waypoint_id" "261"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 12032 258"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:258"
+"nod_space" "navigation"
+"origin" "-39.3400726 -45.5828323 -1.73166561"
+"nod_waypoint_id" "262"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 12288 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:259"
+"nod_space" "navigation"
+"origin" "-11.2550087 -64.9801788 -2.82758403"
+"nod_waypoint_id" "263"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 12800 514"
+}
+{
+"classname" "nod_npd_waypoint"
+"nod_id" "npd:260"
+"nod_space" "navigation"
+"origin" "-9.83617496 -66.5441742 -2.82758403"
+"nod_waypoint_id" "264"
+"nod_flags" "0"
+"nod_color" "4294967044"
+"nod_extra" "10239 13312 258"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:0"
+"origin" "0 0 0"
+"nod_from" "0"
+"nod_to" "1"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:1"
+"origin" "0 0 0"
+"nod_from" "1"
+"nod_to" "2"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:2"
+"origin" "0 0 0"
+"nod_from" "1"
+"nod_to" "0"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:3"
+"origin" "0 0 0"
+"nod_from" "2"
+"nod_to" "1"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:4"
+"origin" "0 0 0"
+"nod_from" "2"
+"nod_to" "3"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:5"
+"origin" "0 0 0"
+"nod_from" "3"
+"nod_to" "2"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:6"
+"origin" "0 0 0"
+"nod_from" "3"
+"nod_to" "4"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:7"
+"origin" "0 0 0"
+"nod_from" "4"
+"nod_to" "3"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:8"
+"origin" "0 0 0"
+"nod_from" "4"
+"nod_to" "5"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:9"
+"origin" "0 0 0"
+"nod_from" "5"
+"nod_to" "4"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:10"
+"origin" "0 0 0"
+"nod_from" "5"
+"nod_to" "6"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:11"
+"origin" "0 0 0"
+"nod_from" "6"
+"nod_to" "5"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:12"
+"origin" "0 0 0"
+"nod_from" "7"
+"nod_to" "8"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:13"
+"origin" "0 0 0"
+"nod_from" "8"
+"nod_to" "9"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:14"
+"origin" "0 0 0"
+"nod_from" "8"
+"nod_to" "7"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:15"
+"origin" "0 0 0"
+"nod_from" "9"
+"nod_to" "8"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:16"
+"origin" "0 0 0"
+"nod_from" "9"
+"nod_to" "10"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:17"
+"origin" "0 0 0"
+"nod_from" "10"
+"nod_to" "9"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:18"
+"origin" "0 0 0"
+"nod_from" "10"
+"nod_to" "11"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:19"
+"origin" "0 0 0"
+"nod_from" "11"
+"nod_to" "10"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:20"
+"origin" "0 0 0"
+"nod_from" "11"
+"nod_to" "12"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:21"
+"origin" "0 0 0"
+"nod_from" "12"
+"nod_to" "11"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:22"
+"origin" "0 0 0"
+"nod_from" "12"
+"nod_to" "13"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:23"
+"origin" "0 0 0"
+"nod_from" "13"
+"nod_to" "12"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:24"
+"origin" "0 0 0"
+"nod_from" "13"
+"nod_to" "14"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:25"
+"origin" "0 0 0"
+"nod_from" "14"
+"nod_to" "13"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:26"
+"origin" "0 0 0"
+"nod_from" "15"
+"nod_to" "16"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:27"
+"origin" "0 0 0"
+"nod_from" "16"
+"nod_to" "17"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:28"
+"origin" "0 0 0"
+"nod_from" "16"
+"nod_to" "15"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:29"
+"origin" "0 0 0"
+"nod_from" "17"
+"nod_to" "16"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:30"
+"origin" "0 0 0"
+"nod_from" "17"
+"nod_to" "18"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:31"
+"origin" "0 0 0"
+"nod_from" "18"
+"nod_to" "17"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:32"
+"origin" "0 0 0"
+"nod_from" "18"
+"nod_to" "19"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:33"
+"origin" "0 0 0"
+"nod_from" "19"
+"nod_to" "18"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:34"
+"origin" "0 0 0"
+"nod_from" "19"
+"nod_to" "20"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:35"
+"origin" "0 0 0"
+"nod_from" "20"
+"nod_to" "19"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:36"
+"origin" "0 0 0"
+"nod_from" "20"
+"nod_to" "21"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:37"
+"origin" "0 0 0"
+"nod_from" "21"
+"nod_to" "20"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:38"
+"origin" "0 0 0"
+"nod_from" "21"
+"nod_to" "22"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:39"
+"origin" "0 0 0"
+"nod_from" "22"
+"nod_to" "21"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:40"
+"origin" "0 0 0"
+"nod_from" "23"
+"nod_to" "24"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:41"
+"origin" "0 0 0"
+"nod_from" "24"
+"nod_to" "23"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:42"
+"origin" "0 0 0"
+"nod_from" "24"
+"nod_to" "25"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:43"
+"origin" "0 0 0"
+"nod_from" "25"
+"nod_to" "24"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:44"
+"origin" "0 0 0"
+"nod_from" "25"
+"nod_to" "26"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:45"
+"origin" "0 0 0"
+"nod_from" "25"
+"nod_to" "47"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:46"
+"origin" "0 0 0"
+"nod_from" "26"
+"nod_to" "25"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:47"
+"origin" "0 0 0"
+"nod_from" "26"
+"nod_to" "27"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:48"
+"origin" "0 0 0"
+"nod_from" "26"
+"nod_to" "47"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:49"
+"origin" "0 0 0"
+"nod_from" "27"
+"nod_to" "26"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:50"
+"origin" "0 0 0"
+"nod_from" "27"
+"nod_to" "28"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:51"
+"origin" "0 0 0"
+"nod_from" "27"
+"nod_to" "49"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:52"
+"origin" "0 0 0"
+"nod_from" "28"
+"nod_to" "27"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:53"
+"origin" "0 0 0"
+"nod_from" "28"
+"nod_to" "29"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:54"
+"origin" "0 0 0"
+"nod_from" "28"
+"nod_to" "49"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:55"
+"origin" "0 0 0"
+"nod_from" "29"
+"nod_to" "28"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:56"
+"origin" "0 0 0"
+"nod_from" "29"
+"nod_to" "30"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:57"
+"origin" "0 0 0"
+"nod_from" "30"
+"nod_to" "29"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:58"
+"origin" "0 0 0"
+"nod_from" "30"
+"nod_to" "31"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:59"
+"origin" "0 0 0"
+"nod_from" "31"
+"nod_to" "30"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:60"
+"origin" "0 0 0"
+"nod_from" "31"
+"nod_to" "32"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:61"
+"origin" "0 0 0"
+"nod_from" "31"
+"nod_to" "52"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:62"
+"origin" "0 0 0"
+"nod_from" "32"
+"nod_to" "31"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:63"
+"origin" "0 0 0"
+"nod_from" "32"
+"nod_to" "33"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:64"
+"origin" "0 0 0"
+"nod_from" "32"
+"nod_to" "52"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:65"
+"origin" "0 0 0"
+"nod_from" "33"
+"nod_to" "32"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:66"
+"origin" "0 0 0"
+"nod_from" "33"
+"nod_to" "34"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:67"
+"origin" "0 0 0"
+"nod_from" "34"
+"nod_to" "33"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:68"
+"origin" "0 0 0"
+"nod_from" "34"
+"nod_to" "35"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:69"
+"origin" "0 0 0"
+"nod_from" "34"
+"nod_to" "55"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:70"
+"origin" "0 0 0"
+"nod_from" "35"
+"nod_to" "34"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:71"
+"origin" "0 0 0"
+"nod_from" "35"
+"nod_to" "36"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:72"
+"origin" "0 0 0"
+"nod_from" "35"
+"nod_to" "55"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:73"
+"origin" "0 0 0"
+"nod_from" "36"
+"nod_to" "35"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:74"
+"origin" "0 0 0"
+"nod_from" "36"
+"nod_to" "37"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:75"
+"origin" "0 0 0"
+"nod_from" "36"
+"nod_to" "55"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:76"
+"origin" "0 0 0"
+"nod_from" "37"
+"nod_to" "36"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:77"
+"origin" "0 0 0"
+"nod_from" "37"
+"nod_to" "38"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:78"
+"origin" "0 0 0"
+"nod_from" "38"
+"nod_to" "37"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:79"
+"origin" "0 0 0"
+"nod_from" "38"
+"nod_to" "39"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:80"
+"origin" "0 0 0"
+"nod_from" "38"
+"nod_to" "58"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:81"
+"origin" "0 0 0"
+"nod_from" "39"
+"nod_to" "38"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:82"
+"origin" "0 0 0"
+"nod_from" "39"
+"nod_to" "40"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:83"
+"origin" "0 0 0"
+"nod_from" "39"
+"nod_to" "58"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:84"
+"origin" "0 0 0"
+"nod_from" "40"
+"nod_to" "39"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:85"
+"origin" "0 0 0"
+"nod_from" "40"
+"nod_to" "41"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:86"
+"origin" "0 0 0"
+"nod_from" "41"
+"nod_to" "40"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:87"
+"origin" "0 0 0"
+"nod_from" "41"
+"nod_to" "42"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:88"
+"origin" "0 0 0"
+"nod_from" "41"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:89"
+"origin" "0 0 0"
+"nod_from" "42"
+"nod_to" "41"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:90"
+"origin" "0 0 0"
+"nod_from" "42"
+"nod_to" "43"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:91"
+"origin" "0 0 0"
+"nod_from" "43"
+"nod_to" "42"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:92"
+"origin" "0 0 0"
+"nod_from" "43"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:93"
+"origin" "0 0 0"
+"nod_from" "43"
+"nod_to" "63"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:94"
+"origin" "0 0 0"
+"nod_from" "43"
+"nod_to" "85"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:95"
+"origin" "0 0 0"
+"nod_from" "44"
+"nod_to" "45"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:96"
+"origin" "0 0 0"
+"nod_from" "45"
+"nod_to" "44"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:97"
+"origin" "0 0 0"
+"nod_from" "45"
+"nod_to" "46"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:98"
+"origin" "0 0 0"
+"nod_from" "46"
+"nod_to" "45"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:99"
+"origin" "0 0 0"
+"nod_from" "46"
+"nod_to" "47"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:100"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "46"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:101"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "48"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:102"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "81"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:103"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "25"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:104"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "26"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:105"
+"origin" "0 0 0"
+"nod_from" "47"
+"nod_to" "80"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:106"
+"origin" "0 0 0"
+"nod_from" "48"
+"nod_to" "47"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:107"
+"origin" "0 0 0"
+"nod_from" "48"
+"nod_to" "49"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:108"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "48"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:109"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "50"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:110"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "78"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:111"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "28"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:112"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "27"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:113"
+"origin" "0 0 0"
+"nod_from" "49"
+"nod_to" "79"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:114"
+"origin" "0 0 0"
+"nod_from" "50"
+"nod_to" "51"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:115"
+"origin" "0 0 0"
+"nod_from" "50"
+"nod_to" "49"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:116"
+"origin" "0 0 0"
+"nod_from" "51"
+"nod_to" "50"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:117"
+"origin" "0 0 0"
+"nod_from" "51"
+"nod_to" "52"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:118"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "51"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:119"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "53"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:120"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "74"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:121"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "75"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:122"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "31"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:123"
+"origin" "0 0 0"
+"nod_from" "52"
+"nod_to" "32"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:124"
+"origin" "0 0 0"
+"nod_from" "53"
+"nod_to" "52"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:125"
+"origin" "0 0 0"
+"nod_from" "53"
+"nod_to" "54"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:126"
+"origin" "0 0 0"
+"nod_from" "54"
+"nod_to" "53"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:127"
+"origin" "0 0 0"
+"nod_from" "54"
+"nod_to" "55"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:128"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "54"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:129"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "56"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:130"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "36"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:131"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "35"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:132"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "72"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:133"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "73"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:134"
+"origin" "0 0 0"
+"nod_from" "55"
+"nod_to" "34"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:135"
+"origin" "0 0 0"
+"nod_from" "56"
+"nod_to" "55"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:136"
+"origin" "0 0 0"
+"nod_from" "56"
+"nod_to" "57"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:137"
+"origin" "0 0 0"
+"nod_from" "57"
+"nod_to" "56"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:138"
+"origin" "0 0 0"
+"nod_from" "57"
+"nod_to" "58"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:139"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "57"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:140"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "59"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:141"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "39"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:142"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "38"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:143"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "69"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:144"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "68"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:145"
+"origin" "0 0 0"
+"nod_from" "58"
+"nod_to" "70"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:146"
+"origin" "0 0 0"
+"nod_from" "59"
+"nod_to" "58"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:147"
+"origin" "0 0 0"
+"nod_from" "59"
+"nod_to" "60"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:148"
+"origin" "0 0 0"
+"nod_from" "60"
+"nod_to" "59"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:149"
+"origin" "0 0 0"
+"nod_from" "60"
+"nod_to" "61"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:150"
+"origin" "0 0 0"
+"nod_from" "61"
+"nod_to" "60"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:151"
+"origin" "0 0 0"
+"nod_from" "61"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:152"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "61"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:153"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "63"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:154"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "64"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:155"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "43"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:156"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "41"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:157"
+"origin" "0 0 0"
+"nod_from" "62"
+"nod_to" "66"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:158"
+"origin" "0 0 0"
+"nod_from" "63"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:159"
+"origin" "0 0 0"
+"nod_from" "63"
+"nod_to" "85"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:160"
+"origin" "0 0 0"
+"nod_from" "63"
+"nod_to" "64"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:161"
+"origin" "0 0 0"
+"nod_from" "63"
+"nod_to" "43"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:162"
+"origin" "0 0 0"
+"nod_from" "64"
+"nod_to" "65"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:163"
+"origin" "0 0 0"
+"nod_from" "64"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:164"
+"origin" "0 0 0"
+"nod_from" "64"
+"nod_to" "85"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:165"
+"origin" "0 0 0"
+"nod_from" "65"
+"nod_to" "64"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:166"
+"origin" "0 0 0"
+"nod_from" "65"
+"nod_to" "66"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:167"
+"origin" "0 0 0"
+"nod_from" "66"
+"nod_to" "65"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:168"
+"origin" "0 0 0"
+"nod_from" "66"
+"nod_to" "67"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:169"
+"origin" "0 0 0"
+"nod_from" "66"
+"nod_to" "62"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:170"
+"origin" "0 0 0"
+"nod_from" "67"
+"nod_to" "66"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:171"
+"origin" "0 0 0"
+"nod_from" "67"
+"nod_to" "68"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:172"
+"origin" "0 0 0"
+"nod_from" "68"
+"nod_to" "67"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:173"
+"origin" "0 0 0"
+"nod_from" "68"
+"nod_to" "69"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:174"
+"origin" "0 0 0"
+"nod_from" "68"
+"nod_to" "58"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:175"
+"origin" "0 0 0"
+"nod_from" "69"
+"nod_to" "68"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:176"
+"origin" "0 0 0"
+"nod_from" "69"
+"nod_to" "70"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:177"
+"origin" "0 0 0"
+"nod_from" "69"
+"nod_to" "58"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:178"
+"origin" "0 0 0"
+"nod_from" "70"
+"nod_to" "69"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:179"
+"origin" "0 0 0"
+"nod_from" "70"
+"nod_to" "71"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:180"
+"origin" "0 0 0"
+"nod_from" "70"
+"nod_to" "58"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:181"
+"origin" "0 0 0"
+"nod_from" "71"
+"nod_to" "70"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:182"
+"origin" "0 0 0"
+"nod_from" "71"
+"nod_to" "72"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:183"
+"origin" "0 0 0"
+"nod_from" "72"
+"nod_to" "71"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:184"
+"origin" "0 0 0"
+"nod_from" "72"
+"nod_to" "73"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:185"
+"origin" "0 0 0"
+"nod_from" "72"
+"nod_to" "55"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:186"
+"origin" "0 0 0"
+"nod_from" "73"
+"nod_to" "72"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:187"
+"origin" "0 0 0"
+"nod_from" "73"
+"nod_to" "74"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:188"
+"origin" "0 0 0"
+"nod_from" "73"
+"nod_to" "55"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:189"
+"origin" "0 0 0"
+"nod_from" "74"
+"nod_to" "73"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:190"
+"origin" "0 0 0"
+"nod_from" "74"
+"nod_to" "75"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:191"
+"origin" "0 0 0"
+"nod_from" "74"
+"nod_to" "52"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:192"
+"origin" "0 0 0"
+"nod_from" "75"
+"nod_to" "74"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:193"
+"origin" "0 0 0"
+"nod_from" "75"
+"nod_to" "76"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:194"
+"origin" "0 0 0"
+"nod_from" "75"
+"nod_to" "52"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:195"
+"origin" "0 0 0"
+"nod_from" "76"
+"nod_to" "75"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:196"
+"origin" "0 0 0"
+"nod_from" "76"
+"nod_to" "77"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:197"
+"origin" "0 0 0"
+"nod_from" "77"
+"nod_to" "76"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:198"
+"origin" "0 0 0"
+"nod_from" "77"
+"nod_to" "78"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:199"
+"origin" "0 0 0"
+"nod_from" "78"
+"nod_to" "79"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:200"
+"origin" "0 0 0"
+"nod_from" "78"
+"nod_to" "77"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:201"
+"origin" "0 0 0"
+"nod_from" "78"
+"nod_to" "49"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:202"
+"origin" "0 0 0"
+"nod_from" "79"
+"nod_to" "78"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:203"
+"origin" "0 0 0"
+"nod_from" "79"
+"nod_to" "80"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:204"
+"origin" "0 0 0"
+"nod_from" "79"
+"nod_to" "49"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:205"
+"origin" "0 0 0"
+"nod_from" "80"
+"nod_to" "79"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:206"
+"origin" "0 0 0"
+"nod_from" "80"
+"nod_to" "81"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:207"
+"origin" "0 0 0"
+"nod_from" "80"
+"nod_to" "47"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:208"
+"origin" "0 0 0"
+"nod_from" "81"
+"nod_to" "80"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:209"
+"origin" "0 0 0"
+"nod_from" "81"
+"nod_to" "82"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:210"
+"origin" "0 0 0"
+"nod_from" "81"
+"nod_to" "47"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:211"
+"origin" "0 0 0"
+"nod_from" "82"
+"nod_to" "81"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:212"
+"origin" "0 0 0"
+"nod_from" "82"
+"nod_to" "83"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:213"
+"origin" "0 0 0"
+"nod_from" "83"
+"nod_to" "82"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:214"
+"origin" "0 0 0"
+"nod_from" "83"
+"nod_to" "84"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:215"
+"origin" "0 0 0"
+"nod_from" "84"
+"nod_to" "83"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:216"
+"origin" "0 0 0"
+"nod_from" "85"
+"nod_to" "86"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:217"
+"origin" "0 0 0"
+"nod_from" "85"
+"nod_to" "43"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:218"
+"origin" "0 0 0"
+"nod_from" "85"
+"nod_to" "64"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:219"
+"origin" "0 0 0"
+"nod_from" "86"
+"nod_to" "85"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:220"
+"origin" "0 0 0"
+"nod_from" "86"
+"nod_to" "87"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:221"
+"origin" "0 0 0"
+"nod_from" "87"
+"nod_to" "86"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:222"
+"origin" "0 0 0"
+"nod_from" "87"
+"nod_to" "88"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:223"
+"origin" "0 0 0"
+"nod_from" "88"
+"nod_to" "87"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:224"
+"origin" "0 0 0"
+"nod_from" "88"
+"nod_to" "89"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:225"
+"origin" "0 0 0"
+"nod_from" "89"
+"nod_to" "88"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:226"
+"origin" "0 0 0"
+"nod_from" "90"
+"nod_to" "107"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:227"
+"origin" "0 0 0"
+"nod_from" "90"
+"nod_to" "91"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:228"
+"origin" "0 0 0"
+"nod_from" "91"
+"nod_to" "90"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:229"
+"origin" "0 0 0"
+"nod_from" "91"
+"nod_to" "92"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:230"
+"origin" "0 0 0"
+"nod_from" "92"
+"nod_to" "91"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:231"
+"origin" "0 0 0"
+"nod_from" "92"
+"nod_to" "93"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:232"
+"origin" "0 0 0"
+"nod_from" "93"
+"nod_to" "92"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:233"
+"origin" "0 0 0"
+"nod_from" "93"
+"nod_to" "119"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:234"
+"origin" "0 0 0"
+"nod_from" "94"
+"nod_to" "124"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:235"
+"origin" "0 0 0"
+"nod_from" "94"
+"nod_to" "113"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:236"
+"origin" "0 0 0"
+"nod_from" "95"
+"nod_to" "104"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:237"
+"origin" "0 0 0"
+"nod_from" "95"
+"nod_to" "96"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:238"
+"origin" "0 0 0"
+"nod_from" "96"
+"nod_to" "95"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:239"
+"origin" "0 0 0"
+"nod_from" "96"
+"nod_to" "97"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:240"
+"origin" "0 0 0"
+"nod_from" "97"
+"nod_to" "96"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:241"
+"origin" "0 0 0"
+"nod_from" "98"
+"nod_to" "99"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:242"
+"origin" "0 0 0"
+"nod_from" "98"
+"nod_to" "103"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:243"
+"origin" "0 0 0"
+"nod_from" "99"
+"nod_to" "98"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:244"
+"origin" "0 0 0"
+"nod_from" "99"
+"nod_to" "100"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:245"
+"origin" "0 0 0"
+"nod_from" "100"
+"nod_to" "101"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:246"
+"origin" "0 0 0"
+"nod_from" "100"
+"nod_to" "99"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:247"
+"origin" "0 0 0"
+"nod_from" "101"
+"nod_to" "100"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:248"
+"origin" "0 0 0"
+"nod_from" "102"
+"nod_to" "103"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:249"
+"origin" "0 0 0"
+"nod_from" "102"
+"nod_to" "105"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:250"
+"origin" "0 0 0"
+"nod_from" "102"
+"nod_to" "104"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:251"
+"origin" "0 0 0"
+"nod_from" "103"
+"nod_to" "102"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:252"
+"origin" "0 0 0"
+"nod_from" "103"
+"nod_to" "104"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:253"
+"origin" "0 0 0"
+"nod_from" "103"
+"nod_to" "98"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:254"
+"origin" "0 0 0"
+"nod_from" "104"
+"nod_to" "103"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:255"
+"origin" "0 0 0"
+"nod_from" "104"
+"nod_to" "102"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:256"
+"origin" "0 0 0"
+"nod_from" "104"
+"nod_to" "95"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:257"
+"origin" "0 0 0"
+"nod_from" "105"
+"nod_to" "102"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:258"
+"origin" "0 0 0"
+"nod_from" "105"
+"nod_to" "111"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:259"
+"origin" "0 0 0"
+"nod_from" "106"
+"nod_to" "112"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:260"
+"origin" "0 0 0"
+"nod_from" "106"
+"nod_to" "107"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:261"
+"origin" "0 0 0"
+"nod_from" "107"
+"nod_to" "106"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:262"
+"origin" "0 0 0"
+"nod_from" "107"
+"nod_to" "90"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:263"
+"origin" "0 0 0"
+"nod_from" "108"
+"nod_to" "115"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:264"
+"origin" "0 0 0"
+"nod_from" "108"
+"nod_to" "109"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:265"
+"origin" "0 0 0"
+"nod_from" "109"
+"nod_to" "108"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:266"
+"origin" "0 0 0"
+"nod_from" "109"
+"nod_to" "110"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:267"
+"origin" "0 0 0"
+"nod_from" "110"
+"nod_to" "109"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:268"
+"origin" "0 0 0"
+"nod_from" "110"
+"nod_to" "111"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:269"
+"origin" "0 0 0"
+"nod_from" "110"
+"nod_to" "112"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:270"
+"origin" "0 0 0"
+"nod_from" "111"
+"nod_to" "110"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:271"
+"origin" "0 0 0"
+"nod_from" "111"
+"nod_to" "112"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:272"
+"origin" "0 0 0"
+"nod_from" "111"
+"nod_to" "105"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:273"
+"origin" "0 0 0"
+"nod_from" "112"
+"nod_to" "111"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:274"
+"origin" "0 0 0"
+"nod_from" "112"
+"nod_to" "110"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:275"
+"origin" "0 0 0"
+"nod_from" "112"
+"nod_to" "106"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:276"
+"origin" "0 0 0"
+"nod_from" "113"
+"nod_to" "114"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:277"
+"origin" "0 0 0"
+"nod_from" "113"
+"nod_to" "94"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:278"
+"origin" "0 0 0"
+"nod_from" "114"
+"nod_to" "113"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:279"
+"origin" "0 0 0"
+"nod_from" "114"
+"nod_to" "115"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:280"
+"origin" "0 0 0"
+"nod_from" "115"
+"nod_to" "114"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:281"
+"origin" "0 0 0"
+"nod_from" "115"
+"nod_to" "108"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:282"
+"origin" "0 0 0"
+"nod_from" "115"
+"nod_to" "258"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:283"
+"origin" "0 0 0"
+"nod_from" "116"
+"nod_to" "121"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:284"
+"origin" "0 0 0"
+"nod_from" "116"
+"nod_to" "128"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:285"
+"origin" "0 0 0"
+"nod_from" "117"
+"nod_to" "128"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:286"
+"origin" "0 0 0"
+"nod_from" "117"
+"nod_to" "118"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:287"
+"origin" "0 0 0"
+"nod_from" "117"
+"nod_to" "256"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:288"
+"origin" "0 0 0"
+"nod_from" "118"
+"nod_to" "117"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:289"
+"origin" "0 0 0"
+"nod_from" "118"
+"nod_to" "122"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:290"
+"origin" "0 0 0"
+"nod_from" "119"
+"nod_to" "93"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:291"
+"origin" "0 0 0"
+"nod_from" "119"
+"nod_to" "120"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:292"
+"origin" "0 0 0"
+"nod_from" "120"
+"nod_to" "119"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:293"
+"origin" "0 0 0"
+"nod_from" "120"
+"nod_to" "121"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:294"
+"origin" "0 0 0"
+"nod_from" "121"
+"nod_to" "120"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:295"
+"origin" "0 0 0"
+"nod_from" "121"
+"nod_to" "116"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:296"
+"origin" "0 0 0"
+"nod_from" "121"
+"nod_to" "259"
+"nod_cost" "33"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:297"
+"origin" "0 0 0"
+"nod_from" "122"
+"nod_to" "118"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:298"
+"origin" "0 0 0"
+"nod_from" "122"
+"nod_to" "123"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:299"
+"origin" "0 0 0"
+"nod_from" "123"
+"nod_to" "122"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:300"
+"origin" "0 0 0"
+"nod_from" "123"
+"nod_to" "124"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:301"
+"origin" "0 0 0"
+"nod_from" "124"
+"nod_to" "123"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:302"
+"origin" "0 0 0"
+"nod_from" "124"
+"nod_to" "94"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:303"
+"origin" "0 0 0"
+"nod_from" "125"
+"nod_to" "126"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:304"
+"origin" "0 0 0"
+"nod_from" "125"
+"nod_to" "133"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:305"
+"origin" "0 0 0"
+"nod_from" "126"
+"nod_to" "125"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:306"
+"origin" "0 0 0"
+"nod_from" "126"
+"nod_to" "127"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:307"
+"origin" "0 0 0"
+"nod_from" "126"
+"nod_to" "128"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:308"
+"origin" "0 0 0"
+"nod_from" "127"
+"nod_to" "126"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:309"
+"origin" "0 0 0"
+"nod_from" "127"
+"nod_to" "128"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:310"
+"origin" "0 0 0"
+"nod_from" "128"
+"nod_to" "127"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:311"
+"origin" "0 0 0"
+"nod_from" "128"
+"nod_to" "126"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:312"
+"origin" "0 0 0"
+"nod_from" "128"
+"nod_to" "117"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:313"
+"origin" "0 0 0"
+"nod_from" "128"
+"nod_to" "116"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:314"
+"origin" "0 0 0"
+"nod_from" "129"
+"nod_to" "134"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:315"
+"origin" "0 0 0"
+"nod_from" "129"
+"nod_to" "130"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:316"
+"origin" "0 0 0"
+"nod_from" "130"
+"nod_to" "129"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:317"
+"origin" "0 0 0"
+"nod_from" "130"
+"nod_to" "131"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:318"
+"origin" "0 0 0"
+"nod_from" "131"
+"nod_to" "130"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:319"
+"origin" "0 0 0"
+"nod_from" "132"
+"nod_to" "136"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:320"
+"origin" "0 0 0"
+"nod_from" "132"
+"nod_to" "133"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:321"
+"origin" "0 0 0"
+"nod_from" "132"
+"nod_to" "134"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:322"
+"origin" "0 0 0"
+"nod_from" "133"
+"nod_to" "132"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:323"
+"origin" "0 0 0"
+"nod_from" "133"
+"nod_to" "134"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:324"
+"origin" "0 0 0"
+"nod_from" "133"
+"nod_to" "125"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:325"
+"origin" "0 0 0"
+"nod_from" "134"
+"nod_to" "133"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:326"
+"origin" "0 0 0"
+"nod_from" "134"
+"nod_to" "129"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:327"
+"origin" "0 0 0"
+"nod_from" "134"
+"nod_to" "132"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:328"
+"origin" "0 0 0"
+"nod_from" "135"
+"nod_to" "139"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:329"
+"origin" "0 0 0"
+"nod_from" "135"
+"nod_to" "136"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:330"
+"origin" "0 0 0"
+"nod_from" "136"
+"nod_to" "135"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:331"
+"origin" "0 0 0"
+"nod_from" "136"
+"nod_to" "132"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:332"
+"origin" "0 0 0"
+"nod_from" "137"
+"nod_to" "141"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:333"
+"origin" "0 0 0"
+"nod_from" "137"
+"nod_to" "138"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:334"
+"origin" "0 0 0"
+"nod_from" "138"
+"nod_to" "137"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:335"
+"origin" "0 0 0"
+"nod_from" "138"
+"nod_to" "139"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:336"
+"origin" "0 0 0"
+"nod_from" "138"
+"nod_to" "254"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:337"
+"origin" "0 0 0"
+"nod_from" "139"
+"nod_to" "138"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:338"
+"origin" "0 0 0"
+"nod_from" "139"
+"nod_to" "135"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:339"
+"origin" "0 0 0"
+"nod_from" "140"
+"nod_to" "141"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:340"
+"origin" "0 0 0"
+"nod_from" "141"
+"nod_to" "137"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:341"
+"origin" "0 0 0"
+"nod_from" "141"
+"nod_to" "140"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:342"
+"origin" "0 0 0"
+"nod_from" "142"
+"nod_to" "143"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:343"
+"origin" "0 0 0"
+"nod_from" "143"
+"nod_to" "144"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:344"
+"origin" "0 0 0"
+"nod_from" "143"
+"nod_to" "142"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:345"
+"origin" "0 0 0"
+"nod_from" "144"
+"nod_to" "143"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:346"
+"origin" "0 0 0"
+"nod_from" "144"
+"nod_to" "145"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:347"
+"origin" "0 0 0"
+"nod_from" "145"
+"nod_to" "144"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:348"
+"origin" "0 0 0"
+"nod_from" "145"
+"nod_to" "146"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:349"
+"origin" "0 0 0"
+"nod_from" "145"
+"nod_to" "155"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:350"
+"origin" "0 0 0"
+"nod_from" "146"
+"nod_to" "145"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:351"
+"origin" "0 0 0"
+"nod_from" "146"
+"nod_to" "147"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:352"
+"origin" "0 0 0"
+"nod_from" "147"
+"nod_to" "148"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:353"
+"origin" "0 0 0"
+"nod_from" "147"
+"nod_to" "146"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:354"
+"origin" "0 0 0"
+"nod_from" "148"
+"nod_to" "147"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:355"
+"origin" "0 0 0"
+"nod_from" "148"
+"nod_to" "149"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:356"
+"origin" "0 0 0"
+"nod_from" "149"
+"nod_to" "150"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:357"
+"origin" "0 0 0"
+"nod_from" "149"
+"nod_to" "148"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:358"
+"origin" "0 0 0"
+"nod_from" "150"
+"nod_to" "149"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:359"
+"origin" "0 0 0"
+"nod_from" "150"
+"nod_to" "151"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:360"
+"origin" "0 0 0"
+"nod_from" "151"
+"nod_to" "150"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:361"
+"origin" "0 0 0"
+"nod_from" "151"
+"nod_to" "152"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:362"
+"origin" "0 0 0"
+"nod_from" "152"
+"nod_to" "151"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:363"
+"origin" "0 0 0"
+"nod_from" "152"
+"nod_to" "153"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:364"
+"origin" "0 0 0"
+"nod_from" "153"
+"nod_to" "152"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:365"
+"origin" "0 0 0"
+"nod_from" "153"
+"nod_to" "154"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:366"
+"origin" "0 0 0"
+"nod_from" "154"
+"nod_to" "153"
+"nod_cost" "2"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:367"
+"origin" "0 0 0"
+"nod_from" "154"
+"nod_to" "163"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:368"
+"origin" "0 0 0"
+"nod_from" "155"
+"nod_to" "156"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:369"
+"origin" "0 0 0"
+"nod_from" "155"
+"nod_to" "145"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:370"
+"origin" "0 0 0"
+"nod_from" "156"
+"nod_to" "155"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:371"
+"origin" "0 0 0"
+"nod_from" "156"
+"nod_to" "157"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:372"
+"origin" "0 0 0"
+"nod_from" "157"
+"nod_to" "156"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:373"
+"origin" "0 0 0"
+"nod_from" "157"
+"nod_to" "158"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:374"
+"origin" "0 0 0"
+"nod_from" "158"
+"nod_to" "157"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:375"
+"origin" "0 0 0"
+"nod_from" "158"
+"nod_to" "159"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:376"
+"origin" "0 0 0"
+"nod_from" "159"
+"nod_to" "158"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:377"
+"origin" "0 0 0"
+"nod_from" "159"
+"nod_to" "160"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:378"
+"origin" "0 0 0"
+"nod_from" "160"
+"nod_to" "159"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:379"
+"origin" "0 0 0"
+"nod_from" "160"
+"nod_to" "161"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:380"
+"origin" "0 0 0"
+"nod_from" "161"
+"nod_to" "160"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:381"
+"origin" "0 0 0"
+"nod_from" "161"
+"nod_to" "162"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:382"
+"origin" "0 0 0"
+"nod_from" "162"
+"nod_to" "161"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:383"
+"origin" "0 0 0"
+"nod_from" "162"
+"nod_to" "163"
+"nod_cost" "33"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:384"
+"origin" "0 0 0"
+"nod_from" "163"
+"nod_to" "154"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:385"
+"origin" "0 0 0"
+"nod_from" "163"
+"nod_to" "162"
+"nod_cost" "97"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:386"
+"origin" "0 0 0"
+"nod_from" "164"
+"nod_to" "165"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:387"
+"origin" "0 0 0"
+"nod_from" "165"
+"nod_to" "166"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:388"
+"origin" "0 0 0"
+"nod_from" "165"
+"nod_to" "164"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:389"
+"origin" "0 0 0"
+"nod_from" "166"
+"nod_to" "165"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:390"
+"origin" "0 0 0"
+"nod_from" "166"
+"nod_to" "167"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:391"
+"origin" "0 0 0"
+"nod_from" "167"
+"nod_to" "166"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:392"
+"origin" "0 0 0"
+"nod_from" "167"
+"nod_to" "168"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:393"
+"origin" "0 0 0"
+"nod_from" "168"
+"nod_to" "167"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:394"
+"origin" "0 0 0"
+"nod_from" "168"
+"nod_to" "169"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:395"
+"origin" "0 0 0"
+"nod_from" "169"
+"nod_to" "168"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:396"
+"origin" "0 0 0"
+"nod_from" "169"
+"nod_to" "170"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:397"
+"origin" "0 0 0"
+"nod_from" "170"
+"nod_to" "171"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:398"
+"origin" "0 0 0"
+"nod_from" "170"
+"nod_to" "169"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:399"
+"origin" "0 0 0"
+"nod_from" "171"
+"nod_to" "170"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:400"
+"origin" "0 0 0"
+"nod_from" "171"
+"nod_to" "172"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:401"
+"origin" "0 0 0"
+"nod_from" "172"
+"nod_to" "171"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:402"
+"origin" "0 0 0"
+"nod_from" "172"
+"nod_to" "173"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:403"
+"origin" "0 0 0"
+"nod_from" "173"
+"nod_to" "172"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:404"
+"origin" "0 0 0"
+"nod_from" "173"
+"nod_to" "174"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:405"
+"origin" "0 0 0"
+"nod_from" "174"
+"nod_to" "173"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:406"
+"origin" "0 0 0"
+"nod_from" "174"
+"nod_to" "175"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:407"
+"origin" "0 0 0"
+"nod_from" "175"
+"nod_to" "174"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:408"
+"origin" "0 0 0"
+"nod_from" "175"
+"nod_to" "176"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:409"
+"origin" "0 0 0"
+"nod_from" "176"
+"nod_to" "175"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:410"
+"origin" "0 0 0"
+"nod_from" "176"
+"nod_to" "177"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:411"
+"origin" "0 0 0"
+"nod_from" "177"
+"nod_to" "176"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:412"
+"origin" "0 0 0"
+"nod_from" "177"
+"nod_to" "178"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:413"
+"origin" "0 0 0"
+"nod_from" "178"
+"nod_to" "177"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:414"
+"origin" "0 0 0"
+"nod_from" "178"
+"nod_to" "179"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:415"
+"origin" "0 0 0"
+"nod_from" "179"
+"nod_to" "178"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:416"
+"origin" "0 0 0"
+"nod_from" "180"
+"nod_to" "181"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:417"
+"origin" "0 0 0"
+"nod_from" "181"
+"nod_to" "180"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:418"
+"origin" "0 0 0"
+"nod_from" "181"
+"nod_to" "182"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:419"
+"origin" "0 0 0"
+"nod_from" "182"
+"nod_to" "181"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:420"
+"origin" "0 0 0"
+"nod_from" "182"
+"nod_to" "183"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:421"
+"origin" "0 0 0"
+"nod_from" "183"
+"nod_to" "182"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:422"
+"origin" "0 0 0"
+"nod_from" "183"
+"nod_to" "184"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:423"
+"origin" "0 0 0"
+"nod_from" "184"
+"nod_to" "183"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:424"
+"origin" "0 0 0"
+"nod_from" "184"
+"nod_to" "185"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:425"
+"origin" "0 0 0"
+"nod_from" "185"
+"nod_to" "184"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:426"
+"origin" "0 0 0"
+"nod_from" "185"
+"nod_to" "186"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:427"
+"origin" "0 0 0"
+"nod_from" "186"
+"nod_to" "187"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:428"
+"origin" "0 0 0"
+"nod_from" "186"
+"nod_to" "185"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:429"
+"origin" "0 0 0"
+"nod_from" "187"
+"nod_to" "186"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:430"
+"origin" "0 0 0"
+"nod_from" "187"
+"nod_to" "188"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:431"
+"origin" "0 0 0"
+"nod_from" "188"
+"nod_to" "187"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:432"
+"origin" "0 0 0"
+"nod_from" "188"
+"nod_to" "189"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:433"
+"origin" "0 0 0"
+"nod_from" "189"
+"nod_to" "188"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:434"
+"origin" "0 0 0"
+"nod_from" "189"
+"nod_to" "190"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:435"
+"origin" "0 0 0"
+"nod_from" "190"
+"nod_to" "189"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:436"
+"origin" "0 0 0"
+"nod_from" "190"
+"nod_to" "191"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:437"
+"origin" "0 0 0"
+"nod_from" "191"
+"nod_to" "190"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:438"
+"origin" "0 0 0"
+"nod_from" "191"
+"nod_to" "192"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:439"
+"origin" "0 0 0"
+"nod_from" "192"
+"nod_to" "191"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:440"
+"origin" "0 0 0"
+"nod_from" "192"
+"nod_to" "193"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:441"
+"origin" "0 0 0"
+"nod_from" "193"
+"nod_to" "192"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:442"
+"origin" "0 0 0"
+"nod_from" "193"
+"nod_to" "194"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:443"
+"origin" "0 0 0"
+"nod_from" "194"
+"nod_to" "193"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:444"
+"origin" "0 0 0"
+"nod_from" "195"
+"nod_to" "196"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:445"
+"origin" "0 0 0"
+"nod_from" "196"
+"nod_to" "195"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:446"
+"origin" "0 0 0"
+"nod_from" "196"
+"nod_to" "197"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:447"
+"origin" "0 0 0"
+"nod_from" "197"
+"nod_to" "198"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:448"
+"origin" "0 0 0"
+"nod_from" "197"
+"nod_to" "196"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:449"
+"origin" "0 0 0"
+"nod_from" "198"
+"nod_to" "197"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:450"
+"origin" "0 0 0"
+"nod_from" "198"
+"nod_to" "199"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:451"
+"origin" "0 0 0"
+"nod_from" "199"
+"nod_to" "198"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:452"
+"origin" "0 0 0"
+"nod_from" "199"
+"nod_to" "200"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:453"
+"origin" "0 0 0"
+"nod_from" "200"
+"nod_to" "199"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:454"
+"origin" "0 0 0"
+"nod_from" "200"
+"nod_to" "201"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:455"
+"origin" "0 0 0"
+"nod_from" "201"
+"nod_to" "200"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:456"
+"origin" "0 0 0"
+"nod_from" "201"
+"nod_to" "202"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:457"
+"origin" "0 0 0"
+"nod_from" "202"
+"nod_to" "201"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:458"
+"origin" "0 0 0"
+"nod_from" "202"
+"nod_to" "203"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:459"
+"origin" "0 0 0"
+"nod_from" "203"
+"nod_to" "202"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:460"
+"origin" "0 0 0"
+"nod_from" "203"
+"nod_to" "204"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:461"
+"origin" "0 0 0"
+"nod_from" "204"
+"nod_to" "203"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:462"
+"origin" "0 0 0"
+"nod_from" "204"
+"nod_to" "205"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:463"
+"origin" "0 0 0"
+"nod_from" "205"
+"nod_to" "204"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:464"
+"origin" "0 0 0"
+"nod_from" "205"
+"nod_to" "206"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:465"
+"origin" "0 0 0"
+"nod_from" "206"
+"nod_to" "207"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:466"
+"origin" "0 0 0"
+"nod_from" "206"
+"nod_to" "205"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:467"
+"origin" "0 0 0"
+"nod_from" "207"
+"nod_to" "206"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:468"
+"origin" "0 0 0"
+"nod_from" "207"
+"nod_to" "208"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:469"
+"origin" "0 0 0"
+"nod_from" "208"
+"nod_to" "207"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:470"
+"origin" "0 0 0"
+"nod_from" "208"
+"nod_to" "209"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:471"
+"origin" "0 0 0"
+"nod_from" "209"
+"nod_to" "208"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:472"
+"origin" "0 0 0"
+"nod_from" "210"
+"nod_to" "211"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:473"
+"origin" "0 0 0"
+"nod_from" "211"
+"nod_to" "210"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:474"
+"origin" "0 0 0"
+"nod_from" "211"
+"nod_to" "212"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:475"
+"origin" "0 0 0"
+"nod_from" "212"
+"nod_to" "211"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:476"
+"origin" "0 0 0"
+"nod_from" "212"
+"nod_to" "213"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:477"
+"origin" "0 0 0"
+"nod_from" "213"
+"nod_to" "214"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:478"
+"origin" "0 0 0"
+"nod_from" "213"
+"nod_to" "212"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:479"
+"origin" "0 0 0"
+"nod_from" "214"
+"nod_to" "213"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:480"
+"origin" "0 0 0"
+"nod_from" "214"
+"nod_to" "215"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:481"
+"origin" "0 0 0"
+"nod_from" "215"
+"nod_to" "214"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:482"
+"origin" "0 0 0"
+"nod_from" "215"
+"nod_to" "216"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:483"
+"origin" "0 0 0"
+"nod_from" "216"
+"nod_to" "215"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:484"
+"origin" "0 0 0"
+"nod_from" "216"
+"nod_to" "217"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:485"
+"origin" "0 0 0"
+"nod_from" "217"
+"nod_to" "216"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:486"
+"origin" "0 0 0"
+"nod_from" "217"
+"nod_to" "218"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:487"
+"origin" "0 0 0"
+"nod_from" "218"
+"nod_to" "217"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:488"
+"origin" "0 0 0"
+"nod_from" "218"
+"nod_to" "219"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:489"
+"origin" "0 0 0"
+"nod_from" "218"
+"nod_to" "245"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:490"
+"origin" "0 0 0"
+"nod_from" "219"
+"nod_to" "218"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:491"
+"origin" "0 0 0"
+"nod_from" "219"
+"nod_to" "220"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:492"
+"origin" "0 0 0"
+"nod_from" "220"
+"nod_to" "219"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:493"
+"origin" "0 0 0"
+"nod_from" "220"
+"nod_to" "221"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:494"
+"origin" "0 0 0"
+"nod_from" "221"
+"nod_to" "220"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:495"
+"origin" "0 0 0"
+"nod_from" "221"
+"nod_to" "222"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:496"
+"origin" "0 0 0"
+"nod_from" "222"
+"nod_to" "221"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:497"
+"origin" "0 0 0"
+"nod_from" "222"
+"nod_to" "223"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:498"
+"origin" "0 0 0"
+"nod_from" "223"
+"nod_to" "224"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:499"
+"origin" "0 0 0"
+"nod_from" "223"
+"nod_to" "222"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:500"
+"origin" "0 0 0"
+"nod_from" "224"
+"nod_to" "223"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:501"
+"origin" "0 0 0"
+"nod_from" "224"
+"nod_to" "225"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:502"
+"origin" "0 0 0"
+"nod_from" "225"
+"nod_to" "224"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:503"
+"origin" "0 0 0"
+"nod_from" "226"
+"nod_to" "227"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:504"
+"origin" "0 0 0"
+"nod_from" "227"
+"nod_to" "226"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:505"
+"origin" "0 0 0"
+"nod_from" "227"
+"nod_to" "228"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:506"
+"origin" "0 0 0"
+"nod_from" "228"
+"nod_to" "227"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:507"
+"origin" "0 0 0"
+"nod_from" "228"
+"nod_to" "229"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:508"
+"origin" "0 0 0"
+"nod_from" "229"
+"nod_to" "228"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:509"
+"origin" "0 0 0"
+"nod_from" "229"
+"nod_to" "230"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:510"
+"origin" "0 0 0"
+"nod_from" "230"
+"nod_to" "229"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:511"
+"origin" "0 0 0"
+"nod_from" "230"
+"nod_to" "231"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:512"
+"origin" "0 0 0"
+"nod_from" "231"
+"nod_to" "230"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:513"
+"origin" "0 0 0"
+"nod_from" "231"
+"nod_to" "232"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:514"
+"origin" "0 0 0"
+"nod_from" "232"
+"nod_to" "233"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:515"
+"origin" "0 0 0"
+"nod_from" "232"
+"nod_to" "231"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:516"
+"origin" "0 0 0"
+"nod_from" "233"
+"nod_to" "234"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:517"
+"origin" "0 0 0"
+"nod_from" "233"
+"nod_to" "232"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:518"
+"origin" "0 0 0"
+"nod_from" "234"
+"nod_to" "233"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:519"
+"origin" "0 0 0"
+"nod_from" "234"
+"nod_to" "235"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:520"
+"origin" "0 0 0"
+"nod_from" "235"
+"nod_to" "234"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:521"
+"origin" "0 0 0"
+"nod_from" "235"
+"nod_to" "236"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:522"
+"origin" "0 0 0"
+"nod_from" "236"
+"nod_to" "235"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:523"
+"origin" "0 0 0"
+"nod_from" "236"
+"nod_to" "237"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:524"
+"origin" "0 0 0"
+"nod_from" "237"
+"nod_to" "236"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:525"
+"origin" "0 0 0"
+"nod_from" "237"
+"nod_to" "238"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:526"
+"origin" "0 0 0"
+"nod_from" "238"
+"nod_to" "237"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:527"
+"origin" "0 0 0"
+"nod_from" "238"
+"nod_to" "239"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:528"
+"origin" "0 0 0"
+"nod_from" "239"
+"nod_to" "238"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:529"
+"origin" "0 0 0"
+"nod_from" "239"
+"nod_to" "240"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:530"
+"origin" "0 0 0"
+"nod_from" "240"
+"nod_to" "241"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:531"
+"origin" "0 0 0"
+"nod_from" "240"
+"nod_to" "239"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:532"
+"origin" "0 0 0"
+"nod_from" "241"
+"nod_to" "240"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:533"
+"origin" "0 0 0"
+"nod_from" "241"
+"nod_to" "242"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:534"
+"origin" "0 0 0"
+"nod_from" "242"
+"nod_to" "241"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:535"
+"origin" "0 0 0"
+"nod_from" "242"
+"nod_to" "243"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:536"
+"origin" "0 0 0"
+"nod_from" "243"
+"nod_to" "242"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:537"
+"origin" "0 0 0"
+"nod_from" "243"
+"nod_to" "244"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:538"
+"origin" "0 0 0"
+"nod_from" "244"
+"nod_to" "243"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:539"
+"origin" "0 0 0"
+"nod_from" "245"
+"nod_to" "246"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:540"
+"origin" "0 0 0"
+"nod_from" "246"
+"nod_to" "245"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:541"
+"origin" "0 0 0"
+"nod_from" "246"
+"nod_to" "247"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:542"
+"origin" "0 0 0"
+"nod_from" "247"
+"nod_to" "246"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:543"
+"origin" "0 0 0"
+"nod_from" "247"
+"nod_to" "248"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:544"
+"origin" "0 0 0"
+"nod_from" "248"
+"nod_to" "247"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:545"
+"origin" "0 0 0"
+"nod_from" "248"
+"nod_to" "249"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:546"
+"origin" "0 0 0"
+"nod_from" "249"
+"nod_to" "248"
+"nod_cost" "3"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:547"
+"origin" "0 0 0"
+"nod_from" "249"
+"nod_to" "250"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:548"
+"origin" "0 0 0"
+"nod_from" "250"
+"nod_to" "249"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:549"
+"origin" "0 0 0"
+"nod_from" "250"
+"nod_to" "251"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:550"
+"origin" "0 0 0"
+"nod_from" "251"
+"nod_to" "250"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:551"
+"origin" "0 0 0"
+"nod_from" "251"
+"nod_to" "252"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:552"
+"origin" "0 0 0"
+"nod_from" "252"
+"nod_to" "251"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:553"
+"origin" "0 0 0"
+"nod_from" "253"
+"nod_to" "254"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:554"
+"origin" "0 0 0"
+"nod_from" "254"
+"nod_to" "253"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:555"
+"origin" "0 0 0"
+"nod_from" "254"
+"nod_to" "138"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:556"
+"origin" "0 0 0"
+"nod_from" "255"
+"nod_to" "256"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:557"
+"origin" "0 0 0"
+"nod_from" "256"
+"nod_to" "255"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:558"
+"origin" "0 0 0"
+"nod_from" "256"
+"nod_to" "117"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:559"
+"origin" "0 0 0"
+"nod_from" "257"
+"nod_to" "258"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:560"
+"origin" "0 0 0"
+"nod_from" "258"
+"nod_to" "257"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:561"
+"origin" "0 0 0"
+"nod_from" "258"
+"nod_to" "115"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:562"
+"origin" "0 0 0"
+"nod_from" "259"
+"nod_to" "260"
+"nod_cost" "1"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:563"
+"origin" "0 0 0"
+"nod_from" "259"
+"nod_to" "121"
+"nod_cost" "33"
+}
+{
+"classname" "nod_npd_link"
+"nod_id" "link:564"
+"origin" "0 0 0"
+"nod_from" "260"
+"nod_to" "259"
+"nod_cost" "1"
+}
+{
+"classname" "nod_scene"
+"nod_id" "scene"
+"origin" "0 0 0"
+"nod_schema" "14"
+"nod_sources" "9eb32db8 43180353 7481e785"
+}

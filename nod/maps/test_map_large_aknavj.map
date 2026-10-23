@@ -1,0 +1,155 @@
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( -64 -9 0 ) ( -64 -23.5 0 ) ( -64 -23.5 -1.5 ) nod/defaultgrid16 5120 0 0 -0.012402 0.000049 0 0 0
+( 8.5 63.5 0 ) ( -5 63.5 0 ) ( -5 63.5 -1.5 ) nod/defaultgrid16 5139 0 0 -0.012549 0.000049 0 0 0
+( 64.5 -20.5 0 ) ( 64.5 -6 0 ) ( 64.5 -6 -1.5 ) nod/defaultgrid16 5120 0 0 -0.012402 0.000049 0 0 0
+( -12.5 -63.5 0 ) ( 1 -63.5 0 ) ( 1 -63.5 -1.5 ) nod/defaultgrid16 5139 0 0 -0.012549 0.000049 0 0 0
+( -7 -18 0 ) ( -7 -3.5 0 ) ( 6.5 -3.5 0 ) nod/defaultgrid16 5139 5120 0 -0.012549 0.012402 0 0 0
+( 6.5 -3.5 -0.5 ) ( -7 -3.5 -0.5 ) ( -7 -18 -0.5 ) nod/defaultgrid16 5139 5120 0 -0.012549 0.012402 0 0 0
+}
+// brush 1
+{
+( -65 64 4 ) ( -65 -62 4 ) ( -65 -62 3.5 ) nod/MS_Sky_Stormy_BG 260 497 0 -0.246094 0.101562 0 0 0
+( 63 64 4 ) ( -64.5 64 4 ) ( -64.5 64 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( -64.5 -62 4 ) ( 63 -62 4 ) ( 63 -62 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( -61.5 -62 50.5 ) ( -61.5 64 50.5 ) ( 66 64 50.5 ) nod/MS_Sky_Stormy_BG 0 260 0 -0.000977 0.246094 0 0 0
+( 63 64 -1.5 ) ( -64.5 64 -1.5 ) ( -64.5 -62 -1.5 ) nod/MS_Sky_Stormy_BG 0 260 0 -0.000977 0.246094 0 0 0
+( -64.5 -62 4 ) ( -64.5 64 4 ) ( -64.5 -62 3.5 ) nod/MS_Sky_Stormy_BG 260 497 0 -0.246094 0.101562 0 0 0
+}
+// brush 2
+{
+( -64.5 64 4 ) ( -64.5 -62 4 ) ( -64.5 -62 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( 63 64.5 4 ) ( -64.5 64.5 4 ) ( -64.5 64.5 3.5 ) nod/MS_Sky_Stormy_BG 252 497 0 -0.249023 0.101562 0 0 0
+( 63 -62 4 ) ( 63 64 4 ) ( 63 64 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( -61.5 -62 50.5 ) ( -61.5 64 50.5 ) ( 66 64 50.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( 63 64 -1.5 ) ( -64.5 64 -1.5 ) ( -64.5 -62 -1.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( -64.5 64 4 ) ( 63 64 4 ) ( -64.5 64 3.5 ) nod/MS_Sky_Stormy_BG 252 497 0 -0.249023 0.101562 0 0 0
+}
+// brush 3
+{
+( 63 64 4 ) ( -64.5 64 4 ) ( -64.5 64 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( 63.5 -62 4 ) ( 63.5 64 4 ) ( 63.5 64 3.5 ) nod/MS_Sky_Stormy_BG 260 497 0 -0.246094 0.101562 0 0 0
+( -64.5 -62 4 ) ( 63 -62 4 ) ( 63 -62 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( -61.5 -62 50.5 ) ( -61.5 64 50.5 ) ( 66 64 50.5 ) nod/MS_Sky_Stormy_BG 0 260 0 -0.000977 0.246094 0 0 0
+( 63 64 -1.5 ) ( -64.5 64 -1.5 ) ( -64.5 -62 -1.5 ) nod/MS_Sky_Stormy_BG 0 260 0 -0.000977 0.246094 0 0 0
+( 63 64 4 ) ( 63 -62 4 ) ( 63 64 3.5 ) nod/MS_Sky_Stormy_BG 260 497 0 -0.246094 0.101562 0 0 0
+}
+// brush 4
+{
+( -64.5 64 4 ) ( -64.5 -62 4 ) ( -64.5 -62 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( 63 -62 4 ) ( 63 64 4 ) ( 63 64 3.5 ) nod/MS_Sky_Stormy_BG 0 497 0 -0.000977 0.101562 0 0 0
+( -64.5 -62.5 4 ) ( 63 -62.5 4 ) ( 63 -62.5 3.5 ) nod/MS_Sky_Stormy_BG 252 497 0 -0.249023 0.101562 0 0 0
+( -61.5 -62 50.5 ) ( -61.5 64 50.5 ) ( 66 64 50.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( 63 64 -1.5 ) ( -64.5 64 -1.5 ) ( -64.5 -62 -1.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( 63 -62 4 ) ( -64.5 -62 4 ) ( 63 -62 3.5 ) nod/MS_Sky_Stormy_BG 252 497 0 -0.249023 0.101562 0 0 0
+}
+// brush 5
+{
+( -64.5 64 4 ) ( -64.5 -62 4 ) ( -64.5 -62 3.5 ) nod/MS_Sky_Stormy_BG 260 0 0 -0.246094 0.000977 0 0 0
+( 63 64 4 ) ( -64.5 64 4 ) ( -64.5 64 3.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( 63 -62 4 ) ( 63 64 4 ) ( 63 64 3.5 ) nod/MS_Sky_Stormy_BG 260 0 0 -0.246094 0.000977 0 0 0
+( -64.5 -62 4 ) ( 63 -62 4 ) ( 63 -62 3.5 ) nod/MS_Sky_Stormy_BG 252 0 0 -0.249023 0.000977 0 0 0
+( -61.5 -62 51 ) ( -61.5 64 51 ) ( 66 64 51 ) nod/MS_Sky_Stormy_BG 252 260 0 -0.249023 0.246094 0 0 0
+( -61.5 64 50.5 ) ( -61.5 -62 50.5 ) ( 66 64 50.5 ) nod/MS_Sky_Stormy_BG 252 260 0 -0.249023 0.246094 0 0 0
+}
+// brush 6
+{
+( -64.5 64 4 ) ( -64.5 -62 4 ) ( -64.5 -62 3.5 ) nod/MS_Sky_Stormy_Clouds_a 0 -13 0 1.000000 1.000000 0 0 0
+( 63 64 4 ) ( -64.5 64 4 ) ( -64.5 64 3.5 ) nod/MS_Sky_Stormy_Clouds_a 1 -13 0 1.000000 1.000000 0 0 0
+( 63 -62 4 ) ( 63 64 4 ) ( 63 64 3.5 ) nod/MS_Sky_Stormy_Clouds_a 0 -13 0 1.000000 1.000000 0 0 0
+( -64.5 -62 4 ) ( 63 -62 4 ) ( 63 -62 3.5 ) nod/MS_Sky_Stormy_Clouds_a 1 -13 0 1.000000 1.000000 0 0 0
+( 63 64 -2 ) ( -64.5 64 -2 ) ( -64.5 -62 -2 ) nod/MS_Sky_Stormy_Clouds_a 1 0 0 1.000000 1.000000 0 0 0
+( -64.5 64 -1.5 ) ( 63 64 -1.5 ) ( -64.5 -62 -1.5 ) nod/placeholder 1 0 0 1.000000 1.000000 0 0 0
+}
+}
+// entity 1
+{
+"angles" "0 0 0"
+"origin" "-1 -40 0"
+"nod_template_type" "7"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "Nova"
+"nod_authoring" "not-template-v2"
+"classname" "Nova"
+}
+// entity 2
+{
+"angles" "0 -45 0"
+"origin" "10 -25 0"
+"nod_template_type" "0"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "MissileTurret_spin"
+"nod_authoring" "not-template-v2"
+"classname" "MissileTurret_spin"
+}
+// entity 3
+{
+"classname" "bunker"
+"nod_authoring" "not-template-v2"
+"nod_template" "bunker"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "2"
+"origin" "-19 -19 0"
+"angles" "0 45 0"
+}
+// entity 4
+{
+"angles" "0 45 0"
+"origin" "-3 32 0"
+"nod_template_type" "0"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "infestedCommandCenter"
+"nod_authoring" "not-template-v2"
+"classname" "infestedCommandCenter"
+}
+// entity 5
+{
+"angles" "0 135 0"
+"origin" "-5 7 0"
+"nod_template_type" "0"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "siegeTank"
+"nod_authoring" "not-template-v2"
+"classname" "siegeTank"
+}
+// entity 6
+{
+"angles" "0 0 0"
+"origin" "1 -40 0"
+"nod_template_type" "2"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "Vulture"
+"nod_authoring" "not-template-v2"
+"classname" "Vulture"
+}
+// entity 7
+{
+"angles" "0 0 0"
+"origin" "-18 -4 0"
+"nod_template_type" "2"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "MS_boulder_A"
+"nod_authoring" "not-template-v2"
+"classname" "MS_boulder_A"
+}
+// entity 8
+{
+"angles" "0 0 0"
+"origin" "-2 -6 0"
+"nod_template_type" "0"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "dragoon"
+"nod_authoring" "not-template-v2"
+"classname" "dragoon"
+}
