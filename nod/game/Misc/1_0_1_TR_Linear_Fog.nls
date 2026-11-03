@@ -1,0 +1,8 @@
+1_0_1_TR_LFOG                    Linear Fog
+1_0_1_O00                        1. Check fog fading with distance.
+1_0_1_O01                        2. Check east distance targets.
+1_0_1_O02                        3. Check northeast materials and light.
+1_0_1_O03                        4. Check northwest models and pickups.
+1_0_1_O04                        5. Try south stairs, ramps and doorways.
+1_0_1_O05                        6. Test west sounds and reverb.
+1_0_1_O06                        7. Return to the start.

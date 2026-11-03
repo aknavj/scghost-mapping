@@ -1,0 +1,318 @@
+// entity 0
+{
+"nod_light_spacing" "256"
+"classname" "worldspawn"
+// brush 0
+{
+( -26.4000072 28.5000057 -1.60000181 ) ( 27.9999905 28.5000057 -1.60000181 ) ( 27.9999905 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 2484 0 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 -1.60000181 ) ( -26.4000072 -25.8999958 -3.4570694e-06 ) ( 27.9999905 -25.8999958 -3.4570694e-06 ) nod/defaultgrid16 2484 0 0 0.010625 0.000312 0 0 0
+( 27.9999905 -25.8999958 -1.60000181 ) ( 27.9999905 -25.8999958 -3.4570694e-06 ) ( 27.9999905 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 2437 0 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 -1.60000181 ) ( -26.4000072 28.5000057 -1.60000181 ) ( -26.4000072 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 2437 0 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 -3.4570694e-06 ) ( -26.4000072 28.5000057 -3.4570694e-06 ) ( 27.9999905 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 2484 2682 0 0.010625 0.010625 0 0 0
+( -26.4000072 -25.8999958 -1.60000181 ) ( 27.9999905 -25.8999958 -1.60000181 ) ( 27.9999905 28.5000057 -1.60000181 ) nod/defaultgrid16 2484 2682 0 0.010625 0.010625 0 0 0
+}
+// brush 1
+{
+( -26.4000072 28.5000057 25.5999985 ) ( 27.9999905 28.5000057 25.5999985 ) ( 27.9999905 28.5000057 27.1999893 ) nod/defaultgrid16 2484 87040 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 25.5999985 ) ( -26.4000072 -25.8999958 27.1999893 ) ( 27.9999905 -25.8999958 27.1999893 ) nod/defaultgrid16 2484 87040 0 0.010625 0.000312 0 0 0
+( 27.9999905 -25.8999958 25.5999985 ) ( 27.9999905 -25.8999958 27.1999893 ) ( 27.9999905 28.5000057 27.1999893 ) nod/defaultgrid16 2437 87040 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 25.5999985 ) ( -26.4000072 28.5000057 25.5999985 ) ( -26.4000072 28.5000057 27.1999893 ) nod/defaultgrid16 2437 87040 0 0.010625 0.000312 0 0 0
+( -26.4000072 -25.8999958 27.1999893 ) ( -26.4000072 28.5000057 27.1999893 ) ( 27.9999905 28.5000057 27.1999893 ) nod/defaultgrid16 2484 2682 0 0.010625 0.010625 0 0 0
+( -26.4000072 -25.8999958 25.5999985 ) ( 27.9999905 -25.8999958 25.5999985 ) ( 27.9999905 28.5000057 25.5999985 ) nod/defaultgrid16 2484 2682 0 0.010625 0.010625 0 0 0
+}
+// brush 2
+{
+( -26.4000072 28.5000057 -3.4570694e-06 ) ( -24.800005 28.5000057 -3.4570694e-06 ) ( -24.800005 28.5000057 25.5999985 ) nod/defaultgrid16 84479 5119 0 0.000313 0.005000 0 0 0
+( -26.4000072 -25.8999958 -3.4570694e-06 ) ( -26.4000072 -25.8999958 25.5999985 ) ( -24.800005 -25.8999958 25.5999985 ) nod/defaultgrid16 84479 5119 0 0.000313 0.005000 0 0 0
+( -24.800005 -25.8999958 -3.4570694e-06 ) ( -24.800005 -25.8999958 25.5999985 ) ( -24.800005 28.5000057 25.5999985 ) nod/defaultgrid16 2437 5119 0 0.010625 0.005000 0 0 0
+( -26.4000072 -25.8999958 -3.4570694e-06 ) ( -26.4000072 28.5000057 -3.4570694e-06 ) ( -26.4000072 28.5000057 25.5999985 ) nod/defaultgrid16 2437 5119 0 0.010625 0.005000 0 0 0
+( -26.4000072 -25.8999958 25.5999985 ) ( -26.4000072 28.5000057 25.5999985 ) ( -24.800005 28.5000057 25.5999985 ) nod/defaultgrid16 84479 2682 0 0.000313 0.010625 0 0 0
+( -26.4000072 -25.8999958 -3.4570694e-06 ) ( -24.800005 -25.8999958 -3.4570694e-06 ) ( -24.800005 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 84479 2682 0 0.000313 0.010625 0 0 0
+}
+// brush 3
+{
+( 26.399992 28.5000057 -3.4570694e-06 ) ( 27.9999905 28.5000057 -3.4570694e-06 ) ( 27.9999905 28.5000057 25.5999985 ) nod/defaultgrid16 -84480 5119 0 0.000312 0.005000 0 0 0
+( 26.399992 -25.8999958 -3.4570694e-06 ) ( 26.399992 -25.8999958 25.5999985 ) ( 27.9999905 -25.8999958 25.5999985 ) nod/defaultgrid16 -84480 5119 0 0.000312 0.005000 0 0 0
+( 27.9999905 -25.8999958 -3.4570694e-06 ) ( 27.9999905 -25.8999958 25.5999985 ) ( 27.9999905 28.5000057 25.5999985 ) nod/defaultgrid16 2437 5119 0 0.010625 0.005000 0 0 0
+( 26.399992 -25.8999958 -3.4570694e-06 ) ( 26.399992 28.5000057 -3.4570694e-06 ) ( 26.399992 28.5000057 25.5999985 ) nod/defaultgrid16 2437 5119 0 0.010625 0.005000 0 0 0
+( 26.399992 -25.8999958 25.5999985 ) ( 26.399992 28.5000057 25.5999985 ) ( 27.9999905 28.5000057 25.5999985 ) nod/defaultgrid16 -84480 2682 0 0.000312 0.010625 0 0 0
+( 26.399992 -25.8999958 -3.4570694e-06 ) ( 27.9999905 -25.8999958 -3.4570694e-06 ) ( 27.9999905 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 -84480 2682 0 0.000312 0.010625 0 0 0
+}
+// brush 4
+{
+( -24.800005 -24.2999954 -3.4570694e-06 ) ( 26.399992 -24.2999954 -3.4570694e-06 ) ( 26.399992 -24.2999954 25.5999985 ) nod/defaultgrid16 2480 5119 0 0.010000 0.005000 0 0 0
+( -24.800005 -25.8999958 -3.4570694e-06 ) ( -24.800005 -25.8999958 25.5999985 ) ( 26.399992 -25.8999958 25.5999985 ) nod/defaultgrid16 2480 5119 0 0.010000 0.005000 0 0 0
+( 26.399992 -25.8999958 -3.4570694e-06 ) ( 26.399992 -25.8999958 25.5999985 ) ( 26.399992 -24.2999954 25.5999985 ) nod/defaultgrid16 82879 5119 0 0.000313 0.005000 0 0 0
+( -24.800005 -25.8999958 -3.4570694e-06 ) ( -24.800005 -24.2999954 -3.4570694e-06 ) ( -24.800005 -24.2999954 25.5999985 ) nod/defaultgrid16 82879 5119 0 0.000313 0.005000 0 0 0
+( -24.800005 -25.8999958 25.5999985 ) ( -24.800005 -24.2999954 25.5999985 ) ( 26.399992 -24.2999954 25.5999985 ) nod/defaultgrid16 2480 -77759 0 0.010000 0.000313 0 0 0
+( -24.800005 -25.8999958 -3.4570694e-06 ) ( 26.399992 -25.8999958 -3.4570694e-06 ) ( 26.399992 -24.2999954 -3.4570694e-06 ) nod/defaultgrid16 2480 -77759 0 0.010000 0.000313 0 0 0
+}
+// brush 5
+{
+( -24.800005 28.5000057 -3.4570694e-06 ) ( 26.399992 28.5000057 -3.4570694e-06 ) ( 26.399992 28.5000057 25.5999985 ) nod/defaultgrid16 2480 5119 0 0.010000 0.005000 0 0 0
+( -24.800005 26.9000053 -3.4570694e-06 ) ( -24.800005 26.9000053 25.5999985 ) ( 26.399992 26.9000053 25.5999985 ) nod/defaultgrid16 2480 5119 0 0.010000 0.005000 0 0 0
+( 26.399992 26.9000053 -3.4570694e-06 ) ( 26.399992 26.9000053 25.5999985 ) ( 26.399992 28.5000057 25.5999985 ) nod/defaultgrid16 -86080 5119 0 0.000313 0.005000 0 0 0
+( -24.800005 26.9000053 -3.4570694e-06 ) ( -24.800005 28.5000057 -3.4570694e-06 ) ( -24.800005 28.5000057 25.5999985 ) nod/defaultgrid16 -86080 5119 0 0.000313 0.005000 0 0 0
+( -24.800005 26.9000053 25.5999985 ) ( -24.800005 28.5000057 25.5999985 ) ( 26.399992 28.5000057 25.5999985 ) nod/defaultgrid16 2480 91200 0 0.010000 0.000313 0 0 0
+( -24.800005 26.9000053 -3.4570694e-06 ) ( 26.399992 26.9000053 -3.4570694e-06 ) ( 26.399992 28.5000057 -3.4570694e-06 ) nod/defaultgrid16 2480 91200 0 0.010000 0.000313 0 0 0
+}
+}
+// entity 1
+{
+"nod_template_type" "7"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "Nova"
+"nod_authoring" "not-template-v2"
+"angles" "0 0 0"
+"origin" "0 0 64"
+"classname" "Nova"
+}
+// entity 2
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "4 0 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_step_0"
+"nod_prop_15" "cObjectiveUpdate"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "7"
+"nod_script_kind_10" "2"
+"nod_script_kind_11" "1"
+"nod_script_kind_12" "7"
+"nod_script_kind_13" "7"
+"nod_script_kind_14" "1"
+"nod_script_kind_15" "1"
+"nod_script_kind_16" "3"
+"nod_script_kind_2" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_5" "7"
+"nod_script_kind_6" "3"
+"nod_script_kind_7" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_9" "3"
+"nod_script_param_0" "1"
+"nod_script_param_1" "1_3_0_O00"
+"nod_script_param_10" "0"
+"nod_script_param_11" "0"
+"nod_script_param_12" ""
+"nod_script_param_13" ""
+"nod_script_param_14" "0"
+"nod_script_param_15" "0"
+"nod_script_param_16" "-2"
+"nod_script_param_2" ""
+"nod_script_param_3" ""
+"nod_script_param_4" ""
+"nod_script_param_5" ""
+"nod_script_param_6" "tr_route_step_1"
+"nod_script_param_7" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_9" "-2"
+"nod_script_param_count" "17"
+}
+// entity 3
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "4 0 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_marker_0"
+"nod_prop_15" "cRegionSave"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "1"
+"nod_script_param_0" "0"
+"nod_script_param_1" "0"
+"nod_script_param_count" "2"
+}
+// entity 4
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "0 4 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_step_1"
+"nod_prop_15" "cObjectiveUpdate"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "7"
+"nod_script_kind_10" "2"
+"nod_script_kind_11" "1"
+"nod_script_kind_12" "7"
+"nod_script_kind_13" "7"
+"nod_script_kind_14" "1"
+"nod_script_kind_15" "1"
+"nod_script_kind_16" "3"
+"nod_script_kind_2" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_5" "7"
+"nod_script_kind_6" "3"
+"nod_script_kind_7" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_9" "3"
+"nod_script_param_0" "0"
+"nod_script_param_1" "1_3_0_O01"
+"nod_script_param_10" "0"
+"nod_script_param_11" "0"
+"nod_script_param_12" ""
+"nod_script_param_13" ""
+"nod_script_param_14" "0"
+"nod_script_param_15" "0"
+"nod_script_param_16" "-2"
+"nod_script_param_2" ""
+"nod_script_param_3" ""
+"nod_script_param_4" ""
+"nod_script_param_5" ""
+"nod_script_param_6" "tr_route_step_2"
+"nod_script_param_7" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_9" "-2"
+"nod_script_param_count" "17"
+}
+// entity 5
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "0 4 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_marker_1"
+"nod_prop_15" "cRegionSave"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "1"
+"nod_script_param_0" "1"
+"nod_script_param_1" "0"
+"nod_script_param_count" "2"
+}
+// entity 6
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "0 0 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_step_2"
+"nod_prop_15" "cObjectiveUpdate"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "7"
+"nod_script_kind_10" "2"
+"nod_script_kind_11" "1"
+"nod_script_kind_12" "7"
+"nod_script_kind_13" "7"
+"nod_script_kind_14" "1"
+"nod_script_kind_15" "1"
+"nod_script_kind_16" "3"
+"nod_script_kind_2" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_5" "7"
+"nod_script_kind_6" "3"
+"nod_script_kind_7" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_9" "3"
+"nod_script_param_0" "0"
+"nod_script_param_1" "1_3_0_O02"
+"nod_script_param_10" "0"
+"nod_script_param_11" "0"
+"nod_script_param_12" ""
+"nod_script_param_13" ""
+"nod_script_param_14" "0"
+"nod_script_param_15" "0"
+"nod_script_param_16" "-2"
+"nod_script_param_2" ""
+"nod_script_param_3" ""
+"nod_script_param_4" ""
+"nod_script_param_5" ""
+"nod_script_param_6" "tr_route_advance"
+"nod_script_param_7" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_9" "-2"
+"nod_script_param_count" "17"
+}
+// entity 7
+{
+"classname" "trigger_region"
+"nod_authoring" "not-template-v2"
+"nod_template" "trigger_region"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "3"
+"origin" "0 0 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_marker_2"
+"nod_prop_15" "cRegionSave"
+"nod_frame_count" "0"
+"nod_region_max" ".75 .75 2.4"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "1"
+"nod_script_kind_1" "1"
+"nod_script_param_0" "2"
+"nod_script_param_1" "0"
+"nod_script_param_count" "2"
+}
+// entity 8
+{
+"classname" "script_object"
+"nod_authoring" "not-template-v2"
+"nod_template" "script_object"
+"nod_template_archive" "global.not"
+"nod_template_archives" ""
+"nod_template_type" "2"
+"origin" "0 0 -0"
+"angles" "0 0 0"
+"targetname" "tr_route_advance"
+"nod_prop_15" "cMissionNext"
+"nod_frame_count" "0"
+"nod_script_authoring" "parameters-v1"
+"nod_script_kind_0" "2"
+"nod_script_param_0" "3"
+"nod_script_param_count" "1"
+}
+// entity 9
+{
+"radius" "25"
+"light" "8"
+"_color" "1 1 1"
+"origin" "0.100000262 1.30000007 12.4999762"
+"classname" "nod_static_light"
+}

@@ -1,0 +1,8 @@
+1_0_0_TR_DEF                     Default
+1_0_0_O00                        1. Check courtyard depth.
+1_0_0_O01                        2. Check east distance targets.
+1_0_0_O02                        3. Check northeast materials and light.
+1_0_0_O03                        4. Check northwest models and pickups.
+1_0_0_O04                        5. Try south stairs, ramps and doorways.
+1_0_0_O05                        6. Test west sounds and reverb.
+1_0_0_O06                        7. Return to the start.

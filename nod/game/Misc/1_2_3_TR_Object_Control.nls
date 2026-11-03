@@ -1,0 +1,7 @@
+1_2_3_TR_OBJCTL                  Test Room: Object Manipulation
+1_2_3_O00                        1. Disable collision and visibility.
+1_2_3_O01                        2. Re-enable collision.
+1_2_3_O02                        3. Change shader frames, not RGB.
+1_2_3_O03                        4. Remove the target crate.
+1_2_3_O04                        5. Activate crate physics.
+1_2_3_O05                        6. Return to the start.

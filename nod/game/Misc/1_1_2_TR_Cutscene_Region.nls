@@ -1,0 +1,4 @@
+1_1_2_TR_CUT                     Test Room: Cutscene Region
+1_1_2_O00                        1. Play the left scene; pass its gate.
+1_1_2_O01                        2. Try the right scene; pass its gate.
+1_1_2_O02                        3. Return to the start.

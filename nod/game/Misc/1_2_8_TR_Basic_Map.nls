@@ -1,0 +1,5 @@
+1_2_8_TR_BASIC                   Test Room: Basic Map
+1_2_8_O00                        1. Check geometry and sky.
+1_2_8_O01                        2. Check actor and prop placements.
+1_2_8_O02                        3. Check pickups and model samples.
+1_2_8_O03                        4. Return to the start.

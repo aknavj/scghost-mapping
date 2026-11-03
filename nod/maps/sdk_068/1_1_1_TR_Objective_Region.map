@@ -1,0 +1,502 @@
+// entity 0
+{
+"nod_far_clip" "60"
+"nod_light_spacing" "24"
+"classname" "worldspawn"
+// brush 0
+{
+( -5 12 -2.29999995 ) ( 5 12 -2.29999995 ) ( 5 12 -2 ) nod/AR_FloorSwirly_blu_01 0 0 0 0.003906 0.003906 0 0 0
+( -5 -2 -2.29999995 ) ( -5 -2 -2 ) ( 5 -2 -2 ) nod/AR_FloorSwirly_blu_01 0 0 0 0.003906 0.003906 0 0 0
+( 5 -2 -2.29999995 ) ( 5 -2 -2 ) ( 5 12 -2 ) nod/AR_FloorSwirly_blu_01 256 0 0 0.003906 0.003906 0 0 0
+( -5 -2 -2.29999995 ) ( -5 12 -2.29999995 ) ( -5 12 -2 ) nod/AR_FloorSwirly_blu_01 256 0 0 0.003906 0.003906 0 0 0
+( -5 -2 -2 ) ( -5 12 -2 ) ( 5 12 -2 ) nod/AR_FloorSwirly_blu_01 0 -256 0 0.003906 0.003906 0 0 0
+( -5 -2 -2.29999995 ) ( 5 -2 -2.29999995 ) ( 5 12 -2.29999995 ) nod/AR_FloorSwirly_blu_01 0 -256 0 0.003906 0.003906 0 0 0
+}
+// brush 1
+{
+( -5.30000019 12.3000002 -2 ) ( -5 12.3000002 -2 ) ( -5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -5.30000019 -2.30000019 -2 ) ( -5.30000019 -2.30000019 3.20000005 ) ( -5 -2.30000019 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -5 -2.30000019 -2 ) ( -5 -2.30000019 3.20000005 ) ( -5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5.30000019 -2.30000019 -2 ) ( -5.30000019 12.3000002 -2 ) ( -5.30000019 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5.30000019 -2.30000019 3.20000005 ) ( -5.30000019 12.3000002 3.20000005 ) ( -5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( -5.30000019 -2.30000019 -2 ) ( -5 -2.30000019 -2 ) ( -5 12.3000002 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 2
+{
+( 5 12.3000002 -2 ) ( 5.30000019 12.3000002 -2 ) ( 5.30000019 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 5 -2.30000019 -2 ) ( 5 -2.30000019 3.20000005 ) ( 5.30000019 -2.30000019 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 5.30000019 -2.30000019 -2 ) ( 5.30000019 -2.30000019 3.20000005 ) ( 5.30000019 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( 5 -2.30000019 -2 ) ( 5 12.3000002 -2 ) ( 5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( 5 -2.30000019 3.20000005 ) ( 5 12.3000002 3.20000005 ) ( 5.30000019 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( 5 -2.30000019 -2 ) ( 5.30000019 -2.30000019 -2 ) ( 5.30000019 12.3000002 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 3
+{
+( -5 -2 -2 ) ( 5 -2 -2 ) ( 5 -2 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -5 -2.30000019 -2 ) ( -5 -2.30000019 3.20000005 ) ( 5 -2.30000019 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 5 -2.30000019 -2 ) ( 5 -2.30000019 3.20000005 ) ( 5 -2 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 -2.30000019 -2 ) ( -5 -2 -2 ) ( -5 -2 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 -2.30000019 3.20000005 ) ( -5 -2 3.20000005 ) ( 5 -2 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( -5 -2.30000019 -2 ) ( 5 -2.30000019 -2 ) ( 5 -2 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 4
+{
+( -5 12.3000002 -2 ) ( 5 12.3000002 -2 ) ( 5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -5 12 -2 ) ( -5 12 3.20000005 ) ( 5 12 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 5 12 -2 ) ( 5 12 3.20000005 ) ( 5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 12 -2 ) ( -5 12.3000002 -2 ) ( -5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 12 3.20000005 ) ( -5 12.3000002 3.20000005 ) ( 5 12.3000002 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( -5 12 -2 ) ( 5 12 -2 ) ( 5 12.3000002 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 5
+{
+( -5 7.19999981 -2 ) ( -0.769231021 7.19999981 -2 ) ( -0.769231021 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -5 6.80000019 -2 ) ( -5 6.80000019 3.20000005 ) ( -0.769231021 6.80000019 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( -0.769231021 6.80000019 -2 ) ( -0.769231021 6.80000019 3.20000005 ) ( -0.769231021 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 6.80000019 -2 ) ( -5 7.19999981 -2 ) ( -5 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( -5 6.80000019 3.20000005 ) ( -5 7.19999981 3.20000005 ) ( -0.769231021 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( -5 6.80000019 -2 ) ( -0.769231021 6.80000019 -2 ) ( -0.769231021 7.19999981 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 6
+{
+( 0.769231081 7.19999981 -2 ) ( 5 7.19999981 -2 ) ( 5 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 0.769231081 6.80000019 -2 ) ( 0.769231081 6.80000019 3.20000005 ) ( 5 6.80000019 3.20000005 ) nod/AR_Panel_Wall2 0 0 0 0.007812 0.007812 0 0 0
+( 5 6.80000019 -2 ) ( 5 6.80000019 3.20000005 ) ( 5 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( 0.769231081 6.80000019 -2 ) ( 0.769231081 7.19999981 -2 ) ( 0.769231081 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 -640 0 0 0.007812 0.007812 0 0 0
+( 0.769231081 6.80000019 3.20000005 ) ( 0.769231081 7.19999981 3.20000005 ) ( 5 7.19999981 3.20000005 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+( 0.769231081 6.80000019 -2 ) ( 5 6.80000019 -2 ) ( 5 7.19999981 -2 ) nod/AR_Panel_Wall2 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 7
+{
+( -0.769231021 7.19999981 0.557698011 ) ( 0.769231081 7.19999981 0.557698011 ) ( 0.769231081 7.19999981 3.20000005 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( -0.769231021 6.80000019 0.557698011 ) ( -0.769231021 6.80000019 3.20000005 ) ( 0.769231081 6.80000019 3.20000005 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( 0.769231081 6.80000019 0.557698011 ) ( 0.769231081 6.80000019 3.20000005 ) ( 0.769231081 7.19999981 3.20000005 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -0.769231021 6.80000019 0.557698011 ) ( -0.769231021 7.19999981 0.557698011 ) ( -0.769231021 7.19999981 3.20000005 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -0.769231021 6.80000019 3.20000005 ) ( -0.769231021 7.19999981 3.20000005 ) ( 0.769231081 7.19999981 3.20000005 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+( -0.769231021 6.80000019 0.557698011 ) ( 0.769231081 6.80000019 0.557698011 ) ( 0.769231081 7.19999981 0.557698011 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+}
+// brush 8
+{
+( -1.10000002 5 -2 ) ( -1 5 -2 ) ( -1 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( -1.10000002 3 -2 ) ( -1.10000002 3 -1.99000001 ) ( -1 3 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( -1 3 -2 ) ( -1 3 -1.99000001 ) ( -1 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( -1.10000002 3 -2 ) ( -1.10000002 5 -2 ) ( -1.10000002 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( -1.10000002 3 -1.99000001 ) ( -1.10000002 5 -1.99000001 ) ( -1 5 -1.99000001 ) nod/AR_PylonPanel_01 0 128 0 0.007812 0.007812 0 0 0
+( -1.10000002 3 -2 ) ( -1 3 -2 ) ( -1 5 -2 ) nod/AR_PylonPanel_01 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 9
+{
+( 1 5 -2 ) ( 1.10000002 5 -2 ) ( 1.10000002 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( 1 3 -2 ) ( 1 3 -1.99000001 ) ( 1.10000002 3 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( 1.10000002 3 -2 ) ( 1.10000002 3 -1.99000001 ) ( 1.10000002 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( 1 3 -2 ) ( 1 5 -2 ) ( 1 5 -1.99000001 ) nod/AR_PylonPanel_01 0 0 0 0.007812 0.007812 0 0 0
+( 1 3 -1.99000001 ) ( 1 5 -1.99000001 ) ( 1.10000002 5 -1.99000001 ) nod/AR_PylonPanel_01 0 128 0 0.007812 0.007812 0 0 0
+( 1 3 -2 ) ( 1.10000002 3 -2 ) ( 1.10000002 5 -2 ) nod/AR_PylonPanel_01 0 128 0 0.007812 0.007812 0 0 0
+}
+// brush 10
+{
+( -1.10000002 3 -2 ) ( 1.10000002 3 -2 ) ( 1.10000002 3 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 2.9000001 -2 ) ( -1.10000002 2.9000001 -1.99000001 ) ( 1.10000002 2.9000001 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( 1.10000002 2.9000001 -2 ) ( 1.10000002 2.9000001 -1.99000001 ) ( 1.10000002 3 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 2.9000001 -2 ) ( -1.10000002 3 -2 ) ( -1.10000002 3 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 2.9000001 -1.99000001 ) ( -1.10000002 3 -1.99000001 ) ( 1.10000002 3 -1.99000001 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+( -1.10000002 2.9000001 -2 ) ( 1.10000002 2.9000001 -2 ) ( 1.10000002 3 -2 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+}
+// brush 11
+{
+( -1.10000002 5.0999999 -2 ) ( 1.10000002 5.0999999 -2 ) ( 1.10000002 5.0999999 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 5 -2 ) ( -1.10000002 5 -1.99000001 ) ( 1.10000002 5 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( 1.10000002 5 -2 ) ( 1.10000002 5 -1.99000001 ) ( 1.10000002 5.0999999 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 5 -2 ) ( -1.10000002 5.0999999 -2 ) ( -1.10000002 5.0999999 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -1.10000002 5 -1.99000001 ) ( -1.10000002 5.0999999 -1.99000001 ) ( 1.10000002 5.0999999 -1.99000001 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+( -1.10000002 5 -2 ) ( 1.10000002 5 -2 ) ( 1.10000002 5.0999999 -2 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+}
+// brush 12
+{
+( -0.0600000024 2.9000001 -2 ) ( 0.0600000024 2.9000001 -2 ) ( 0.0600000024 2.9000001 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( -0.0600000024 0 -2 ) ( -0.0600000024 0 -1.99000001 ) ( 0.0600000024 0 -1.99000001 ) nod/AR_TrimBar_gld_02 0 0 0 0.007812 0.003125 0 0 0
+( 0.0600000024 0 -2 ) ( 0.0600000024 0 -1.99000001 ) ( 0.0600000024 2.9000001 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -0.0600000024 0 -2 ) ( -0.0600000024 2.9000001 -2 ) ( -0.0600000024 2.9000001 -1.99000001 ) nod/AR_TrimBar_gld_02 -128 0 0 0.007812 0.003125 0 0 0
+( -0.0600000024 0 -1.99000001 ) ( -0.0600000024 2.9000001 -1.99000001 ) ( 0.0600000024 2.9000001 -1.99000001 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+( -0.0600000024 0 -2 ) ( 0.0600000024 0 -2 ) ( 0.0600000024 2.9000001 -2 ) nod/AR_TrimBar_gld_02 0 -64 0 0.007812 0.003125 0 0 0
+}
+}
+// entity 1
+{
+"radius" "25"
+"light" "8"
+"_color" ".75 .85 1"
+"origin" "0 3 1"
+"classname" "nod_static_light"
+}
+// entity 2
+{
+"nod_script_param_count" "17"
+"nod_script_param_9" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_7" "-2"
+"nod_script_param_6" "tr_route_gate_fanout"
+"nod_script_param_5" ""
+"nod_script_param_4" ""
+"nod_script_param_3" ""
+"nod_script_param_2" ""
+"nod_script_param_16" "-2"
+"nod_script_param_15" "0"
+"nod_script_param_14" "0"
+"nod_script_param_13" ""
+"nod_script_param_12" ""
+"nod_script_param_11" "0"
+"nod_script_param_10" "0"
+"nod_script_param_1" "1_1_1_O00"
+"nod_script_param_0" "1"
+"nod_script_kind_9" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_7" "3"
+"nod_script_kind_6" "3"
+"nod_script_kind_5" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_2" "7"
+"nod_script_kind_16" "3"
+"nod_script_kind_15" "1"
+"nod_script_kind_14" "1"
+"nod_script_kind_13" "7"
+"nod_script_kind_12" "7"
+"nod_script_kind_11" "1"
+"nod_script_kind_10" "2"
+"nod_script_kind_1" "7"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-1 -1 0"
+"nod_region_max" "1 1 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cObjectiveUpdate"
+"targetname" "complete_objective"
+"angles" "0 0 0"
+"origin" "0 4 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+// entity 3
+{
+"nod_prop_7" "0.769230783 0.187500015 1.27884889"
+"nod_prop_6" "-0.769226372 -0.187502265 -1.27884889"
+"nod_prop_166" "MS_131_Door.NOC"
+"nod_prop_4" "MS_131_Door.nod"
+"nod_script_param_count" "11"
+"nod_script_param_9" "0.100000001"
+"nod_script_param_8" "0"
+"nod_script_param_7" "-2"
+"nod_script_param_6" "-2"
+"nod_script_param_5" "-2"
+"nod_script_param_4" "-2"
+"nod_script_param_3" "0"
+"nod_script_param_2" "4294967295"
+"nod_script_param_10" "1"
+"nod_script_param_1" "2"
+"nod_script_param_0" "1"
+"nod_script_kind_9" "2"
+"nod_script_kind_8" "1"
+"nod_script_kind_7" "3"
+"nod_script_kind_6" "3"
+"nod_script_kind_5" "3"
+"nod_script_kind_4" "3"
+"nod_script_kind_3" "1"
+"nod_script_kind_2" "1"
+"nod_script_kind_10" "2"
+"nod_script_kind_1" "2"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_frame_sector_1" "0"
+"nod_frame_sector_0" "0"
+"nod_frame_rotation_1" "0 0 0"
+"nod_frame_rotation_0" "0 0 0"
+"nod_frame_origin_1" "0 7 2.27884889"
+"nod_frame_origin_0" "0 7 -0.721151114"
+"nod_frame_count" "2"
+"nod_prop_15" "cDoorMove"
+"targetname" "objective_gate"
+"angles" "0 0 0"
+"origin" "0 7 -0.721151114"
+"nod_template_type" "2"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "floatingPlatform_432"
+"nod_authoring" "not-template-v2"
+"classname" "floatingPlatform_432"
+}
+
+// Ordered inspection route; native HUD markers, no automatic conformance verdict.
+{
+"nod_script_param_count" "36"
+"nod_script_param_9" "-2"
+"nod_script_param_8" "0 0 0 0"
+"nod_script_param_7" "0"
+"nod_script_param_6" "-2"
+"nod_script_param_5" "1 0 0 0"
+"nod_script_param_4" "0"
+"nod_script_param_35" "0 0 0 0"
+"nod_script_param_34" "0"
+"nod_script_param_33" "-2"
+"nod_script_param_32" "0 0 0 0"
+"nod_script_param_31" "0"
+"nod_script_param_30" "-2"
+"nod_script_param_3" "tr_route_step_1"
+"nod_script_param_29" "0 0 0 0"
+"nod_script_param_28" "0"
+"nod_script_param_27" "-2"
+"nod_script_param_26" "0 0 0 0"
+"nod_script_param_25" "0"
+"nod_script_param_24" "-2"
+"nod_script_param_23" "0 0 0 0"
+"nod_script_param_22" "0"
+"nod_script_param_21" "-2"
+"nod_script_param_20" "0 0 0 0"
+"nod_script_param_2" "1 0 0 0"
+"nod_script_param_19" "0"
+"nod_script_param_18" "-2"
+"nod_script_param_17" "0 0 0 0"
+"nod_script_param_16" "0"
+"nod_script_param_15" "-2"
+"nod_script_param_14" "0 0 0 0"
+"nod_script_param_13" "0"
+"nod_script_param_12" "-2"
+"nod_script_param_11" "0 0 0 0"
+"nod_script_param_10" "0"
+"nod_script_param_1" "0"
+"nod_script_param_0" "objective_gate"
+"nod_script_kind_9" "3"
+"nod_script_kind_8" "7"
+"nod_script_kind_7" "2"
+"nod_script_kind_6" "3"
+"nod_script_kind_5" "7"
+"nod_script_kind_4" "2"
+"nod_script_kind_35" "7"
+"nod_script_kind_34" "2"
+"nod_script_kind_33" "3"
+"nod_script_kind_32" "7"
+"nod_script_kind_31" "2"
+"nod_script_kind_30" "3"
+"nod_script_kind_3" "3"
+"nod_script_kind_29" "7"
+"nod_script_kind_28" "2"
+"nod_script_kind_27" "3"
+"nod_script_kind_26" "7"
+"nod_script_kind_25" "2"
+"nod_script_kind_24" "3"
+"nod_script_kind_23" "7"
+"nod_script_kind_22" "2"
+"nod_script_kind_21" "3"
+"nod_script_kind_20" "7"
+"nod_script_kind_2" "7"
+"nod_script_kind_19" "2"
+"nod_script_kind_18" "3"
+"nod_script_kind_17" "7"
+"nod_script_kind_16" "2"
+"nod_script_kind_15" "3"
+"nod_script_kind_14" "7"
+"nod_script_kind_13" "2"
+"nod_script_kind_12" "3"
+"nod_script_kind_11" "7"
+"nod_script_kind_10" "2"
+"nod_script_kind_1" "2"
+"nod_script_kind_0" "3"
+"nod_script_authoring" "parameters-v1"
+"nod_frame_count" "0"
+"nod_prop_15" "cTriggerRelay"
+"targetname" "tr_route_gate_fanout"
+"angles" "0 0 0"
+"origin" "0 4 -2"
+"nod_template_type" "2"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "script_object"
+"nod_authoring" "not-template-v2"
+"classname" "script_object"
+}
+{
+"nod_script_param_count" "2"
+"nod_script_param_1" "0"
+"nod_script_param_0" "0"
+"nod_script_kind_1" "1"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_region_max" ".75 .75 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cRegionSave"
+"targetname" "tr_route_marker_0"
+"angles" "0 0 0"
+"origin" "0 4 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+{
+"nod_script_param_count" "17"
+"nod_script_param_9" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_7" "-2"
+"nod_script_param_6" "tr_route_step_2"
+"nod_script_param_5" ""
+"nod_script_param_4" ""
+"nod_script_param_3" ""
+"nod_script_param_2" ""
+"nod_script_param_16" "-2"
+"nod_script_param_15" "0"
+"nod_script_param_14" "0"
+"nod_script_param_13" ""
+"nod_script_param_12" ""
+"nod_script_param_11" "0"
+"nod_script_param_10" "0"
+"nod_script_param_1" "1_1_1_O01"
+"nod_script_param_0" "0"
+"nod_script_kind_9" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_7" "3"
+"nod_script_kind_6" "3"
+"nod_script_kind_5" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_2" "7"
+"nod_script_kind_16" "3"
+"nod_script_kind_15" "1"
+"nod_script_kind_14" "1"
+"nod_script_kind_13" "7"
+"nod_script_kind_12" "7"
+"nod_script_kind_11" "1"
+"nod_script_kind_10" "2"
+"nod_script_kind_1" "7"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_region_max" ".75 .75 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cObjectiveUpdate"
+"targetname" "tr_route_step_1"
+"angles" "0 0 0"
+"origin" "0 10 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+{
+"nod_script_param_count" "2"
+"nod_script_param_1" "0"
+"nod_script_param_0" "1"
+"nod_script_kind_1" "1"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_region_max" ".75 .75 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cRegionSave"
+"targetname" "tr_route_marker_1"
+"angles" "0 0 0"
+"origin" "0 10 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+{
+"nod_script_param_count" "17"
+"nod_script_param_9" "-2"
+"nod_script_param_8" "0"
+"nod_script_param_7" "-2"
+"nod_script_param_6" "tr_route_advance"
+"nod_script_param_5" ""
+"nod_script_param_4" ""
+"nod_script_param_3" ""
+"nod_script_param_2" ""
+"nod_script_param_16" "-2"
+"nod_script_param_15" "0"
+"nod_script_param_14" "0"
+"nod_script_param_13" ""
+"nod_script_param_12" ""
+"nod_script_param_11" "0"
+"nod_script_param_10" "0"
+"nod_script_param_1" "1_1_1_O02"
+"nod_script_param_0" "0"
+"nod_script_kind_9" "3"
+"nod_script_kind_8" "2"
+"nod_script_kind_7" "3"
+"nod_script_kind_6" "3"
+"nod_script_kind_5" "7"
+"nod_script_kind_4" "7"
+"nod_script_kind_3" "7"
+"nod_script_kind_2" "7"
+"nod_script_kind_16" "3"
+"nod_script_kind_15" "1"
+"nod_script_kind_14" "1"
+"nod_script_kind_13" "7"
+"nod_script_kind_12" "7"
+"nod_script_kind_11" "1"
+"nod_script_kind_10" "2"
+"nod_script_kind_1" "7"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_region_max" ".75 .75 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cObjectiveUpdate"
+"targetname" "tr_route_step_2"
+"angles" "0 0 0"
+"origin" "0 0 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+{
+"nod_script_param_count" "2"
+"nod_script_param_1" "0"
+"nod_script_param_0" "2"
+"nod_script_kind_1" "1"
+"nod_script_kind_0" "1"
+"nod_script_authoring" "parameters-v1"
+"nod_region_min" "-.75 -.75 -.1"
+"nod_region_max" ".75 .75 2.4"
+"nod_frame_count" "0"
+"nod_prop_15" "cRegionSave"
+"targetname" "tr_route_marker_2"
+"angles" "0 0 0"
+"origin" "0 0 -2"
+"nod_template_type" "3"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "trigger_region"
+"nod_authoring" "not-template-v2"
+"classname" "trigger_region"
+}
+{
+"nod_script_param_count" "1"
+"nod_script_param_0" "3"
+"nod_script_kind_0" "2"
+"nod_script_authoring" "parameters-v1"
+"nod_frame_count" "0"
+"nod_prop_15" "cMissionNext"
+"targetname" "tr_route_advance"
+"angles" "0 0 0"
+"origin" "0 0 -2"
+"nod_template_type" "2"
+"nod_template_archives" ""
+"nod_template_archive" "global.not"
+"nod_template" "script_object"
+"nod_authoring" "not-template-v2"
+"classname" "script_object"
+}

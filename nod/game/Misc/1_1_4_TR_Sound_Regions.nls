@@ -1,0 +1,5 @@
+1_1_4_TR_SOUNDS                  Test Room: Sound Regions
+1_1_4_O00                        1. Listen in the cyan room zone.
+1_1_4_O01                        2. Compare reverb in the gold zone.
+1_1_4_O02                        3. Exit both zones; wait over 0.5s.
+1_1_4_O03                        4. Return to the start.

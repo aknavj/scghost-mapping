@@ -1,0 +1,574 @@
+// ****************************************************************************
+//
+// GHOST SINGLE PLAYER CHRONICLE FILE
+//
+//
+// This file lists all the single player missions in the game in order.
+// It also allows setting up various data about the mission, like player vital
+// stats, available powers, calldowns, inventory, etc.
+//
+// ----------------------------------------------------------------------------
+//
+// Format:
+//
+// MISSION 		nlsName initialLevel [masterScript]
+// LOADSCREEN	screenName
+// OBJECTIVE	nlsName flags
+// STATS		health psipool
+// AMMO     maxgauss maxsnipe maxpistol maxflamethrower
+// PSIBLADE		0 | 1
+// POWERS		[cloak] [speed] [sight] [shield] [storm]
+// SIGHTFLAGS	footprint interactive burrowed critical cloaked threat
+// CALLDOWNS	[identify] [comsat] [irradiate] [emp] [arclite] [yamato] [nuke] [lockdown]
+// INVENTORY	item	quantity
+// ENDMISSION
+//
+// maxGauss 200
+// maxSnipe 50
+// maxPistol 150
+// maxFlame 1000
+//
+// Inventory items:  canister
+//                   firefly
+//                   smokegrenade CUT
+//                   stasisgrenade CUT
+//                   stickygrenade CUT
+//                   concussiongrenade CUT
+//                   empgrenade CUT
+//                   irradiategrenade CUT
+//                   flamethrower
+//                   spidermine
+//                   (health)
+//                   (lockdown)
+//
+// Notes:
+// 1) nlsName is a reference to the NLS file (display string)
+// 2) OBJECTIVE and INVENTORY can (and should :)) be repeated multiple times
+// 3) Powers and Calldowns can be listed in any order, gaps are allowed
+// 4) more keywords will be added to manage pre and post prerendered cutscenes
+//
+// ****************************************************************************
+
+// IDENTIFICATION 
+// Specifies which slot this chronicle saves its data in, and what game type this chronicle is designed for
+//
+
+PROFILEID		0
+GAMETYPE		   0
+
+// MISSIONS
+//
+
+MISSION        1_0_0_TR_DEF  1_0_0_TR_Defaults
+OBJECTIVE      1_0_0_O00 1
+OBJECTIVE      1_0_0_O01 1
+OBJECTIVE      1_0_0_O02 1
+OBJECTIVE      1_0_0_O03 1
+OBJECTIVE      1_0_0_O04 1
+OBJECTIVE      1_0_0_O05 1
+OBJECTIVE      1_0_0_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_0_TR_Defaults.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_1_TR_LFOG  1_0_1_TR_Linear_Fog
+OBJECTIVE      1_0_1_O00 1
+OBJECTIVE      1_0_1_O01 1
+OBJECTIVE      1_0_1_O02 1
+OBJECTIVE      1_0_1_O03 1
+OBJECTIVE      1_0_1_O04 1
+OBJECTIVE      1_0_1_O05 1
+OBJECTIVE      1_0_1_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_1_TR_Linear_Fog.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_2_TR_SFFOG  1_0_2_TR_Short_Far_Clip
+OBJECTIVE      1_0_2_O00 1
+OBJECTIVE      1_0_2_O01 1
+OBJECTIVE      1_0_2_O02 1
+OBJECTIVE      1_0_2_O03 1
+OBJECTIVE      1_0_2_O04 1
+OBJECTIVE      1_0_2_O05 1
+OBJECTIVE      1_0_2_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_2_TR_Short_Far_Clip.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_3_TR_SAREV  1_0_3_TR_Sky_Audio_Reverb
+OBJECTIVE      1_0_3_O00 1
+OBJECTIVE      1_0_3_O01 1
+OBJECTIVE      1_0_3_O02 1
+OBJECTIVE      1_0_3_O03 1
+OBJECTIVE      1_0_3_O04 1
+OBJECTIVE      1_0_3_O05 1
+OBJECTIVE      1_0_3_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_3_TR_Sky_Audio_Reverb.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_4_TR_EDEF  1_0_4_TR_Explicit_Default
+OBJECTIVE      1_0_4_O00 1
+OBJECTIVE      1_0_4_O01 1
+OBJECTIVE      1_0_4_O02 1
+OBJECTIVE      1_0_4_O03 1
+OBJECTIVE      1_0_4_O04 1
+OBJECTIVE      1_0_4_O05 1
+OBJECTIVE      1_0_4_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_4_TR_Explicit_Default.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_5_TR_CFOG  1_0_5_TR_Completed_Fog
+OBJECTIVE      1_0_5_O00 1
+OBJECTIVE      1_0_5_O01 1
+OBJECTIVE      1_0_5_O02 1
+OBJECTIVE      1_0_5_O03 1
+OBJECTIVE      1_0_5_O04 1
+OBJECTIVE      1_0_5_O05 1
+OBJECTIVE      1_0_5_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_5_TR_Completed_Fog.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_6_TR_RMAX  1_0_6_TR_Reverb_Max
+OBJECTIVE      1_0_6_O00 1
+OBJECTIVE      1_0_6_O01 1
+OBJECTIVE      1_0_6_O02 1
+OBJECTIVE      1_0_6_O03 1
+OBJECTIVE      1_0_6_O04 1
+OBJECTIVE      1_0_6_O05 1
+OBJECTIVE      1_0_6_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_6_TR_Reverb_Max.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_7_TR_TARENA  1_0_7_TR_Trigger_Arena
+OBJECTIVE      1_0_7_O00 1
+OBJECTIVE      1_0_7_O01 1
+OBJECTIVE      1_0_7_O02 1
+OBJECTIVE      1_0_7_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_7_TR_Trigger_Arena.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_8_TR_SMUSIC  1_0_8_TR_Sky_Audio_Music
+OBJECTIVE      1_0_8_O00 1
+OBJECTIVE      1_0_8_O01 1
+OBJECTIVE      1_0_8_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_8_TR_Sky_Audio_Music.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_0_9_TR_SAMB  1_0_9_TR_Sky_Ambient
+OBJECTIVE      1_0_9_O00 1
+OBJECTIVE      1_0_9_O01 1
+OBJECTIVE      1_0_9_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_0_9_TR_Sky_Ambient.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_0_TR_TSTRES  1_1_0_TR_Trigger_Stress
+OBJECTIVE      1_1_0_O00 1
+OBJECTIVE      1_1_0_O01 1
+OBJECTIVE      1_1_0_O02 1
+OBJECTIVE      1_1_0_O03 1
+OBJECTIVE      1_1_0_O04 1
+OBJECTIVE      1_1_0_O05 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_0_TR_Trigger_Stress.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_1_TR_OBJ  1_1_1_TR_Objective_Region
+OBJECTIVE      1_1_1_O00 1
+OBJECTIVE      1_1_1_O01 1
+OBJECTIVE      1_1_1_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_1_TR_Objective_Region.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_2_TR_CUT  1_1_2_TR_Cutscene_Region
+OBJECTIVE      1_1_2_O00 1
+OBJECTIVE      1_1_2_O01 1
+OBJECTIVE      1_1_2_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_2_TR_Cutscene_Region.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_3_TR_TIMER  1_1_3_TR_Timer_Trigger
+OBJECTIVE      1_1_3_O00 1
+OBJECTIVE      1_1_3_O01 1
+OBJECTIVE      1_1_3_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_3_TR_Timer_Trigger.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_4_TR_SOUNDS  1_1_4_TR_Sound_Regions
+OBJECTIVE      1_1_4_O00 1
+OBJECTIVE      1_1_4_O01 1
+OBJECTIVE      1_1_4_O02 1
+OBJECTIVE      1_1_4_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_4_TR_Sound_Regions.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_5_TR_SAVE  1_1_5_TR_Save_Regions
+OBJECTIVE      1_1_5_O00 1
+OBJECTIVE      1_1_5_O01 1
+OBJECTIVE      1_1_5_O02 1
+OBJECTIVE      1_1_5_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_5_TR_Save_Regions.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_6_TR_STLTH  1_1_6_TR_Stealth_Regions
+OBJECTIVE      1_1_6_O00 1
+OBJECTIVE      1_1_6_O01 1
+OBJECTIVE      1_1_6_O02 1
+OBJECTIVE      1_1_6_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_6_TR_Stealth_Regions.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_7_TR_KZRG  1_1_7_TR_Kill_Zerg
+OBJECTIVE      1_1_7_O00 1
+OBJECTIVE      1_1_7_O01 1
+OBJECTIVE      1_1_7_O02 1
+OBJECTIVE      1_1_7_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_7_TR_Kill_Zerg.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_8_TR_DMG  1_1_8_TR_Damage_Regions
+OBJECTIVE      1_1_8_O00 1
+OBJECTIVE      1_1_8_O01 1
+OBJECTIVE      1_1_8_O02 1
+OBJECTIVE      1_1_8_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_8_TR_Damage_Regions.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_1_9_TR_FOG  1_1_9_TR_Fog_Control
+OBJECTIVE      1_1_9_O00 1
+OBJECTIVE      1_1_9_O01 1
+OBJECTIVE      1_1_9_O02 1
+OBJECTIVE      1_1_9_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_1_9_TR_Fog_Control.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_0_TR_SLOOP  1_2_0_TR_Sound_Loops
+OBJECTIVE      1_2_0_O00 1
+OBJECTIVE      1_2_0_O01 1
+OBJECTIVE      1_2_0_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_0_TR_Sound_Loops.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_1_TR_FX  1_2_1_TR_FX_Particles
+OBJECTIVE      1_2_1_O00 1
+OBJECTIVE      1_2_1_O01 1
+OBJECTIVE      1_2_1_O02 1
+OBJECTIVE      1_2_1_O03 1
+OBJECTIVE      1_2_1_O04 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_1_TR_FX_Particles.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_2_TR_AMOVER  1_2_2_TR_Advanced_Movers
+OBJECTIVE      1_2_2_O00 1
+OBJECTIVE      1_2_2_O01 1
+OBJECTIVE      1_2_2_O02 1
+OBJECTIVE      1_2_2_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_2_TR_Advanced_Movers.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_3_TR_OBJCTL  1_2_3_TR_Object_Control
+OBJECTIVE      1_2_3_O00 1
+OBJECTIVE      1_2_3_O01 1
+OBJECTIVE      1_2_3_O02 1
+OBJECTIVE      1_2_3_O03 1
+OBJECTIVE      1_2_3_O04 1
+OBJECTIVE      1_2_3_O05 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_3_TR_Object_Control.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_4_TR_PMSG  1_2_4_TR_Player_Messaging
+OBJECTIVE      1_2_4_O00 1
+OBJECTIVE      1_2_4_O01 1
+OBJECTIVE      1_2_4_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_4_TR_Player_Messaging.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_5_TR_MTRANS  1_2_5_TR_Mission_Change
+OBJECTIVE      1_2_5_O00 1
+OBJECTIVE      1_2_5_O01 1
+OBJECTIVE      1_2_5_O02 1
+OBJECTIVE      1_2_5_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_5_TR_Mission_Change.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_6_TR_MAT  1_2_6_TR_Material_Preview
+OBJECTIVE      1_2_6_O00 1
+OBJECTIVE      1_2_6_O01 1
+OBJECTIVE      1_2_6_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_6_TR_Material_Preview.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_7_TR_PROPS  1_2_7_TR_Props_Preview
+OBJECTIVE      1_2_7_O00 1
+OBJECTIVE      1_2_7_O01 1
+OBJECTIVE      1_2_7_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_7_TR_Props_Preview.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_8_TR_BASIC  1_2_8_TR_Basic_Map
+OBJECTIVE      1_2_8_O00 1
+OBJECTIVE      1_2_8_O01 1
+OBJECTIVE      1_2_8_O02 1
+OBJECTIVE      1_2_8_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_8_TR_Basic_Map.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_2_9_TR_LARGE  1_2_9_TR_Large_Map
+OBJECTIVE      1_2_9_O00 1
+OBJECTIVE      1_2_9_O01 1
+OBJECTIVE      1_2_9_O02 1
+OBJECTIVE      1_2_9_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_2_9_TR_Large_Map.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_3_0_TR_ROOM  1_3_0_TR_Basic_Room
+OBJECTIVE      1_3_0_O00 1
+OBJECTIVE      1_3_0_O01 1
+OBJECTIVE      1_3_0_O02 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_3_0_TR_Basic_Room.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_3_1_TR_SCALE  1_3_1_TR_Scaling
+OBJECTIVE      1_3_1_O00 1
+OBJECTIVE      1_3_1_O01 1
+OBJECTIVE      1_3_1_O02 1
+OBJECTIVE      1_3_1_O03 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_3_1_TR_Scaling.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION
+
+MISSION        1_3_2_TR_PCOURT  1_3_2_TR_Protoss_Court
+OBJECTIVE      1_3_2_O00 1
+OBJECTIVE      1_3_2_O01 1
+OBJECTIVE      1_3_2_O02 1
+OBJECTIVE      1_3_2_O03 1
+OBJECTIVE      1_3_2_O04 1
+OBJECTIVE      1_3_2_O05 1
+OBJECTIVE      1_3_2_O06 1
+LOADSCREEN     111a_MenuImage
+LOADTEXT       1_3_2_TR_Protoss_Court.nlt
+STATS          100 100 0
+AMMO           100 25 75
+POWERS         cloak
+SIGHTFLAGS     footprint
+CALLDOWNS      identify
+INVENTORY      canister 3
+ENDMISSION

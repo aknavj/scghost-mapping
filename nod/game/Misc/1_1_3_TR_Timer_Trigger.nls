@@ -1,0 +1,4 @@
+1_1_3_TR_TIMER                   Test Room: Timer Trigger
+1_1_3_O00                        1. Pass the left timed gate.
+1_1_3_O01                        2. Pass the right alternating gate.
+1_1_3_O02                        3. Return to the start.

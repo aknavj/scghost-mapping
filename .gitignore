@@ -5,6 +5,10 @@
 *.nmb
 *.nod
 *.nodsrc
+nges
+# Required source archives for the two sky conformance maps.
+!/nod/maps/sdk_068/1_0_8_TR_Sky_Audio_Music.nodsrc
+!/nod/maps/sdk_068/1_0_9_TR_Sky_Ambient.nodsrc
 
 # Generated game-level exports; keep hand-authored MAP files visible.
 /nod/maps/[0-9]*_source.map
@@ -18,12 +22,22 @@
 
 # Local workspace backups and compiled exports.
 /nod/backups/
-/nod/compiled/
+/nod/game/Maps/
+
+# Generated native banks and merged localization; keep per-map NLS/NLT sources.
+/nod/game/Sounds/*.xsb
+/nod/game/Sounds/*.xwb
+/nod/game/Misc/game.nls
+/nod/game/Strings/game.nls
 
 # Generated NIL meshes and optional legacy OBJ/texture previews.
 /nod/models/nodpreview/
 /nod/textures/nodpreview/
 /nod/scripts/scene-preview.shader
+
+# Python bytecode from local build scripts.
+__pycache__/
+*.py[cod]
 
 # Editor recovery files and logs.
 /nod/maps/autosave.map

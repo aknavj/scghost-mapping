@@ -1,0 +1,5 @@
+1_2_5_TR_MTRANS                  Test Room: Mission Transitions
+1_2_5_O00                        1. Inspect next-mission control; it exits.
+1_2_5_O01                        2. Inspect reload controls; they reload.
+1_2_5_O02                        3. Avoid exit regions; review branches.
+1_2_5_O03                        4. Return to the start.

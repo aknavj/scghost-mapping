@@ -1,0 +1,8 @@
+1_0_4_TR_EDEF                    Test Room: Explicit Defaults
+1_0_4_O00                        1. Compare with the default scene.
+1_0_4_O01                        2. Check east distance targets.
+1_0_4_O02                        3. Check northeast materials and light.
+1_0_4_O03                        4. Check northwest models and pickups.
+1_0_4_O04                        5. Try south stairs, ramps and doorways.
+1_0_4_O05                        6. Test west sounds and reverb.
+1_0_4_O06                        7. Return to the start.

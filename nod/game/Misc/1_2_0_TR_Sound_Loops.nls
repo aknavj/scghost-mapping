@@ -1,0 +1,4 @@
+1_2_0_TR_SLOOP                   Test Room: Sound Loops
+1_2_0_O00                        1. Stop the left sound loop.
+1_2_0_O01                        2. Stop the right loop; no restart.
+1_2_0_O02                        3. Return to the start.

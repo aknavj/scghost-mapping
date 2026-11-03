@@ -1,0 +1,4 @@
+1_2_6_TR_MAT                     Test Room: Native Material Preview
+1_2_6_O00                        1. Check grid and texture scale.
+1_2_6_O01                        2. Compare materials, UVs and lighting.
+1_2_6_O02                        3. Return to the start.

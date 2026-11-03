@@ -1,0 +1,8 @@
+1_0_5_TR_CFOG                    Test Room: Completed Linear Fog
+1_0_5_O00                        1. Check full linear fog.
+1_0_5_O01                        2. Check east distance targets.
+1_0_5_O02                        3. Check northeast materials and light.
+1_0_5_O03                        4. Check northwest models and pickups.
+1_0_5_O04                        5. Try south stairs, ramps and doorways.
+1_0_5_O05                        6. Test west sounds and reverb.
+1_0_5_O06                        7. Return to the start.
