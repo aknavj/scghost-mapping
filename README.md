@@ -159,5 +159,6 @@ StarCraft: Ghost is a trademark of Blizzard Entertainment. This is an unofficial
 
 Licensed under GNU GPL v3. See individual source files for copyright notices.
 
+---
 This project uses AI-assisted development with collaborative human/AI oversight
 and human review of output.
